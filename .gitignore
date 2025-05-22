@@ -1,0 +1,6 @@
+.env
+commands.py
+path_data_backup.json
+downloaded_images
+README.md
+trackcounter.py
