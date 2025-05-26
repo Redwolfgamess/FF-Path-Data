@@ -1,5 +1,6 @@
 .env
 commands.py
 path_data_backup.json
+path_images_backup
 downloaded_images
 trackcounter.py
