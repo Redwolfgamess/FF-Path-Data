@@ -1,6 +1,21 @@
-This is festival path data collected from Festival Tracker for public use.
+# 🎵 Fortnite Festival Path Data
 
-It's collected throught the use of a discord bot created and designed for the use of extracting data from festival tracker bot's messages.
-Thanks to Festival Central - The largest community fortnite festival server - for allowing my bot into their server, you can join it here https://discord.gg/vq6Et2CPPE
+This repository contains **Festival Path Data** collected from *Festival Tracker* for public use.
 
-You can contact me and download my OD Tool via https://discord.gg/CkcCmx2WST
+## 📦 About
+
+The data is collected through a custom-built **Discord bot** designed to extract song path data directly from the *Festival Tracker bot's* messages.
+
+Special thanks to **Festival Central** — the largest Fortnite Festival community — for allowing the bot in their server!
+
+👉 Join Festival Central: [https://discord.gg/vq6Et2CPPE](https://discord.gg/vq6Et2CPPE)
+
+## 📬 Contact & Tools
+
+You can contact me and download the **Overdrive (OD) Tool** via my community server:
+
+🎧 [Join the OD Tool & Support Server](https://discord.gg/CkcCmx2WST)
+
+---
+
+Feel free to use or contribute to the project!
