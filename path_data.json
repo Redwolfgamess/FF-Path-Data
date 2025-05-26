@@ -101,10 +101,10 @@
         "activations": 8,
         "overlaps": 2,
         "no_od_score": 208785,
-        "score": 282195,
-        "notes": "2: 3rd Y (Y), 1: 7th Y (R), 1: NN (Y), 2(+1): 9th R (G), 4(+1): 11th Y (Y), 1: 15th B (G), 1: 2nd R (Y), 1: NN (B)",
+        "score": 280899,
+        "notes": "2: 2nd R (Y), 1: 7th G (Y), 1: NN (R), 2(+1): 9th R (G), 4(+1): 10th Y (Y), 1: 15th B (G), 1: 1st B (Y), 1: NN (R)",
         "difficulty": "Expert",
-        "squeeze": 1.0,
+        "squeeze": 0.2,
         "filename": "surroundsound_jidft21savagebabytate_vocals.png"
       },
       "Lead": {
@@ -147,7 +147,7 @@
         "score": 227675,
         "notes": "1: 4th B (Y), 2: 9th R (Y), 1: 17th B (O), 3(+1): 14th Y (Y), 1: 3rd G (B)",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "i_kendricklamar_vocals.png"
       },
       "Drums": {
@@ -333,10 +333,10 @@
         "activations": 7,
         "overlaps": 1,
         "no_od_score": 110023,
-        "score": 145200,
-        "notes": "1: 3rd Y (Y), 1: 4th R (R), 1(+1): 7th B (R), 2: NN (B), 1: 10th B (B), 1: 4th Y (G), 1: NN (R)",
+        "score": 145206,
+        "notes": "1: 3rd Y (Y), 1: 4th R (R), 1(+1): 7th B (R), 2: NN (B), 1: 10th B (B), 1: 6th Y, 1: NN (R)",
         "difficulty": "Expert",
-        "squeeze": 0.0,
+        "squeeze": 0.2,
         "filename": "astronautintheocean_maskedwolf_vocals.png"
       },
       "Drums": {
@@ -833,10 +833,10 @@
         "activations": 3,
         "overlaps": 2,
         "no_od_score": 130032,
-        "score": 182418,
-        "notes": "2(+1): 9th G (B), 4(+1): 8th Y (O), 1: 2nd O (O)",
+        "score": 182634,
+        "notes": "2(+1): 9th G (B), 4(+1): 8th Y (R), 1: NN (O)",
         "difficulty": "Expert",
-        "squeeze": 0.0,
+        "squeeze": 0.2,
         "filename": "cantinaband_johnwilliamsthelondonsymphonyorchestra_vocals.png"
       },
       "Lead": {
@@ -2766,10 +2766,10 @@
         "activations": 14,
         "overlaps": 1,
         "no_od_score": 134054,
-        "score": 171728,
-        "notes": "1: 3rd G (R), 1: 5th Y (Y), 1: 5th R (O), 1: 4th B, 1: 2nd Y, 1: 5th Y (Y), 1: 5th R (O), 1: 4th B (R), 1: 1st Y (G), 1: 4th R (B), 1: 1st R (B), 1: 3 beats after 2nd O (Y), 1(+1): 7th O (O), 1: 1st R",
+        "score": 172070,
+        "notes": "1: 3rd G, 1: 5th Y (Y), 1: 5th R (O), 1: 4th B, 1: 2nd G, 1: 5th Y (Y), 1: 5th R (O), 1: 4th B (R), 1: 1st Y, 1: 4th R (B), 1: 1st R (B), 1: 4th Y, 1(+1): 7th O, 1: 1st R",
         "difficulty": "Expert",
-        "squeeze": 0.0,
+        "squeeze": 0.2,
         "filename": "nextsemester_twentyonepilots_vocals.png"
       },
       "Drums": {
@@ -3456,9 +3456,9 @@
         "overlaps": 1,
         "no_od_score": 220608,
         "score": 280656,
-        "notes": "1: 14th R (Y), 3(+1): 16th R (Y), 1: 16th R (B), 2: 3rd R (Y), 1: 23rd G (B), 2: 2nd O (O), 1: NN (B), 1: 9th G (O), 1: 15th R (O)",
+        "notes": "1: 14th R (Y), 3(+1): 16th R (Y), 1: 14th R (B), 2: 3rd R (Y), 1: 23rd G (B), 2: 2nd O (O), 1: NN (B), 1: 9th G (O), 1: 15th R (O)",
         "difficulty": "Expert",
-        "squeeze": 0.0,
+        "squeeze": 0.2,
         "filename": "welcometothejungle_gunsnroses_drums.png"
       },
       "Lead": {
@@ -4381,10 +4381,10 @@
         "activations": 8,
         "overlaps": 1,
         "no_od_score": 110921,
-        "score": 150965,
-        "notes": "1: 18th R (O), 1: 1st R (Y), 2: 1st R, 1: NN (B), 2(+1): 9th B (Y), 1: NN (R), 1: 2nd R, 1: 6th R",
+        "score": 150941,
+        "notes": "1: 18th R (O), 1: 1st R (Y), 2: 1st R (O), 1: NN (B), 2(+1): 9th B (Y), 1: NN (R), 1: 2nd R (Y), 1: 6th R (B)",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "thelastcavallard_epicgames_lead.png"
       },
       "Drums": {
@@ -6359,15 +6359,15 @@
         "filename": "nightmare_avengedsevenfold_pro_lead.png"
       },
       "Bass": {
-        "path": "2-1-2-1-1-2-3-1-1-1-1-2",
-        "phrases": 18,
+        "path": "2-1-2-1-1-2-2(+1)-1-1-1-1-2",
+        "phrases": 17,
         "activations": 12,
-        "overlaps": 0,
+        "overlaps": 1,
         "no_od_score": 259584,
-        "score": 339372,
-        "notes": "2: 10th G (Y), 1: 3rd O, 2: 3rd G (G), 1: 2nd G (Y), 1: 1st O, 2: 2nd G, 3: 4th Y, 1: 4th Y, 1: 4th Y, 1: 8th Y, 1: NN, 2: 9th B (Y)",
+        "score": 339108,
+        "notes": "2: 10th G (Y), 1: 3rd O (G), 2: 11th Y (Y), 1: 2nd G (Y), 1: 1st O (G), 2: 2nd G, 2(+1): 21st G (G), 1: NN (Y), 1: NN (Y), 1: 7th Y (R), 1: NN (Y), 2: 9th B (Y)",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "nightmare_avengedsevenfold_bass.png"
       },
       "Pro Bass": {
@@ -7067,10 +7067,10 @@
         "activations": 6,
         "overlaps": 0,
         "no_od_score": 82592,
-        "score": 100082,
-        "notes": "1: 4th Y, 1: 9th R (B), 1: 5th G (G), 1: 4th G (O), 1: 6th R (B), 1: 22nd R",
+        "score": 100106,
+        "notes": "1: 4th Y, 1: 9th R, 1: 5th Y, 1: 4th G (O), 1: 6th R, 1: 22nd R",
         "difficulty": "Expert",
-        "squeeze": 0.0,
+        "squeeze": 0.2,
         "filename": "stargazing_mylessmith_vocals.png"
       },
       "Lead": {
@@ -9373,6 +9373,18 @@
         "difficulty": "Expert",
         "squeeze": 0.2,
         "filename": "gethimback_oliviarodrigo_lead.png"
+      },
+      "Bass": {
+        "path": "3-4-1-1",
+        "phrases": 9,
+        "activations": 4,
+        "overlaps": 0,
+        "no_od_score": 70290,
+        "score": 92460,
+        "notes": "3: NN (R), 4: 18th R (B), 1: 2nd Y (B), 1: NN (R)",
+        "difficulty": "Expert",
+        "squeeze": 0.2,
+        "filename": "gethimback_oliviarodrigo_bass.png"
       }
     }
   },
@@ -10954,10 +10966,10 @@
         "activations": 13,
         "overlaps": 0,
         "no_od_score": 205410,
-        "score": 263964,
-        "notes": "1: 1st G, 1: 1st G, 1: 7th Y (R), 1: 12th Y (Y), 1: 1st G, 1: 1st G, 2: 3rd R (Y), 1: 1st G, 1: 1st G, 1: 8th R (Y), 1: 4th Y (Y), 1: 1st G, 1: 1st G",
+        "score": 263466,
+        "notes": "1: 1st G, 1: 1st G, 1: 7th Y (R), 1: 12th Y (Y), 1: 1st G, 1: 1st G, 2: 1st O (Y), 1: 1st G, 1: 1st G, 1: 14th Y, 1: 4th Y (Y), 1: 1st G, 1: 1st G",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "crankthatsouljaboy_souljaboytellem_vocals.png"
       },
       "Bass": {
@@ -14410,10 +14422,10 @@
         "activations": 13,
         "overlaps": 1,
         "no_od_score": 181374,
-        "score": 235766,
-        "notes": "3: 6th Y, 1: 11th R, 1: NN, 3: 5th R, 1: 14th R, 1: 3rd O, 2(+1): 2nd G, 1: NN (R), 1: 2nd G, 1: 10th O, 3: 1st G, 1: 2nd O, 1: 16th O",
+        "score": 235614,
+        "notes": "3: 6th Y (Y), 1: 11th R (Y), 1: NN (O), 3: 5th R (O), 1: 10th R (Y), 1: 3rd O (O), 2(+1): 2nd G, 1: NN (R), 1: 2nd G (G), 1: 10th O (B), 3: 1st G (Y), 1: 2nd O (Y), 1: 4th O (Y)",
         "difficulty": "Expert",
-        "squeeze": 1.0,
+        "squeeze": 0.2,
         "filename": "theunforgiven_metallica_lead.png"
       },
       "Vocals": {
@@ -15501,6 +15513,18 @@
         "difficulty": "Expert",
         "squeeze": 0.2,
         "filename": "thehuntingground_epicgames_bass.png"
+      },
+      "Vocals": {
+        "path": "1(+1)-1-2(+1)-1-1-1-1",
+        "phrases": 8,
+        "activations": 7,
+        "overlaps": 2,
+        "no_od_score": 109812,
+        "score": 144762,
+        "notes": "1(+1): 14th R (R), 1: NN (R), 2(+1): 2nd R, 1: 15th R (R), 1: 12th Y, 1: 2nd R, 1: 2nd R (R)",
+        "difficulty": "Expert",
+        "squeeze": 0.2,
+        "filename": "thehuntingground_epicgames_vocals.png"
       }
     }
   },
@@ -17639,10 +17663,10 @@
         "activations": 13,
         "overlaps": 0,
         "no_od_score": 238068,
-        "score": 312696,
-        "notes": "1: 1st B (Y), 1: 2nd O, 1: 11th Y (Y), 1: 4th O (Y), 1: NN (Y), 1: 8th Y (Y), 1: 8th G (Y), 1: 14th R (B), 1: 15th B (O), 1: 2nd R (R), 1: 3rd B (B), 1: 8th Y (Y), 1: NN (G)",
+        "score": 312252,
+        "notes": "1: 1st B (Y), 1: 5th B (Y), 1: 11th Y (R), 1: 4th O (Y), 1: NN (Y), 1: 8th Y (G), 1: 8th G (Y), 1: 14th R (B), 1: 15th B (O), 1: 2nd R (R), 1: 3rd B (B), 1: 8th Y (Y), 1: NN (G)",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "alleyezonme_2pacftbigsyke_vocals.png"
       },
       "Bass": {
@@ -24371,10 +24395,10 @@
         "activations": 4,
         "overlaps": 1,
         "no_od_score": 93859,
-        "score": 127183,
-        "notes": "1: 2nd Y (O), 4(+1): 7th Y (Y), 1: 2nd R, 1: 3rd R",
+        "score": 127171,
+        "notes": "1: 2nd Y (O), 4(+1): 7th Y (Y), 1: 1st G (B), 1: 3rd R (B)",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "thesoundofsilence_disturbed_lead.png"
       },
       "Drums": {
@@ -24687,6 +24711,30 @@
         "difficulty": "Expert",
         "squeeze": 0.2,
         "filename": "hollabackgirl_gwenstefani_pro_lead.png"
+      },
+      "Bass": {
+        "path": "1-4(+1)-1-1",
+        "phrases": 7,
+        "activations": 4,
+        "overlaps": 1,
+        "no_od_score": 17898,
+        "score": 24960,
+        "notes": "1: NN (B), 4(+1): 2nd G (G), 1: NN (B), 1: 3rd B (B)",
+        "difficulty": "Expert",
+        "squeeze": 0.2,
+        "filename": "hollabackgirl_gwenstefani_bass.png"
+      },
+      "Drums": {
+        "path": "1-1-1-1-1-1-1-1-1-1",
+        "phrases": 10,
+        "activations": 10,
+        "overlaps": 0,
+        "no_od_score": 68400,
+        "score": 87120,
+        "notes": "1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R), 1: 5th R (R)",
+        "difficulty": "Expert",
+        "squeeze": 0.2,
+        "filename": "hollabackgirl_gwenstefani_drums.png"
       }
     }
   },
@@ -26791,10 +26839,10 @@
         "activations": 6,
         "overlaps": 0,
         "no_od_score": 73155,
-        "score": 95115,
-        "notes": "1: 4th R (R), 1: 7th R (R), 1: 9th B, 2: 3rd O, 1: 2nd O, 1: NN (B)",
+        "score": 95097,
+        "notes": "1: 4th R (R), 1: 7th R (R), 1: 9th B (B), 2: 3rd O (Y), 1: 2nd O (Y), 1: NN (B)",
         "difficulty": "Expert",
-        "squeeze": 0.2,
+        "squeeze": 0.0,
         "filename": "milliondollarbaby_tommyrichman_vocals.png"
       },
       "Pro Bass": {
@@ -27348,10 +27396,10 @@
         "activations": 9,
         "overlaps": 0,
         "no_od_score": 113659,
-        "score": 147342,
-        "notes": "1: 7th Y (B), 1: 4th O (O), 1: 1st Y, 1: 7th O, 1: NN, 1: NN, 1: 10th Y, 1: 17th Y (R), 2: 3rd Y",
+        "score": 147162,
+        "notes": "1: 7th Y (B), 1: 4th O (O), 1: 2nd G (O), 1: 7th O, 1: NN (Y), 1: NN (Y), 1: 4th B (Y), 1: 15th Y, 2: 2nd Y (G)",
         "difficulty": "Expert",
-        "squeeze": 0.6,
+        "squeeze": 0.2,
         "filename": "goodluckbabe_chappellroan_vocals.png"
       }
     }
@@ -27786,6 +27834,30 @@
         "difficulty": "Expert",
         "squeeze": 0.2,
         "filename": "stayalta_estelleftchanneltres_vocals.png"
+      },
+      "Pro Bass": {
+        "path": "2(+1)-3-1-1-1-3-1",
+        "phrases": 12,
+        "activations": 7,
+        "overlaps": 1,
+        "no_od_score": 78690,
+        "score": 107418,
+        "notes": "2(+1): 14th Y (Y), 3: 1st B (O), 1: 1st Y (Y), 1: NN (Y), 1: 2nd R (O), 3: 4th Y (Y), 1: 4th Y (Y)",
+        "difficulty": "Expert",
+        "squeeze": 0.2,
+        "filename": "stayalta_estelleftchanneltres_pro_bass.png"
+      },
+      "Pro Lead": {
+        "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+        "phrases": 16,
+        "activations": 16,
+        "overlaps": 0,
+        "no_od_score": 114069,
+        "score": 144789,
+        "notes": "1: 2nd Y (R), 1: 2nd G (R), 1: 3rd R (B), 1: 1st R (B), 1: 2nd R (R), 1: 10th Y (Y), 1: NN (R), 1: NN (B), 1: 5th G (R), 1: 2nd R (B), 1: 4th R (R), 1: 7th G (R), 1: NN (R), 1: 1st R (B), 1: 4th G (R), 1: 2nd R (B)",
+        "difficulty": "Expert",
+        "squeeze": 0.2,
+        "filename": "stayalta_estelleftchanneltres_pro_lead.png"
       }
     }
   },
