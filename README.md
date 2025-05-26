@@ -2,6 +2,8 @@
 
 This repository contains **Festival Path Data** collected from *Festival Tracker* for public use.
 
+Total Jam Tracks: **2048**
+
 ## 📦 About
 
 The data is collected through a custom-built **Discord bot** designed to extract song path data directly from the *Festival Tracker bot's* messages.
