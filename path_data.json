@@ -24449,9 +24449,9 @@
           "phrases": 15,
           "activations": 14,
           "overlaps": 0,
-          "no_od_score": 184812,
-          "score": 240006,
-          "notes": "2: 2nd Y, 1: NN (O), 1: 2nd R (B), 1: 12th Y, 1: 10th B, 1: 6th O, 1: 12th Y (Y), 1: 16th Y, 1: 10th B, 1: 6th O, 1: 2nd B, 1: 3rd O (O), 1: 3rd O, 1: 10th B",
+          "no_od_score": 184596,
+          "score": 239790,
+          "notes": "2: 2nd Y, 1: NN (O), 1: 2nd R (B), 1: 12th Y, 1: 10th B, 1: 6th O, 1: 12th Y (Y), 1: 15th Y, 1: 10th B, 1: 6th O, 1: 2nd B, 1: 3rd O (O), 1: 3rd O, 1: 10th B",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "allidoiswin_djkhaledfttpainludacrissnoopdoggrickross_vocals_sqz02.png"
@@ -45823,6 +45823,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "livinlavidaloca_rickymartin_bass_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1(+1)-2-1-2-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 17,
+          "activations": 15,
+          "overlaps": 1,
+          "no_od_score": 175806,
+          "score": 230838,
+          "notes": "1(+1): 9th G (O), 2: 2nd G (Y), 1: 6th R (Y), 2: 4th Y (O), 1: NN, 1: 5th G (B), 1: 3rd O (Y), 1: 10th G (Y), 1: 3rd R (G), 1: 2nd B (B), 1: 14th R (Y), 1: 8th R (Y), 1: 5th Y (B), 1: 5th G (G), 1: 17th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "livinlavidaloca_rickymartin_pro_lead_sqz02.png"
         }
       }
     }
