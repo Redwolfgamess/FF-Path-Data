@@ -741,6 +741,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "feather_sabrinacarpenter_drums_sqz00.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 140400,
+          "score": 174672,
+          "notes": "1: NN (Y), 1: 4th R (Y), 1: 2nd R (Y), 1: 4th R (Y), 1: 3rd R (Y), 1: 11th R (Y), 1: 8th R (Y), 1: 8th R (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "feather_sabrinacarpenter_drums_sqz06.png"
         }
       },
       "Vocals": {
@@ -4698,6 +4710,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "bornthisway_ladygaga_pro_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-2-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 139968,
+          "score": 179280,
+          "notes": "1: 7th G (O), 1: 11th G (Y), 1: NN (O), 1: NN (G), 1: 1st R (R), 1: 4th Y (Y), 1: NN (O), 1: NN (O), 2: 9th G (O), 1: NN (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bornthisway_ladygaga_drums_sqz02.png"
         }
       }
     }
@@ -10909,6 +10935,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "espresso_sabrinacarpenter_vocals_sqz00.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1(+1)-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 115699,
+          "score": 150295,
+          "notes": "1: 3rd G (G), 1: 4th G (G), 1: NN (Y), 1(+1): 13th R, 1: 3rd O (O), 1: 12th B (G), 1: 1st G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "espresso_sabrinacarpenter_vocals_sqz06.png"
         }
       },
       "Pro Bass": {
@@ -10975,6 +11013,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "espresso_sabrinacarpenter_lead_sqz00.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-2",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 57660,
+          "score": 77796,
+          "notes": "1: 3rd R, 1: NN (B), 1: 5th O (B), 1: 4th G (G), 1: 9th R (O), 1: 5th O (B), 2: 7th Y",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "espresso_sabrinacarpenter_lead_sqz06.png"
         }
       },
       "Bass": {
@@ -20807,6 +20857,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "theedgeofglory_ladygaga_lead_sqz00.png"
+        },
+        "1.0": {
+          "path": "2-3(+1)-2-1-1-1-1",
+          "phrases": 11,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 203100,
+          "score": 254248,
+          "notes": "2: 5th O (R), 3(+1): 38th G (G), 2: 3rd O (R), 1: NN (G), 1: NN (G), 1: 6th R, 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "theedgeofglory_ladygaga_lead_sqz10.png"
         }
       },
       "Pro Lead": {
@@ -30790,6 +30852,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "africa_toto_drums_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-2-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 276912,
+          "score": 330624,
+          "notes": "1: NN (O), 1: NN (O), 1: 47th G (Y), 1: NN (O), 1: 44th G (B), 1: NN (O), 2: 36th G (O), 1: 3rd G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "africa_toto_drums_sqz06.png"
         }
       },
       "Vocals": {
@@ -31433,6 +31507,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "thisaintasceneitsanarmsrace_falloutboy_lead_sqz02.png"
+        },
+        "1.0": {
+          "path": "2-1-2-1-3",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 231060,
+          "score": 311412,
+          "notes": "2: 16th R (G), 1: 18th R (Y), 2: 9th R (B), 1: NN (Y), 3: 3rd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "thisaintasceneitsanarmsrace_falloutboy_lead_sqz10.png"
         }
       },
       "Drums": {
@@ -40437,6 +40523,20 @@
           "squeeze": 0.0,
           "filename": "upfromthebottom_linkinpark_bass_sqz00.png"
         }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "2-1-1-3(+1)-1",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 111081,
+          "score": 150701,
+          "notes": "2: 0.75 beats after 3rd B (O), 1: 5th Y (Y), 1: 1 beats after 7th B (Y), 3(+1): 1st G (B), 1: 22nd R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "upfromthebottom_linkinpark_pro_lead_sqz02.png"
+        }
       }
     }
   },
@@ -41713,6 +41813,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "pleasepleaseplease_sabrinacarpenter_drums_sqz00.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 90492,
+          "score": 113820,
+          "notes": "1: 5th G (Y), 1: NN (Y), 1: 14th G (Y), 1: 8th R (Y), 1: 11th R (Y), 1: 10th G (Y), 1: 2nd R (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "pleasepleaseplease_sabrinacarpenter_drums_sqz06.png"
         }
       },
       "Pro Lead": {
@@ -44208,6 +44320,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "wheremywookieesat_epicgames_lead_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-4(+1)-2-1-1-1",
+          "phrases": 11,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 176640,
+          "score": 230640,
+          "notes": "1: 3rd G (O), 1: 9th G (Y), 4(+1): 8th G (B), 2: 10th R (R), 1: 1st G (R), 1: NN (Y), 1: 11th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "wheremywookieesat_epicgames_lead_sqz10.png"
         }
       },
       "Vocals": {
@@ -45795,6 +45919,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "livinlavidaloca_rickymartin_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "3(+1)-1-1-3-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 164139,
+          "score": 217323,
+          "notes": "3(+1): 11th B (R), 1: 2nd G (R), 1: NN, 3: 1st R, 1: 3rd G (R), 1: NN, 1: 1st G (R), 1: NN (R), 1: 4th G (R), 1: 3rd G (R), 1: 2nd Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "livinlavidaloca_rickymartin_vocals_sqz04.png"
         }
       },
       "Drums": {
@@ -45858,6 +45994,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "bedchem_sabrinacarpenter_lead_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 69090,
+          "score": 89806,
+          "notes": "1: 2nd R, 1: NN (R), 1: 3rd R (G), 1: 13th R (G), 1: 17th R, 1: 6th R, 1: 1st B",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "bedchem_sabrinacarpenter_lead_sqz06.png"
         }
       },
       "Bass": {
@@ -45872,6 +46020,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "bedchem_sabrinacarpenter_bass_sqz02.png"
+        },
+        "0.6": {
+          "path": "3-1-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 31317,
+          "score": 42810,
+          "notes": "3: 2nd G, 1: 2nd B (Y), 1: 1st B (Y), 1: 1st G, 1: 1st B",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "bedchem_sabrinacarpenter_bass_sqz06.png"
         }
       },
       "Vocals": {
@@ -45886,6 +46046,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "bedchem_sabrinacarpenter_vocals_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-2-1-1-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 105207,
+          "score": 137007,
+          "notes": "1: 3rd Y (Y), 2: 15th G (B), 1: 11th B, 1: 5th B (Y), 1: 5th R, 1: 7th Y",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "bedchem_sabrinacarpenter_vocals_sqz06.png"
         }
       },
       "Drums": {
@@ -45900,6 +46072,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "bedchem_sabrinacarpenter_drums_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-2-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 115488,
+          "score": 146448,
+          "notes": "1: 1st R (Y), 1: NN (Y), 1: 1st R (Y), 1: 6th R (Y), 2: 11th G (Y), 1: 5th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "bedchem_sabrinacarpenter_drums_sqz06.png"
         }
       }
     }
