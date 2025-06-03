@@ -8746,6 +8746,20 @@
           "squeeze": 0.2,
           "filename": "8bitbeat_epicgames_pro_bass_sqz02.png"
         }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-2-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 74016,
+          "score": 97920,
+          "notes": "1: 10th Y (R), 1: NN (G), 1: NN (O), 2: 1st G (B), 1: 1st G (B), 1: 5th O (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "8bitbeat_epicgames_pro_lead_sqz02.png"
+        }
       }
     }
   },
@@ -15876,6 +15890,20 @@
           "squeeze": 0.2,
           "filename": "sayitaintso_weezer_pro_lead_sqz02.png"
         }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 13,
+          "activations": 13,
+          "overlaps": 0,
+          "no_od_score": 98730,
+          "score": 123666,
+          "notes": "1: 3rd O (Y), 1: 2nd O (Y), 1: 1st O (Y), 1: 1st Y (Y), 1: 3rd Y (B), 1: 1st O (Y), 1: NN (B), 1: 3 beats after 3rd G (R), 1: 6th R, 1: 4th G (B), 1: 5th G (R), 1: 1st Y (B), 1: 3rd B (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sayitaintso_weezer_bass_sqz02.png"
+        }
       }
     }
   },
@@ -22003,6 +22031,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "lovinonme_jackharlow_vocals_sqz10.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 120528,
+          "score": 153438,
+          "notes": "1: 5th Y (B), 1: NN (Y), 1: 5th Y (B), 1: 5th B (R), 1: NN, 1: 5th Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "lovinonme_jackharlow_vocals_sqz06.png"
         }
       }
     }
@@ -25966,6 +26006,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "barbiegirl_aqua_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-2-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 110322,
+          "score": 138258,
+          "notes": "1: 3rd R (O), 1: NN (O), 1: NN (O), 1: NN (B), 1: NN (Y), 1: NN (O), 2: 5th G (O), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "barbiegirl_aqua_lead_sqz02.png"
         }
       }
     }
@@ -36354,6 +36408,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "fellinlovewithagirl_thewhitestripes_vocals_sqz04.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 81618,
+          "score": 104100,
+          "notes": "1: 17th B (Y), 1: 4th B, 1: 9th B (Y), 1: 17th B (Y), 1: 4th R, 1: 15th B (Y), 1: 2nd B, 1: 16th B (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "fellinlovewithagirl_thewhitestripes_vocals_sqz06.png"
         }
       },
       "Pro Lead": {
