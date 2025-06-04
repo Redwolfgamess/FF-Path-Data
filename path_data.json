@@ -23960,8 +23960,8 @@
           "phrases": 10,
           "activations": 10,
           "overlaps": 0,
-          "no_od_score": 79561,
-          "score": 100525,
+          "no_od_score": 79601,
+          "score": 100565,
           "notes": "1: 3rd G (B), 1: 3rd R (B), 1: 4th Y, 1: 2nd B (R), 1: 1st G (B), 1: NN, 1: 4th R, 1: 5th G, 1: 2nd R, 1: 1st R",
           "difficulty": "Expert",
           "squeeze": 0.2,
@@ -46204,6 +46204,223 @@
           "difficulty": "Expert",
           "squeeze": 0.6,
           "filename": "bedchem_sabrinacarpenter_drums_sqz06.png"
+        }
+      }
+    }
+  },
+  "Smells Like Teen Spirit - Nirvana": {
+    "shortname": "smellsliketeenspiritnirvana",
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "1-3-1-2(+1)-1-4(+1)",
+          "phrases": 12,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 201852,
+          "score": 274548,
+          "notes": "1: 19th G (O), 3: 13th R (O), 1: 10th R (O), 2(+1): 2nd G (Y), 1: NN, 4(+1): 29th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "smellsliketeenspirit_nirvana_lead_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-3-1-2(+1)-1-4(+1)",
+          "phrases": 12,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 210572,
+          "score": 285860,
+          "notes": "1: 19th G (O), 3: 7th Y (O), 1: 9th Y (O), 2(+1): 2nd G (R), 1: NN, 4(+1): 25th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "smellsliketeenspirit_nirvana_pro_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-4(+1)-1-1-1",
+          "phrases": 13,
+          "activations": 10,
+          "overlaps": 1,
+          "no_od_score": 240192,
+          "score": 299952,
+          "notes": "1: 1st Y (Y), 1: 27th G (Y), 1: NN (O), 1: 3rd Y (Y), 1: NN (Y), 1: 7th R (Y), 4(+1): 15th O (Y), 1: 3rd R (Y), 1: NN (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "smellsliketeenspirit_nirvana_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-2-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 103645,
+          "score": 130555,
+          "notes": "1(+1): 13th Y, 1: 3rd Y (R), 1: 13th R (Y), 1: 1st R (G), 2: 5th Y (Y), 1: 6th R (Y), 1: NN (B), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "smellsliketeenspirit_nirvana_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1(+1)-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 13,
+          "activations": 13,
+          "overlaps": 1,
+          "no_od_score": 212646,
+          "score": 262146,
+          "notes": "1: 1st O (O), 1(+1): 18th O (O), 1: NN (G), 1: NN (R), 1: 12th O (O), 1: NN (R), 1: 1st Y (O), 1: 13th G (G), 1: NN (R), 1: NN (R), 1: 9th O (O), 1: NN (G), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "smellsliketeenspirit_nirvana_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "afraid - 2hollis ft. Nate Sib": {
+    "shortname": "afraid2hollisftnatesib",
+    "title": "afraid",
+    "artist": "2hollis ft. Nate Sib",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "2(+1)-1-1-1-1-1(+1)-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 102672,
+          "score": 136800,
+          "notes": "2(+1): 16th G (G), 1: 3rd G (Y), 1: 11th B (G), 1: NN (R), 1: NN (Y), 1(+1): 20th Y (Y), 1: 3rd G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "afraid_2hollisftnatesib_lead_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "2(+1)-1-1-1-1-1(+1)-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 102816,
+          "score": 136944,
+          "notes": "2(+1): 23rd Y (Y), 1: 3rd G (R), 1: 11th B (R), 1: NN (Y), 1: NN (Y), 1(+1): 23rd Y (Y), 1: 3rd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "afraid_2hollisftnatesib_pro_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-3-1-2(+1)-2",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 97173,
+          "score": 125523,
+          "notes": "1: 12th G (B), 3: NN (R), 1: NN (B), 2(+1): 6th G (B), 2: 9th G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "afraid_2hollisftnatesib_bass_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1(+1)-2-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 94641,
+          "score": 122577,
+          "notes": "1(+1): 6th O (Y), 2: 6th B, 1: 9th R (G), 1: 6th Y (R), 1: 6th Y (R), 1: 5th R, 1: 7th B (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "afraid_2hollisftnatesib_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1(+1)-1-1-1-1-1-2",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 1,
+          "no_od_score": 115344,
+          "score": 144720,
+          "notes": "1: 5th G (B), 1: 4th G (B), 1(+1): 3rd G (B), 1: NN (B), 1: 1st G (B), 1: NN (G), 1: 1st G (B), 1: 3rd G (B), 2: 3rd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "afraid_2hollisftnatesib_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "Sunflower - Spider-Man: Into the Spider-Verse - Post Malone w/ Swae Lee": {
+    "shortname": "sunflowerspidermanintothespiderversepostmalonewswaelee",
+    "title": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "artist": "Post Malone w/ Swae Lee",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-2(+1)-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 79910,
+          "score": 107240,
+          "notes": "1: 7th Y (Y), 1: 4th O (O), 2(+1): 11th G (Y), 1: 9th B (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 33012,
+          "score": 43056,
+          "notes": "2: 2nd G (Y), 1: 3rd Y (O), 1: 2nd G (B), 1: 3rd Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1(+1)-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 51771,
+          "score": 66783,
+          "notes": "1: NN (B), 1(+1): 15th R (G), 1: 15th R (G), 1: 3rd R (G), 1: 3rd Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 122688,
+          "score": 152208,
+          "notes": "1: NN (Y), 1: NN (Y), 1: NN (Y), 1: 3rd G (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_drums_sqz02.png"
         }
       }
     }
