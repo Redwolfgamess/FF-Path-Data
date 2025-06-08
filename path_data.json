@@ -27272,6 +27272,20 @@
           "squeeze": 0.2,
           "filename": "thenights_avicii_drums_sqz02.png"
         }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 92280,
+          "score": 121650,
+          "notes": "1: 7th R, 1: 1st O, 1: NN, 1: 8th G (B), 1: 11th B, 1: 4th R, 1: NN, 1: 6th G, 1: 4th G",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thenights_avicii_vocals_sqz02.png"
+        }
       }
     }
   },
@@ -44572,6 +44586,20 @@
           "squeeze": 0.2,
           "filename": "migente_jbalvinwillywilliam_bass_sqz02.png"
         }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 58617,
+          "score": 71685,
+          "notes": "1: 2nd G (G), 1: 6th G (G), 1: 1st B (B), 1: 6th G (G), 1: NN (G), 1: 4th B (R), 1: 2nd G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "migente_jbalvinwillywilliam_lead_sqz02.png"
+        }
       }
     }
   },
@@ -46633,6 +46661,195 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "Make the Crowd Roar - Epic Games": {
+    "shortname": "makethecrowdroarepicgames",
+    "title": "Make the Crowd Roar",
+    "artist": "Epic Games",
+    "instruments": {
+      "Bass": {
+        "0.2": {
+          "path": "3-1-4(+1)",
+          "phrases": 8,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 72585,
+          "score": 102558,
+          "notes": "3: 1st G (R), 1: 1st Y (G), 4(+1): 2nd G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "makethecrowdroar_epicgames_bass_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "2(+1)-1-1-1(+1)-1-1(+1)",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 3,
+          "no_od_score": 108148,
+          "score": 141064,
+          "notes": "2(+1): 9th G, 1: 5th G (R), 1: 9th Y (R), 1(+1): 11th Y, 1: NN, 1(+1): 14th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "makethecrowdroar_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-4(+1)",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 56235,
+          "score": 79095,
+          "notes": "1: 1st O (R), 1: 1st R (R), 1: 5th B (Y), 1: 2nd O (R), 4(+1): 10th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "makethecrowdroar_epicgames_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-3-1(+1)",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 171360,
+          "score": 219024,
+          "notes": "1: 14th G (Y), 1: NN (Y), 1: NN (Y), 1: 16th R (Y), 1: NN (Y), 3: 6th B (O), 1(+1): 17th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "makethecrowdroar_epicgames_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "When I Let the Music Play - Epic Games": {
+    "shortname": "wheniletthemusicplayepicgames",
+    "title": "When I Let the Music Play",
+    "artist": "Epic Games",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 78516,
+          "score": 103872,
+          "notes": "2: 1st R (Y), 1: 1st Y, 1: 4th R (B), 1: 4th G, 1: 0.96 beats after 4th R (G), 1: 11th Y (R), 1: NN (G), 1: 3rd Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wheniletthemusicplay_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-3-2(+1)-1",
+          "phrases": 7,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 109440,
+          "score": 145296,
+          "notes": "1: 15th G (Y), 3: 1st G (Y), 2(+1): 1st Y (Y), 1: 34th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wheniletthemusicplay_epicgames_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3-2-1-1",
+          "phrases": 7,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 69849,
+          "score": 90369,
+          "notes": "3: 5th Y (O), 2: 12th Y (R), 1: 12th Y (R), 1: 12th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wheniletthemusicplay_epicgames_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-2-2(+1)-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 80056,
+          "score": 104056,
+          "notes": "1: 6th R (B), 2: 20th R (Y), 2(+1): 3rd O, 1: 3rd G (B), 1: 4th G (B), 1: 6th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wheniletthemusicplay_epicgames_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Move Like the Mist - Epic Games": {
+    "shortname": "movelikethemistepicgames",
+    "title": "Move Like the Mist",
+    "artist": "Epic Games",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "3-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 69926,
+          "score": 90230,
+          "notes": "3: NN, 1: NN, 1: 1st O, 1: 1st Y, 1: NN, 1: 10th R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "movelikethemist_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-2(+1)-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 137088,
+          "score": 175104,
+          "notes": "1: 2nd R (Y), 1: 2nd R (Y), 1: 14th G (O), 1: 23rd G (Y), 1: 2nd R (Y), 1: 18th G (Y), 2(+1): 21st R (Y), 1: 14th R (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "movelikethemist_epicgames_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2(+1)-1-3-1-1-1",
+          "phrases": 9,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 131211,
+          "score": 167067,
+          "notes": "2(+1): 1st G (O), 1: NN (Y), 3: NN (G), 1: NN (G), 1: NN (G), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "movelikethemist_epicgames_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "2(+1)-1-3-1-2",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 132885,
+          "score": 179829,
+          "notes": "2(+1): 21st G (Y), 1: 9th G (B), 3: NN (Y), 1: 13th G (B), 2: 6th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "movelikethemist_epicgames_lead_sqz02.png"
         }
       }
     }
