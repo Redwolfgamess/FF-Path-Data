@@ -25221,6 +25221,20 @@
           "squeeze": 0.4,
           "filename": "beggin_m\u00e5neskin_pro_lead_sqz04.png"
         }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-3-1-3",
+          "phrases": 10,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 137722,
+          "score": 178618,
+          "notes": "1: 5th R (B), 1: 12th R (O), 1: 11th G (B), 3: 5th R (B), 1: 3rd R (B), 3: 6th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "beggin_m\u00e5neskin_lead_sqz02.png"
+        }
       }
     }
   },
@@ -46724,6 +46738,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "makethecrowdroar_epicgames_lead_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-4(+1)",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 56235,
+          "score": 79239,
+          "notes": "1: 1st O (R), 1: 1st R (R), 1: 5th B (Y), 1: 2nd O (R), 4(+1): 10th G (G)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "makethecrowdroar_epicgames_lead_sqz10.png"
         }
       },
       "Drums": {
@@ -46914,6 +46940,294 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "movelikethemist_epicgames_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Magnetic - ILLIT": {
+    "shortname": "magneticillit",
+    "title": "Magnetic",
+    "artist": "ILLIT",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-3(+1)-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 100560,
+          "score": 134892,
+          "notes": "1: 21st G (B), 1: 3rd G (G), 1: 8th G (B), 1: 2nd G (B), 3(+1): NN (R), 1: 3rd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "magnetic_illit_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 104086,
+          "score": 134535,
+          "notes": "1: 11th B, 1: 3rd O, 1: 1st R, 1: 18th Y (Y), 1: 1st B (O), 1: 25th B (Y), 1: 6th R, 1: 1st R, 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "magnetic_illit_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 104086,
+          "score": 134571,
+          "notes": "1: 11th B, 1: 3rd O, 1: 1st R, 1: 18th Y (Y), 1: 1st B (O), 1: 25th B (Y), 1: 6th R, 1: 1st R, 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "magnetic_illit_vocals_sqz04.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 103248,
+          "score": 129888,
+          "notes": "1: 2nd G (Y), 1: 6th G (Y), 1: 2nd G (B), 1: 2nd R (Y), 1: 2nd G (Y), 1: 29th G (B), 1: 8th G (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "magnetic_illit_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 92664,
+          "score": 119448,
+          "notes": "1: 16th Y (Y), 1: 2nd Y (G), 1: 1st Y (G), 1: 8th Y (G), 1: 1st Y (G), 1: 4th Y (Y), 1: 2nd Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "magnetic_illit_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "No Doubt - ENHYPEN": {
+    "shortname": "nodoubtenhypen",
+    "title": "No Doubt",
+    "artist": "ENHYPEN",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-3(+1)-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 96104,
+          "score": 125324,
+          "notes": "1: 4th B (Y), 3(+1): 6th R (Y), 1: 1st G, 1: 2nd R, 1: 5th O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "nodoubt_enhypen_vocals_sqz02.png"
+        },
+        "0.5": {
+          "path": "1-3(+1)-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 96104,
+          "score": 125336,
+          "notes": "1: 4th B (Y), 3(+1): 6th R (Y), 1: 1st G, 1: 2nd R, 1: 5th O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "nodoubt_enhypen_vocals_sqz05.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "2(+1)-1-1-2-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 109008,
+          "score": 143136,
+          "notes": "2(+1): 1st G (Y), 1: NN (Y), 1: NN (O), 2: 1st G (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "nodoubt_enhypen_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-2(+1)-1-2(+1)",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 2,
+          "no_od_score": 62976,
+          "score": 84048,
+          "notes": "1: 4th R (O), 1: 1st R (O), 2(+1): 13th R (Y), 1: 7th R (O), 2(+1): 13th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "nodoubt_enhypen_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 43356,
+          "score": 55902,
+          "notes": "3: 1st R (G), 1: 1st R (G), 1: NN (R), 1: 3rd G (R), 1: 3rd R (G), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "nodoubt_enhypen_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "Who - Jimin": {
+    "shortname": "whojimin",
+    "title": "Who",
+    "artist": "Jimin",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 101702,
+          "score": 129332,
+          "notes": "1: 4th G (B), 1: 2nd G (O), 1: NN, 1: 5th G (O), 1: 7th B (O), 1: 9th G (O), 1: NN (B), 1: 4th B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "who_jimin_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 101702,
+          "score": 129362,
+          "notes": "1: 4th G, 1: 2nd G, 1: NN, 1: 5th G, 1: 7th B (O), 1: 9th G (O), 1: NN (B), 1: 4th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "who_jimin_vocals_sqz04.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 83808,
+          "score": 105696,
+          "notes": "1: 1st R (Y), 1: NN (B), 1: 6th G (B), 1: 11th G (O), 1: 3rd G (O), 1: 6th G (B), 1: 8th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "who_jimin_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "2(+1)-2-1-2",
+          "phrases": 7,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 119088,
+          "score": 152064,
+          "notes": "2(+1): 6th R (R), 2: 1st R (R), 1: NN (R), 2: 9th R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "who_jimin_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3(+1)-1-1-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 39195,
+          "score": 54909,
+          "notes": "3(+1): 1st G (B), 1: 2nd B (R), 1: 2nd B (R), 1: 4th R (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "who_jimin_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "Seven - Jung Kook, Latto": {
+    "shortname": "sevenjungkooklatto",
+    "title": "Seven",
+    "artist": "Jung Kook, Latto",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-2-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 148082,
+          "score": 191990,
+          "notes": "1: 8th Y, 1: 5th Y, 1: 15th Y (B), 1: NN (R), 2: 17th R (Y), 1: NN (O), 1: 2nd Y (Y), 1: 2nd Y, 1: 1st R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "seven_jungkooklatto_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 90432,
+          "score": 115920,
+          "notes": "1: NN (O), 1: 9th Y (Y), 1: NN (O), 1: NN (O), 1: 12th O (O), 1: NN (O), 1: 1st O (O), 1: 11th Y (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "seven_jungkooklatto_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 69930,
+          "score": 92586,
+          "notes": "1: 3rd G (B), 1: 3rd G (B), 1: 1st G (B), 1: 3rd G (B), 1: 3rd G (B), 1: 3rd G (B), 1: 6th G (G), 1: 2nd G (Y), 1: 4th G (B), 1: 3rd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "seven_jungkooklatto_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3-1-1",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 39552,
+          "score": 54696,
+          "notes": "3: 2nd G (G), 1: NN (R), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "seven_jungkooklatto_bass_sqz02.png"
         }
       }
     }
