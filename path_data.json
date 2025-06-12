@@ -24256,6 +24256,20 @@
           "squeeze": 0.2,
           "filename": "sandstorm_darude_drums_sqz02.png"
         }
+      },
+      "Pro Bass": {
+        "0.2": {
+          "path": "3(+1)-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 258120,
+          "score": 328752,
+          "notes": "3(+1): 46th Y (Y), 1: NN (Y), 1: NN (Y), 1: NN (O), 1: NN (Y), 1: NN (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sandstorm_darude_pro_bass_sqz02.png"
+        }
       }
     }
   },
@@ -33531,6 +33545,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "californication_redhotchilipeppers_vocals_sqz10.png"
+        },
+        "0.6": {
+          "path": "1-2-1-1-1(+1)-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 121027,
+          "score": 157171,
+          "notes": "1: 4th O (O), 2: 1st B (O), 1: NN (O), 1: 2nd G, 1(+1): 2nd G (G), 1: 4th B (B), 1: 16th O",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "californication_redhotchilipeppers_vocals_sqz06.png"
         }
       },
       "Drums": {
@@ -46961,6 +46987,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "magnetic_illit_lead_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-3(+1)-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 100560,
+          "score": 135200,
+          "notes": "1: 21st G, 1: 3rd G, 1: 8th G, 1: 3rd G (R), 3(+1): NN (R), 1: 4th G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "magnetic_illit_lead_sqz06.png"
         }
       },
       "Vocals": {
