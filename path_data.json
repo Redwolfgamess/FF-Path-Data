@@ -3339,6 +3339,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "butter_bts_vocals_sqz04.png"
+        },
+        "0.0": {
+          "path": "3-1(+1)-1(+1)",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 2,
+          "no_od_score": 120611,
+          "score": 160169,
+          "notes": "3: 2nd O (Y), 1(+1): 8th G (O), 1(+1): 9th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "butter_bts_vocals_sqz00.png"
         }
       },
       "Lead": {
@@ -5858,6 +5870,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "blackholesun_soundgarden_drums_sqz02.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 185472,
+          "score": 230544,
+          "notes": "1: 13th Y (Y), 1: 16th G (O), 1: 4th R (Y), 1: NN (B), 1: 19th G (O), 1: 7th R (B), 1: 12th R (B), 1: 3rd R (B), 1: 11th B (B), 1: 15th B (B), 1: 28th G (O), 1: 41st G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "blackholesun_soundgarden_drums_sqz00.png"
         }
       },
       "Bass": {
@@ -16982,6 +17006,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "starships_nickiminaj_vocals_sqz04.png"
+        },
+        "0.0": {
+          "path": "1(+1)-1-4-1-1-1-1-1-1-1",
+          "phrases": 13,
+          "activations": 10,
+          "overlaps": 1,
+          "no_od_score": 118410,
+          "score": 163722,
+          "notes": "1(+1): 16th Y (Y), 1: NN (R), 4: 1st Y (Y), 1: NN (Y), 1: 6th R (Y), 1: NN (B), 1: NN (R), 1: 6th R (Y), 1: 1st R (Y), 1: 3rd O (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "starships_nickiminaj_vocals_sqz00.png"
         }
       },
       "Bass": {
@@ -17045,6 +17081,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "givemeeverything_pitbullftneyoafrojacknayer_drums_sqz02.png"
+        },
+        "0.5": {
+          "path": "2-1-1-1-2-1-1-1-2-2",
+          "phrases": 14,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 180720,
+          "score": 237744,
+          "notes": "2: 19th R (Y), 1: NN (G), 1: 4th Y (O), 1: NN (R), 2: 23rd R (Y), 1: NN (G), 1: 12th O (Y), 1: NN (G), 2: 23rd R (Y), 2: 11th O (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "givemeeverything_pitbullftneyoafrojacknayer_drums_sqz05.png"
         }
       },
       "Lead": {
@@ -19599,6 +19647,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "closer_thechainsmokersfthalsey_drums_sqz02.png"
+        },
+        "0.5": {
+          "path": "2-1-2-1(+1)-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 113328,
+          "score": 148752,
+          "notes": "2: 2nd G (Y), 1: 6th G (Y), 2: 6th G (Y), 1(+1): 23rd R (O), 1: 6th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "closer_thechainsmokersfthalsey_drums_sqz05.png"
         }
       }
     }
@@ -22679,6 +22739,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "justagirl_nodoubt_vocals_sqz10.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 87845,
+          "score": 111677,
+          "notes": "1: 1st O (Y), 1: 5th R (Y), 1: 5th R (R), 1: NN (Y), 1: 2.2 beats after 15th Y (Y), 1: 0.52 beats after 1st B (B), 1: 1st Y",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "justagirl_nodoubt_vocals_sqz00.png"
         }
       },
       "Drums": {
@@ -26039,6 +26111,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "tusa_karolgftnickiminaj_vocals_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-2-1-4",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 52848,
+          "score": 68832,
+          "notes": "1: NN (B), 2: 2nd B (B), 1: 3rd R (B), 4: 20th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "tusa_karolgftnickiminaj_lead_sqz02.png"
         }
       }
     }
@@ -29648,6 +29734,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "dynamite_bts_vocals_sqz10.png"
+        },
+        "0.0": {
+          "path": "1-3-3(+1)-1-1",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 150936,
+          "score": 203328,
+          "notes": "1: 17th Y (Y), 3: NN (R), 3(+1): 8th G (O), 1: 0.76 beats after 5th B (G), 1: 4th Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "dynamite_bts_vocals_sqz00.png"
         }
       },
       "Lead": {
@@ -47025,6 +47123,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "magnetic_illit_vocals_sqz04.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 104086,
+          "score": 134283,
+          "notes": "1: 11th B (B), 1: 3rd O (R), 1: 1st Y (Y), 1: 16th Y (Y), 1: 1st B (O), 1: 25th B (Y), 1: NN (R), 1: 1st Y (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "magnetic_illit_vocals_sqz00.png"
         }
       },
       "Drums": {
@@ -47161,6 +47271,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "who_jimin_vocals_sqz04.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 101702,
+          "score": 129320,
+          "notes": "1: 4th G (B), 1: 2nd G (O), 1: NN, 1: 5th G (O), 1: 7th B (O), 1: 9th G (O), 1: NN (B), 1: 4th B",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "who_jimin_vocals_sqz00.png"
         }
       },
       "Drums": {
@@ -47224,6 +47346,54 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "seven_jungkooklatto_vocals_sqz02.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-2-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 148082,
+          "score": 191966,
+          "notes": "1: 7th Y (Y), 1: 5th Y (R), 1: 15th Y (B), 1: NN (R), 2: 17th R (Y), 1: NN (O), 1: 2nd Y (Y), 1: 2nd Y (R), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "seven_jungkooklatto_vocals_sqz00.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-2-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 148082,
+          "score": 192014,
+          "notes": "1: 8th Y, 1: 5th Y, 1: 15th Y (B), 1: NN (R), 2: 17th R (Y), 1: NN (O), 1: 2nd Y (Y), 1: 2nd Y, 1: 1st R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "seven_jungkooklatto_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-2-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 148082,
+          "score": 192890,
+          "notes": "1: 5th R (Y), 1: 5th Y, 1: 12th R (Y), 1: NN (R), 2: 17th R (Y), 1: NN (O), 1: 2nd B (B), 1: 2nd Y, 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "seven_jungkooklatto_vocals_sqz10.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-2-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 148082,
+          "score": 192668,
+          "notes": "1: 5th R (Y), 1: 5th Y, 1: 12th R (Y), 1: NN (R), 2: 17th R (Y), 1: NN (O), 1: 2nd B (B), 1: 2nd Y, 1: 1st R",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "seven_jungkooklatto_vocals_sqz06.png"
         }
       },
       "Drums": {
