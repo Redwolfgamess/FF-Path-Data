@@ -22154,6 +22154,20 @@
           "squeeze": 0.6,
           "filename": "lovinonme_jackharlow_vocals_sqz06.png"
         }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 27504,
+          "score": 35280,
+          "notes": "1: 4th O (O), 1: NN (O), 1: NN (Y), 1: NN (O), 1: 2nd Y (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lovinonme_jackharlow_lead_sqz02.png"
+        }
       }
     }
   },
@@ -43715,13 +43729,13 @@
       },
       "Bass": {
         "0.2": {
-          "path": "4-1(+1)-1",
+          "path": "1-4(+1)-1",
           "phrases": 6,
           "activations": 3,
           "overlaps": 1,
           "no_od_score": 26976,
-          "score": 33399,
-          "notes": "4: 1st G (G), 1(+1): 5th G (G), 1: 7th G (G)",
+          "score": 33357,
+          "notes": "1: 3rd G (G), 4(+1): 2nd G (G), 1: 7th G (G)",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "creamcashruleseverythingaroundme_wutangclan_bass_sqz02.png"
