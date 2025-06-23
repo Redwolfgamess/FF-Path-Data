@@ -11535,6 +11535,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "firework_katyperry_vocals_sqz10.png"
+        },
+        "0.4": {
+          "path": "1-1-2-1-1-2-1-1-1",
+          "phrases": 11,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 126507,
+          "score": 159657,
+          "notes": "1: 10th R, 1: 1st O, 2: 9th Y, 1: 4th G, 1: 3rd G, 2: 2nd R, 1: 4th G, 1: 2nd R, 1: 2nd Y",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "firework_katyperry_vocals_sqz04.png"
         }
       }
     }
@@ -16204,55 +16216,6 @@
       }
     }
   },
-  "High Hopes - Panic! at the Disco": {
-    "shortname": "highhopespanicatthedisco",
-    "title": "High Hopes",
-    "artist": "Panic! at the Disco",
-    "instruments": {
-      "Drums": {
-        "0.2": {
-          "path": "1-1-1-2(+1)-1-1-1-1-3-1-1",
-          "phrases": 14,
-          "activations": 11,
-          "overlaps": 1,
-          "no_od_score": 147600,
-          "score": 196992,
-          "notes": "1: 6th R (B), 1: 15th R (Y), 1: 1st G (O), 2(+1): 12th G (B), 1: 1st G (O), 1: 5th Y (Y), 1: 5th G (Y), 1: 6th R (R), 3: 4th R (Y), 1: 2nd G (O), 1: 6th G (O)",
-          "difficulty": "Expert",
-          "squeeze": 0.2,
-          "filename": "highhopes_panicatthedisco_drums_sqz02.png"
-        }
-      },
-      "Vocals": {
-        "0.2": {
-          "path": "1-1(+1)-1-1-1-1-1-1-1-1-1-1-1",
-          "phrases": 13,
-          "activations": 13,
-          "overlaps": 1,
-          "no_od_score": 132078,
-          "score": 173106,
-          "notes": "1: 7th Y (R), 1(+1): 9th O, 1: NN, 1: NN (G), 1: 8th O (B), 1: 5th Y, 1: 1st O, 1: 2nd G (O), 1: 5th Y (R), 1: NN (R), 1: NN (B), 1: NN (G), 1: 4th B (B)",
-          "difficulty": "Expert",
-          "squeeze": 0.2,
-          "filename": "highhopes_panicatthedisco_vocals_sqz02.png"
-        }
-      },
-      "Lead": {
-        "0.2": {
-          "path": "1-1-3(+1)-2-4",
-          "phrases": 11,
-          "activations": 5,
-          "overlaps": 1,
-          "no_od_score": 107388,
-          "score": 143820,
-          "notes": "1: NN (O), 1: NN (Y), 3(+1): 7th G (R), 2: NN (O), 4: 4th R (O)",
-          "difficulty": "Expert",
-          "squeeze": 0.2,
-          "filename": "highhopes_panicatthedisco_lead_sqz02.png"
-        }
-      }
-    }
-  },
   "The Claw - Epic Games": {
     "shortname": "theclawepicgames",
     "title": "The Claw",
@@ -16660,6 +16623,20 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "flowers_mileycyrus_pro_lead_sqz10.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1(+1)",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 65347,
+          "score": 85039,
+          "notes": "1: 3rd B (B), 1: NN (R), 1: 11th R (O), 1: 1st R (B), 1: NN, 1: 5th Y (Y), 1: 2nd G (R), 1(+1): 5th B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "flowers_mileycyrus_lead_sqz02.png"
         }
       }
     }
@@ -21016,6 +20993,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "orbitaloverload_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-4",
+          "phrases": 7,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 105996,
+          "score": 143880,
+          "notes": "1: 3rd G (Y), 1: NN (R), 1: 14th B (B), 4: 5th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "orbitaloverload_epicgames_pro_lead_sqz02.png"
         }
       }
     }
@@ -25457,6 +25448,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sevennationarmy_thewhitestripes_vocals_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-3",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 65080,
+          "score": 84976,
+          "notes": "1: 1st Y (B), 1: NN (G), 3: 6th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sevennationarmy_thewhitestripes_pro_lead_sqz02.png"
         }
       }
     }
@@ -47142,6 +47147,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "movelikethemist_epicgames_lead_sqz02.png"
+        },
+        "1.0": {
+          "path": "2(+1)-1-3-1-2",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 132885,
+          "score": 179845,
+          "notes": "2(+1): 21st G (Y), 1: 9th G (B), 3: NN (Y), 1: 13th G (B), 2: 6th G",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "movelikethemist_epicgames_lead_sqz10.png"
         }
       }
     }
@@ -47241,6 +47258,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "magnetic_illit_bass_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-3(+1)-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 106000,
+          "score": 141688,
+          "notes": "1: 12th G (B), 1: 1st G (G), 1: 3rd G (B), 1: 2nd G (B), 3(+1): NN (O), 1: 6th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "magnetic_illit_pro_lead_sqz02.png"
         }
       }
     }
@@ -47833,6 +47864,42 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "bondedobrun\u00e3o_brunomars_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 34413,
+          "score": 44895,
+          "notes": "1: 8th O (R), 1: 1st B (O), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "bondedobrun\u00e3o_brunomars_vocals_sqz10.png"
+        },
+        "0.8": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 34413,
+          "score": 44895,
+          "notes": "1: 8th O (R), 1: 1st B (O), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.8,
+          "filename": "bondedobrun\u00e3o_brunomars_vocals_sqz08.png"
+        },
+        "0.6": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 34413,
+          "score": 44895,
+          "notes": "1: 8th O (R), 1: 1st B (O), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "bondedobrun\u00e3o_brunomars_vocals_sqz06.png"
         }
       },
       "Lead": {
@@ -48513,6 +48580,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "intotheunderworld_epicgames_lead_sqz04.png"
+        },
+        "0.0": {
+          "path": "1-1-3(+1)-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 88848,
+          "score": 116496,
+          "notes": "1: NN (O), 1: NN (O), 3(+1): 5th B (Y), 1: NN (G), 1: NN (G), 1: 4th Y (Y), 1: 2nd G (Y), 1: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "intotheunderworld_epicgames_lead_sqz00.png"
         }
       },
       "Bass": {
@@ -48539,6 +48618,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "intotheunderworld_epicgames_bass_sqz04.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1(+1)-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 1,
+          "no_od_score": 112203,
+          "score": 154347,
+          "notes": "1: 5th R (G), 1: 10th G (R), 1: 1st G, 1: 9th G (Y), 1: 1st G, 1(+1): 17th G (G), 1: 20th G (Y), 1: 1st G, 1: 9th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "intotheunderworld_epicgames_bass_sqz00.png"
         }
       },
       "Vocals": {
@@ -48565,6 +48656,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "intotheunderworld_epicgames_vocals_sqz04.png"
+        },
+        "0.0": {
+          "path": "2(+1)-1-1-1-2(+1)-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 140334,
+          "score": 194430,
+          "notes": "2(+1): 5th G (B), 1: 6th G (O), 1: 1st Y (Y), 1: NN (Y), 2(+1): 4th O (Y), 1: 19th O (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "intotheunderworld_epicgames_vocals_sqz00.png"
         }
       },
       "Drums": {
@@ -48579,6 +48682,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "intotheunderworld_epicgames_drums_sqz02.png"
+        },
+        "0.0": {
+          "path": "2(+1)-1-1-1-3(+1)-1-1-1",
+          "phrases": 11,
+          "activations": 8,
+          "overlaps": 2,
+          "no_od_score": 177552,
+          "score": 237888,
+          "notes": "2(+1): 1st G (B), 1: NN (B), 1: NN (B), 1: NN (B), 3(+1): 1st G (B), 1: NN (B), 1: NN (B), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "intotheunderworld_epicgames_drums_sqz00.png"
         }
       }
     }
@@ -48705,6 +48820,93 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "letitburn_epicgames_vocals_sqz02.png"
+        }
+      }
+    }
+  },
+  "Bruno-San's Theme Song - Bruno Mars": {
+    "shortname": "brunosansthemesongbrunomars",
+    "title": "Bruno-San's Theme Song",
+    "artist": "Bruno Mars",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 22826,
+          "score": 32350,
+          "notes": "1: 9.5 beats after 9th O (R), 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "brunosansthemesong_brunomars_vocals_sqz02.png"
+        },
+        "0.0": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 22826,
+          "score": 32166,
+          "notes": "1: 9 beats after 9th O (G), 1: NN (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "brunosansthemesong_brunomars_vocals_sqz00.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "2-1",
+          "phrases": 3,
+          "activations": 2,
+          "overlaps": 0,
+          "no_od_score": 40602,
+          "score": 53634,
+          "notes": "2: 1st O (O), 1: 6th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "brunosansthemesong_brunomars_lead_sqz02.png"
+        },
+        "0.0": {
+          "path": "2-1",
+          "phrases": 3,
+          "activations": 2,
+          "overlaps": 0,
+          "no_od_score": 40602,
+          "score": 53634,
+          "notes": "2: 1st O (O), 1: 6th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "brunosansthemesong_brunomars_lead_sqz00.png"
+        }
+      },
+      "Drums": {
+        "0.0": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 55296,
+          "score": 72000,
+          "notes": "1: NN (B), 1: 4th G (Y), 1: 1st R (O), 1: 24th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "brunosansthemesong_brunomars_drums_sqz00.png"
+        }
+      },
+      "Bass": {
+        "0.0": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 43920,
+          "score": 54936,
+          "notes": "1: 1st G (G), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "brunosansthemesong_brunomars_bass_sqz00.png"
         }
       }
     }
