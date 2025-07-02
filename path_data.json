@@ -20696,6 +20696,20 @@
           "squeeze": 0.2,
           "filename": "blueberryfaygo_lilmosey_drums_sqz02.png"
         }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 48594,
+          "score": 59178,
+          "notes": "1: 2nd R (Y), 1: 1st R (Y), 1: 1st R (Y), 1: NN (Y), 1: NN (Y), 1: 1st R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "blueberryfaygo_lilmosey_lead_sqz02.png"
+        }
       }
     }
   },
@@ -21340,6 +21354,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "mood_24kgoldnftianndior_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-2-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 42291,
+          "score": 60867,
+          "notes": "2: 3rd B (Y), 1: 2nd G (G), 2: 1st R (G), 1: 1st G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "mood_24kgoldnftianndior_bass_sqz02.png"
         }
       }
     }
@@ -24634,6 +24662,20 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "inhamood_icespice_lead_sqz03.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "2(+1)-1-1-1-1",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 35466,
+          "score": 49083,
+          "notes": "2(+1): NN (O), 1: NN (B), 1: NN (O), 1: 2nd R (B), 1: 2nd R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "inhamood_icespice_pro_lead_sqz02.png"
         }
       }
     }
@@ -29801,6 +29843,20 @@
           "squeeze": 0.2,
           "filename": "allofmeti\u00ebstosbirthdaytreatmentremix_johnlegend_vocals_sqz02.png"
         }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-2-1-1-1-2-1-1",
+          "phrases": 10,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 170952,
+          "score": 211992,
+          "notes": "1: 14th R (Y), 2: NN (Y), 1: NN (Y), 1: 1st G (Y), 1: 11th G (O), 2: 1st Y (Y), 1: NN (Y), 1: 1st G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "allofmeti\u00ebstosbirthdaytreatmentremix_johnlegend_drums_sqz02.png"
+        }
       }
     }
   },
@@ -30045,6 +30101,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "takemehigher_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "2-1-3-2(+1)-1",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 130395,
+          "score": 175203,
+          "notes": "2: 3rd G (R), 1: NN (O), 3: 1st G (R), 2(+1): 5th G (R), 1: 5th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "takemehigher_epicgames_lead_sqz02.png"
         }
       }
     }
@@ -48981,6 +49051,30 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "move_epicgames_bass_sqz04.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 89958,
+          "score": 116454,
+          "notes": "1: 11th G (R), 1: 18th Y (G), 1: NN (R), 1: 3rd Y (O), 1: NN (Y), 1: 3rd O (Y), 1: 11th G",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "move_epicgames_bass_sqz03.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 89958,
+          "score": 116454,
+          "notes": "1: 11th G (R), 1: 18th Y (G), 1: NN (R), 1: 3rd Y (O), 1: NN (Y), 1: 3rd O (Y), 1: 11th G",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "move_epicgames_bass_sqz00.png"
         }
       }
     }
@@ -49416,6 +49510,69 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "slay_eternxlkz_bass_sqz00.png"
+        }
+      }
+    }
+  },
+  "Old Town Road (Remix) - Lil Nas X ft. Billy Ray Cyrus": {
+    "shortname": "oldtownroadremixlilnasxftbillyraycyrus",
+    "title": "Old Town Road (Remix)",
+    "artist": "Lil Nas X ft. Billy Ray Cyrus",
+    "instruments": {
+      "Bass": {
+        "0.2": {
+          "path": "2-1-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 35397,
+          "score": 43902,
+          "notes": "2: 5th R (R), 1: 2nd Y (R), 1: NN (G), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_bass_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 95381,
+          "score": 121043,
+          "notes": "1: 9th R (Y), 1: 15th Y, 1: 3rd R, 1: 9th B, 1: 2nd O (R), 1: 3rd Y (B), 1: 3rd G (R), 1: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_vocals_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 76818,
+          "score": 97026,
+          "notes": "1(+1): 4th Y (O), 1: 7th R (Y), 1: NN (Y), 1: 3rd Y (O), 1: 4th Y (O), 1: 3rd G (Y), 1: NN (B), 1: 4th Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-2",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 101664,
+          "score": 128448,
+          "notes": "1: 3rd G (Y), 1: NN (Y), 1: 3rd G (Y), 1: 6th G (Y), 2: 1st G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_drums_sqz02.png"
         }
       }
     }
