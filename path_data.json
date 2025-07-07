@@ -6350,6 +6350,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "bringmetolife_evanescence_vocals_sqz00.png"
+        },
+        "0.5": {
+          "path": "2-1-1-3-1-1",
+          "phrases": 9,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 100697,
+          "score": 135011,
+          "notes": "2: 4th B, 1: 5th R (Y), 1: 4th Y, 3: 6th R, 1: 8th Y, 1: 2nd G",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "bringmetolife_evanescence_vocals_sqz05.png"
         }
       },
       "Bass": {
@@ -9697,6 +9709,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "beyondtheflame_epicgames_lead_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-3(+1)-2-1-1-2-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 270100,
+          "score": 344516,
+          "notes": "1: 12th R (Y), 1: NN (O), 1: 11th B (B), 1: 42nd G (R), 3(+1): 1st O, 2: 6th R, 1: NN (G), 1: 9th G (G), 2: NN, 1: 32nd R (Y), 1: 2nd R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "beyondtheflame_epicgames_lead_sqz06.png"
         }
       },
       "Pro Lead": {
@@ -14486,6 +14510,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "daynnite_kidcudi_bass_sqz10.png"
+        },
+        "0.2": {
+          "path": "2-1-3(+1)",
+          "phrases": 6,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 54516,
+          "score": 70392,
+          "notes": "2: 2nd R (B), 1: NN (G), 3(+1): 17th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "daynnite_kidcudi_bass_sqz02.png"
         }
       },
       "Drums": {
@@ -24050,6 +24086,20 @@
           "squeeze": 0.2,
           "filename": "buddyholly_weezer_drums_sqz02.png"
         }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-3",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 150312,
+          "score": 186744,
+          "notes": "1: NN (B), 1: 10th R (B), 1: NN (B), 1: 18th R (B), 3: 2nd R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "buddyholly_weezer_pro_lead_sqz02.png"
+        }
       }
     }
   },
@@ -26821,6 +26871,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "armedanddangerous_juicewrld_bass_sqz02.png"
+        },
+        "1.0": {
+          "path": "4-1-1-1-1",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 18579,
+          "score": 25173,
+          "notes": "4: 1st R, 1: 1st Y, 1: 1st Y, 1: 2nd Y, 1: 1st O",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "armedanddangerous_juicewrld_bass_sqz10.png"
         }
       },
       "Pro Lead": {
@@ -26870,6 +26932,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "beautifulthings_bensonboone_lead_sqz02.png"
+        },
+        "1.0": {
+          "path": "3(+1)-1-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 78992,
+          "score": 109944,
+          "notes": "3(+1): 14th Y (B), 1: 3rd R (Y), 1: NN (Y), 1: 1st G, 1: 2nd R",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "beautifulthings_bensonboone_lead_sqz10.png"
         }
       },
       "Drums": {
@@ -29842,6 +29916,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "allofmeti\u00ebstosbirthdaytreatmentremix_johnlegend_vocals_sqz02.png"
+        },
+        "0.5": {
+          "path": "1-1-1-1(+1)-1-2-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 1,
+          "no_od_score": 126303,
+          "score": 157335,
+          "notes": "1: 10th R, 1: 10th B, 1: 2nd Y, 1(+1): 4th R (B), 1: 4th R, 2: 18th O, 1: 3rd B, 1: 8th Y, 1: 3rd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "allofmeti\u00ebstosbirthdaytreatmentremix_johnlegend_vocals_sqz05.png"
         }
       },
       "Drums": {
@@ -30471,6 +30557,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "birdsofafeather_billieeilish_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "2-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 86221,
+          "score": 110269,
+          "notes": "2: NN (B), 1: 5th R (Y), 1: 6th Y (B), 1: 13th B (Y), 1: 13th B, 1: 8th Y, 1: 6th B",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "birdsofafeather_billieeilish_vocals_sqz10.png"
         }
       },
       "Drums": {
@@ -30668,6 +30766,30 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "disease_ladygaga_vocals_sqz04.png"
+        },
+        "0.7": {
+          "path": "2(+1)-2(+1)-1-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 122266,
+          "score": 161434,
+          "notes": "2(+1): 5th O (R), 2(+1): 7th O (R), 1: 10th Y, 1: NN, 1: 6th B, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.7,
+          "filename": "disease_ladygaga_vocals_sqz07.png"
+        },
+        "0.5": {
+          "path": "2(+1)-2(+1)-1-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 122266,
+          "score": 161422,
+          "notes": "2(+1): 5th O (R), 2(+1): 7th O (R), 1: 10th Y, 1: NN, 1: 6th B, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "disease_ladygaga_vocals_sqz05.png"
         }
       },
       "Lead": {
@@ -34175,6 +34297,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sayitproud_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1(+1)-1-1(+1)-1(+1)-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 3,
+          "no_od_score": 140229,
+          "score": 180189,
+          "notes": "1: 5th R (O), 1(+1): 3rd G (O), 1: NN (R), 1(+1): 2nd G (B), 1(+1): 6th G (B), 1: NN (G), 1: 17th B (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sayitproud_epicgames_bass_sqz02.png"
         }
       }
     }
@@ -45884,6 +46020,18 @@
           "difficulty": "Expert",
           "squeeze": 0.6,
           "filename": "makeyoumine_madisonbeer_vocals_sqz06.png"
+        },
+        "1.0": {
+          "path": "1-3-1-1-4-1",
+          "phrases": 11,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 139580,
+          "score": 181562,
+          "notes": "1: 4th G, 3: 2nd Y, 1: 8th R (Y), 1: NN, 4: 3rd R (Y), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "makeyoumine_madisonbeer_vocals_sqz10.png"
         }
       },
       "Drums": {
@@ -46120,6 +46268,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "redrum_21savage_lead_sqz02.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 54739,
+          "score": 72327,
+          "notes": "1: NN (B), 1: 5th B (B), 1: NN (O), 1: 3rd B (B), 1: NN (O), 1: 4th B (B), 1: 2.5 beats after 2nd O (G), 1: NN (B), 1: 3 beats after 2nd O, 1: 1st O (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "redrum_21savage_lead_sqz00.png"
         }
       },
       "Vocals": {
@@ -47040,6 +47200,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-2(+1)-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 79910,
+          "score": 107258,
+          "notes": "1: 7th Y (Y), 1: 20th R, 2(+1): 11th G, 1: 9th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sunflowerspidermanintothespiderverse_postmalonewswaelee_vocals_sqz04.png"
         }
       },
       "Bass": {
@@ -47840,6 +48012,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "diewithasmile_ladygagabrunomars_vocals_sqz00.png"
+        },
+        "0.5": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 135278,
+          "score": 167378,
+          "notes": "1: 13th Y, 1: 4th B (B), 1: 3rd R, 1: 7th Y, 1: NN, 1: 2nd B (O), 1: 10th Y, 1: 5th Y, 1: 4th G, 1: 2nd B, 1: 5th Y, 1: 5th Y",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "diewithasmile_ladygagabrunomars_vocals_sqz05.png"
         }
       },
       "Lead": {
@@ -49531,6 +49715,30 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oldtownroadremix_lilnasxftbillyraycyrus_bass_sqz02.png"
+        },
+        "1.0": {
+          "path": "2-1-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 35397,
+          "score": 43950,
+          "notes": "2: 5th R, 1: 2nd Y, 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_bass_sqz10.png"
+        },
+        "0.3": {
+          "path": "2-1-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 35397,
+          "score": 43902,
+          "notes": "2: 5th R (R), 1: 2nd Y (R), 1: NN (G), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_bass_sqz03.png"
         }
       },
       "Vocals": {
@@ -49545,6 +49753,54 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oldtownroadremix_lilnasxftbillyraycyrus_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 95381,
+          "score": 121061,
+          "notes": "1: 9th R (Y), 1: 15th Y, 1: 3rd R, 1: 9th B, 1: 2nd O (R), 1: 3rd Y (B), 1: 3rd G (R), 1: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 95381,
+          "score": 121121,
+          "notes": "1: 9th R (Y), 1: 15th Y, 1: 3rd R, 1: 9th B, 1: 1.3 beats after 1st O (R), 1: 3rd Y (B), 1: 3rd G (R), 1: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_vocals_sqz10.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 95381,
+          "score": 121043,
+          "notes": "1: 9th R (Y), 1: 15th Y, 1: 3rd R, 1: 9th B, 1: 2nd O (R), 1: 3rd Y (B), 1: 3rd G (R), 1: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_vocals_sqz03.png"
+        },
+        "0.5": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 95381,
+          "score": 121061,
+          "notes": "1: 9th R (Y), 1: 15th Y, 1: 3rd R, 1: 9th B, 1: 2nd O (R), 1: 3rd Y (B), 1: 3rd G (R), 1: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_vocals_sqz05.png"
         }
       },
       "Lead": {
@@ -49559,6 +49815,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oldtownroadremix_lilnasxftbillyraycyrus_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1(+1)-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 76818,
+          "score": 97090,
+          "notes": "1(+1): 6th G, 1: 7th R, 1: NN, 1: 3rd G, 1: 4th G, 1: 3rd G, 1: NN, 1: 3rd G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_lead_sqz04.png"
         }
       },
       "Drums": {
@@ -49573,6 +49841,56 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oldtownroadremix_lilnasxftbillyraycyrus_drums_sqz02.png"
+        },
+        "0.8": {
+          "path": "1-1-1-1-2",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 101664,
+          "score": 129168,
+          "notes": "1: 50th Y (Y), 1: 2nd G (Y), 1: 29th Y (Y), 1: 28th Y (Y), 2: 73rd Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.8,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_drums_sqz08.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-2",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 101664,
+          "score": 128880,
+          "notes": "1: 50th Y (Y), 1: NN (Y), 1: 29th Y (Y), 1: 28th Y (Y), 2: 1st G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_drums_sqz06.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-2",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 101664,
+          "score": 129600,
+          "notes": "1: 49th Y (Y), 1: 2nd G (Y), 1: 28th Y (Y), 1: 27th Y (Y), 2: 73rd Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_drums_sqz10.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 76818,
+          "score": 97026,
+          "notes": "1(+1): 7th Y (O), 1: 4th Y (Y), 1: NN (B), 1: 4th Y (O), 1: 5th Y (O), 1: 3rd R (Y), 1: NN (O), 1: 4th Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "oldtownroadremix_lilnasxftbillyraycyrus_pro_lead_sqz02.png"
         }
       }
     }
