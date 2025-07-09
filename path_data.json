@@ -11586,6 +11586,20 @@
           "squeeze": 0.4,
           "filename": "firework_katyperry_vocals_sqz04.png"
         }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 118494,
+          "score": 147924,
+          "notes": "1: 1st R (G), 1: NN (G), 1: NN (Y), 1: 1st R (G), 1: NN (O), 1: 1st R (G), 1: NN (Y), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "firework_katyperry_bass_sqz02.png"
+        }
       }
     }
   },
@@ -12701,6 +12715,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "popular_theweekndmadonnaplayboicarti_bass_sqz10.png"
+        },
+        "0.2": {
+          "path": "3-1-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 35580,
+          "score": 45552,
+          "notes": "3: 2nd B (B), 1: NN (Y), 1: 2nd B (B), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "popular_theweekndmadonnaplayboicarti_bass_sqz02.png"
         }
       },
       "Pro Lead": {
@@ -13164,6 +13190,20 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "blitzkriegbop_ramones_drums_sqz00.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 128304,
+          "score": 160848,
+          "notes": "1: NN (Y), 1: NN (G), 1: 4th Y (G), 1: 2nd Y (Y), 1: NN (Y), 1: 8th Y (Y), 1: 9th G (Y), 1: 6th Y (G), 1: 19th G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "blitzkriegbop_ramones_bass_sqz02.png"
         }
       }
     }
@@ -49891,6 +49931,132 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oldtownroadremix_lilnasxftbillyraycyrus_pro_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Best of You - Foo Fighters": {
+    "shortname": "bestofyoufoofighters",
+    "title": "Best of You",
+    "artist": "Foo Fighters",
+    "instruments": {
+      "Drums": {
+        "0.2": {
+          "path": "1-4(+1)-1-1-1-2",
+          "phrases": 10,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 156816,
+          "score": 201024,
+          "notes": "1: NN (B), 4(+1): NN (O), 1: 5th R (O), 1: 4th G (B), 1: 3rd O (B), 2: 40th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bestofyou_foofighters_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 168465,
+          "score": 209451,
+          "notes": "1: NN (G), 1: NN (G), 1: NN (O), 1: NN (Y), 1: 12th R (Y), 1: 4th G (R), 1: 4th G (O), 1: NN (R), 1: NN (B), 1: NN (R), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bestofyou_foofighters_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "3(+1)-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 13,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 258264,
+          "score": 325368,
+          "notes": "3(+1): NN (O), 1: 9th R (B), 1: 1st G (O), 1: NN (Y), 1: NN (R), 1: NN (O), 1: 3rd G (O), 1: 9th G (B), 1: 10th G (Y), 1: NN (O), 1: 1st G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bestofyou_foofighters_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-2(+1)-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 116822,
+          "score": 151940,
+          "notes": "1: 5th O, 1: 8th O, 1: NN, 1: 3rd Y, 1: 5th O, 1: 19th O, 2(+1): 3rd O (O), 1: 9th O, 1: 4th Y, 1: 11th O, 1: 17th O",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bestofyou_foofighters_vocals_sqz02.png"
+        }
+      }
+    }
+  },
+  "Monster - YOASOBI": {
+    "shortname": "monsteryoasobi",
+    "title": "Monster",
+    "artist": "YOASOBI",
+    "instruments": {
+      "Bass": {
+        "0.2": {
+          "path": "3-1-1-1-1-3-1-1-1",
+          "phrases": 13,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 165672,
+          "score": 212112,
+          "notes": "3: 3rd R (R), 1: NN (G), 1: NN (G), 1: NN (G), 1: 12th B (R), 3: 3rd R (R), 1: NN (G), 1: 4th R (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "monster_yoasobi_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "3-1(+1)-1-1-4",
+          "phrases": 10,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 76296,
+          "score": 99912,
+          "notes": "3: NN (Y), 1(+1): 6th R (B), 1: NN (B), 1: 3rd R (B), 4: 2nd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "monster_yoasobi_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "2-1-4(+1)-1-1-1-1-1-1",
+          "phrases": 13,
+          "activations": 9,
+          "overlaps": 1,
+          "no_od_score": 159984,
+          "score": 211248,
+          "notes": "2: 14th R (G), 1: 11th G (O), 4(+1): 3rd G (Y), 1: 2nd R (Y), 1: 9th R (Y), 1: 7th G (Y), 1: 11th G (O), 1: 5th G (O), 1: 9th G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "monster_yoasobi_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 136393,
+          "score": 175273,
+          "notes": "1: 2nd G (Y), 1: 2nd Y (B), 1: 1st G (R), 1: NN (B), 1: 2nd R (B), 1: NN (R), 1: NN (B), 1: NN (B), 1: 2nd G (O), 1: 5th G (B), 1: 1st G (R), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "monster_yoasobi_vocals_sqz02.png"
         }
       }
     }
