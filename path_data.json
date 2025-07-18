@@ -16788,6 +16788,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "24kmagic_brunomars_lead_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1-2-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 88968,
+          "score": 119072,
+          "notes": "1: 4th G, 1: 4th R, 1: 5th G (Y), 1: 4th R, 1: 1st R (Y), 1: 1.4 beats after 3rd B (R), 1: 6th R, 2: 3rd G (Y), 1: 0.42 beats after 4th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "24kmagic_brunomars_lead_sqz06.png"
         }
       },
       "Vocals": {
@@ -17877,6 +17889,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "ballin_mustardftroddyricch_vocals_sqz00.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 147860,
+          "score": 189170,
+          "notes": "1: 7th Y (R), 1: 12th Y (R), 1: 2nd B (B), 1: 1st Y (R), 1: 1st G (Y), 1: 13th Y (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "ballin_mustardftroddyricch_vocals_sqz10.png"
         }
       },
       "Drums": {
@@ -39225,6 +39249,20 @@
           "squeeze": 0.2,
           "filename": "neverbackdown_nickeh30_vocals_sqz02.png"
         }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "2-4(+1)-1-1",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 69696,
+          "score": 88848,
+          "notes": "2: 1st G (G), 4(+1): 11th R (O), 1: NN (G), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "neverbackdown_nickeh30_lead_sqz02.png"
+        }
       }
     }
   },
@@ -50329,6 +50367,216 @@
           "difficulty": "Expert",
           "squeeze": 0.5,
           "filename": "monster_yoasobi_vocals_sqz05.png"
+        }
+      }
+    }
+  },
+  "Locked Out Of Heaven - Bruno Mars": {
+    "shortname": "lockedoutofheavenbrunomars",
+    "title": "Locked Out Of Heaven",
+    "artist": "Bruno Mars",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 125287,
+          "score": 156469,
+          "notes": "1: 8th R (B), 1: 2nd R, 1: 4th R, 1: 3rd Y, 1: 1st R (O), 1: 1st R (B), 1: 4th R, 1: 6th G, 1: 2nd Y, 1: 5th R, 1: 4th O",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedoutofheaven_brunomars_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 125287,
+          "score": 156475,
+          "notes": "1: 8th R (B), 1: 2nd R, 1: 4th R, 1: 3rd Y, 1: 1st R (O), 1: 1st R (B), 1: 4th R, 1: 6th G, 1: 2nd Y, 1: 5th R, 1: 4th O",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "lockedoutofheaven_brunomars_vocals_sqz03.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "2(+1)-3(+1)-1-2",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 2,
+          "no_od_score": 167616,
+          "score": 202752,
+          "notes": "2(+1): 19th G (Y), 3(+1): 18th G (O), 1: NN (O), 2: 3rd R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedoutofheaven_brunomars_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-3(+1)-1-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 180837,
+          "score": 220365,
+          "notes": "2: 2nd G (B), 1: NN (Y), 3(+1): 2nd G (G), 1: NN (G), 1: NN (O), 1: NN (B), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedoutofheaven_brunomars_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "2-1-3(+1)-1-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 180837,
+          "score": 220371,
+          "notes": "2: 2nd G (B), 1: NN (Y), 3(+1): 2nd G (G), 1: 9th G, 1: NN (O), 1: NN (B), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "lockedoutofheaven_brunomars_bass_sqz03.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 176958,
+          "score": 214758,
+          "notes": "1: 7th G (O), 1: 3rd G (O), 1: NN (O), 1: 3rd G (O), 1: 7th G (O), 1: 7th G (O), 1: NN (O), 1: 8th Y (O), 1: 8th Y (O), 1: 8th Y (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedoutofheaven_brunomars_lead_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 176958,
+          "score": 214758,
+          "notes": "1: 7th G (O), 1: 3rd G (O), 1: NN (O), 1: 3rd G (O), 1: 7th G (O), 1: 7th G (O), 1: NN (O), 1: 8th Y (O), 1: 8th Y (O), 1: 8th Y (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "lockedoutofheaven_brunomars_lead_sqz03.png"
+        }
+      }
+    }
+  },
+  "That's What I Like - Bruno Mars": {
+    "shortname": "thatswhatilikebrunomars",
+    "title": "That's What I Like",
+    "artist": "Bruno Mars",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-3-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 141909,
+          "score": 183069,
+          "notes": "1: 20th B (B), 1: 11th G, 1: 1st B, 3: 7th B (B), 1: 7th G, 1: 1st Y (B), 1: NN (B), 1: NN, 1: 4th G (O), 1: 0.96 beats after 8th B (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thatswhatilike_brunomars_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-3-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 141909,
+          "score": 183273,
+          "notes": "1: 20th B (B), 1: 11th G, 1: 1st B, 3: 7th B (B), 1: 7th G, 1: 1st Y (B), 1: NN (B), 1: NN, 1: 4th G (O), 1: 10th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "thatswhatilike_brunomars_vocals_sqz03.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-2",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 92295,
+          "score": 123588,
+          "notes": "1: 7th Y (B), 1: 1st Y (G), 1: NN, 1: 6th R (R), 1: 7th G (O), 1: 1st Y (G), 1: 3rd R, 1: 10th R (G), 1: NN (R), 1: 3rd R (G), 2: 4th Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thatswhatilike_brunomars_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1-1-1-1-2",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 92295,
+          "score": 123588,
+          "notes": "1: 7th Y (B), 1: 1st Y (G), 1: NN, 1: 6th R (R), 1: 7th G (O), 1: 1st Y (G), 1: 3rd R, 1: 10th R (G), 1: NN (R), 1: 3rd R (G), 2: 4th Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "thatswhatilike_brunomars_bass_sqz03.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1(+1)-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 151200,
+          "score": 195408,
+          "notes": "1: 6th G (Y), 1: 7th R (Y), 1(+1): 16th R (Y), 1: 10th R (Y), 1: NN (Y), 1: NN (Y), 1: 8th R (Y), 1: 1st G (Y), 1: 10th R (Y), 1: 1st R (Y), 1: 19th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thatswhatilike_brunomars_drums_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-2-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 151200,
+          "score": 196128,
+          "notes": "1: 8th G (Y), 1: 7th R (Y), 2: 3rd G (Y), 1: 10th R (Y), 1: NN (Y), 1: NN (Y), 1: 8th R (Y), 1: 3rd G (Y), 1: 10th R (Y), 1: 3rd G (Y), 1: 19th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "thatswhatilike_brunomars_drums_sqz06.png"
+        }
+      },
+      "Lead": {
+        "0.3": {
+          "path": "2-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 62580,
+          "score": 82616,
+          "notes": "2: NN (Y), 1: NN, 1: 1st G (B), 1: 5th R (O), 1: 4th R (B), 1: 2nd B, 1: NN (O), 1: 3rd G (B), 1: 3rd G (O), 1: NN, 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "thatswhatilike_brunomars_lead_sqz03.png"
+        },
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 62580,
+          "score": 82616,
+          "notes": "2: NN (Y), 1: NN, 1: 1st G (B), 1: 5th R (O), 1: 4th R (B), 1: 2nd B, 1: NN (O), 1: 3rd G (B), 1: 3rd G (O), 1: NN, 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thatswhatilike_brunomars_lead_sqz02.png"
         }
       }
     }
