@@ -4209,6 +4209,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "would_aliceinchains_drums_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-2-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 171360,
+          "score": 222192,
+          "notes": "1: 24th G (Y), 1: 1st G (Y), 2: 24th G (Y), 1: 1st G (Y), 1: 7th G (Y), 1: 1st G (Y), 1: 29th O (B), 1: 5th G (G), 1: 8th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "would_aliceinchains_drums_sqz06.png"
         }
       },
       "Bass": {
@@ -11911,6 +11923,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "callmemaybe_carlyraejepsen_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-2(+1)-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 102498,
+          "score": 134232,
+          "notes": "1: 16th Y (R), 2(+1): 16th Y, 1: 8th O (R), 1: 12th Y, 1: 2nd O, 1: 1st B, 1: 12th Y (B), 1: 3rd B",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "callmemaybe_carlyraejepsen_vocals_sqz10.png"
         }
       },
       "Lead": {
@@ -50605,6 +50629,192 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "thatswhatilike_brunomars_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "The Zephyr Song - Red Hot Chili Peppers": {
+    "shortname": "thezephyrsongredhotchilipeppers",
+    "title": "The Zephyr Song",
+    "artist": "Red Hot Chili Peppers",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-2-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 105656,
+          "score": 134678,
+          "notes": "1: NN (Y), 2: 2nd Y (O), 1: 5th B (B), 1: 0.72 beats after 1st R (G), 1: NN (O), 1: 1st B, 1: 0.72 beats after 3rd R (G), 1: 7 beats after 2nd O (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thezephyrsong_redhotchilipeppers_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-2-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 105656,
+          "score": 134702,
+          "notes": "1: NN (Y), 2: 6th Y, 1: 3rd R, 1: 0.72 beats after 1st R (G), 1: NN (O), 1: 1st B, 1: 0.72 beats after 3rd R (G), 1: 7 beats after 2nd O (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "thezephyrsong_redhotchilipeppers_vocals_sqz03.png"
+        },
+        "0.0": {
+          "path": "1-2-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 105656,
+          "score": 134660,
+          "notes": "1: NN (Y), 2: 2nd Y (O), 1: 5th B (B), 1: 0.76 beats after 1st R (G), 1: NN (O), 1: 1st B, 1: 0.76 beats after 3rd R (G), 1: 7 beats after 2nd O (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "thezephyrsong_redhotchilipeppers_vocals_sqz00.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-4(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 125790,
+          "score": 170970,
+          "notes": "1: 6th R (R), 1: 5th R (R), 1: 2nd R (G), 4(+1): 4th R (B), 1: 15th R (O), 1: 2nd R (O), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thezephyrsong_redhotchilipeppers_lead_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-4(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 125790,
+          "score": 170970,
+          "notes": "1: 6th R (R), 1: 5th R (R), 1: 2nd R (G), 4(+1): 4th R (B), 1: 15th R (O), 1: 2nd R (O), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "thezephyrsong_redhotchilipeppers_lead_sqz03.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 251424,
+          "score": 309744,
+          "notes": "1: NN (Y), 1: NN (Y), 1: 30th G (Y), 1: NN (Y), 1: NN (O), 1: NN (B), 1: NN (Y), 1: NN (Y), 1: NN (B), 1: NN (B), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thezephyrsong_redhotchilipeppers_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-4(+1)-1-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 149490,
+          "score": 198612,
+          "notes": "1: 5th R (B), 1: 2nd Y (O), 4(+1): 7th R (G), 1: NN (Y), 1: NN (G), 1: NN (G), 1: 3rd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thezephyrsong_redhotchilipeppers_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-4(+1)-1-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 149490,
+          "score": 198612,
+          "notes": "1: 5th R (B), 1: 2nd Y (O), 4(+1): 7th R (G), 1: NN (Y), 1: NN (G), 1: NN (G), 1: 3rd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "thezephyrsong_redhotchilipeppers_bass_sqz03.png"
+        }
+      }
+    }
+  },
+  "Funny Song - Slipstream Music": {
+    "shortname": "funnysongslipstreammusic",
+    "title": "Funny Song",
+    "artist": "Slipstream Music",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 60456,
+          "score": 77952,
+          "notes": "1: 3rd R (O), 1: 14th R (R), 1: 4th G (O), 1: NN (Y), 1: 5th R (O), 1: 7th R (B), 1: 1st G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "funnysong_slipstreammusic_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "1.0": {
+          "path": "2-1-1",
+          "phrases": 4,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 7344,
+          "score": 9972,
+          "notes": "2: 7th Y (Y), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "funnysong_slipstreammusic_drums_sqz10.png"
+        },
+        "0.2": {
+          "path": "2-1-1",
+          "phrases": 4,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 7344,
+          "score": 9972,
+          "notes": "2: 7th Y (Y), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "funnysong_slipstreammusic_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 56705,
+          "score": 77492,
+          "notes": "1: 3rd G (B), 1: 5th G (G), 1: 5th B, 1: NN, 1: 2nd R, 1: NN, 1: 2nd B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "funnysong_slipstreammusic_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3",
+          "phrases": 3,
+          "activations": 1,
+          "overlaps": 0,
+          "no_od_score": 12642,
+          "score": 17448,
+          "notes": "3: 2nd R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "funnysong_slipstreammusic_bass_sqz02.png"
         }
       }
     }
