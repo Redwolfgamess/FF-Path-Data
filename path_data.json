@@ -51024,6 +51024,42 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "happy_day6_lead_sqz03.png"
+        },
+        "1.0": {
+          "path": "3(+1)-1-3(+1)-1-1-1-1",
+          "phrases": 11,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 180462,
+          "score": 244398,
+          "notes": "3(+1): 25th R (Y), 1: NN (O), 3(+1): 25th R (Y), 1: NN (Y), 1: 4th R (O), 1: 9th G (O), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "happy_day6_lead_sqz10.png"
+        },
+        "0.7": {
+          "path": "3(+1)-1-3(+1)-1-1-1-1",
+          "phrases": 11,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 180462,
+          "score": 242398,
+          "notes": "3(+1): 25th R (Y), 1: NN (O), 3(+1): 25th R (Y), 1: 1st G, 1: 4th R (O), 1: 9th G (O), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.7,
+          "filename": "happy_day6_lead_sqz07.png"
+        },
+        "0.5": {
+          "path": "3(+1)-1-3(+1)-1-1-1-1",
+          "phrases": 11,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 180462,
+          "score": 242390,
+          "notes": "3(+1): 25th R (Y), 1: NN (O), 3(+1): 25th R (Y), 1: 1st G, 1: 4th R (O), 1: 9th G (O), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "happy_day6_lead_sqz05.png"
         }
       },
       "Vocals": {
@@ -51258,6 +51294,84 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "eyeofthestorm_epicgames_vocals_sqz02.png"
+        },
+        "0.0": {
+          "path": "4(+1)-1-1",
+          "phrases": 6,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 79109,
+          "score": 113657,
+          "notes": "4(+1): 1 beats after 3rd G (G), 1: 2nd Y (R), 1: 2nd O",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "eyeofthestorm_epicgames_vocals_sqz00.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2(+1)-1-2",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 47739,
+          "score": 70887,
+          "notes": "2(+1): 7th O (O), 1: 1st O, 2: 5th O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "eyeofthestorm_epicgames_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "2(+1)-1-2",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 47739,
+          "score": 70887,
+          "notes": "2(+1): 7th O (O), 1: 1st O, 2: 5th O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "eyeofthestorm_epicgames_bass_sqz03.png"
+        }
+      },
+      "Lead": {
+        "0.3": {
+          "path": "1-2-1-1-2",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 71808,
+          "score": 101940,
+          "notes": "1: 7th B (O), 2: 3rd B (B), 1: NN (O), 1: 5th R (B), 2: 11th G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "eyeofthestorm_epicgames_lead_sqz03.png"
+        },
+        "0.2": {
+          "path": "1-2-1-1-2",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 71808,
+          "score": 101940,
+          "notes": "1: 7th B (O), 2: 3rd B (B), 1: NN (O), 1: 5th R (B), 2: 11th G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "eyeofthestorm_epicgames_lead_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-2-1-1-2",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 71940,
+          "score": 102072,
+          "notes": "1: 6th Y (O), 2: 4th Y (Y), 1: NN (B), 1: 5th R (B), 2: 11th G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "eyeofthestorm_epicgames_pro_lead_sqz02.png"
         }
       }
     }
