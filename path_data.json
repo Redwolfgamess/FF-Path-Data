@@ -51259,6 +51259,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "breakfromtoronto_partynextdoor_bass_sqz02.png"
+        },
+        "0.6": {
+          "path": "3(+1)-1",
+          "phrases": 4,
+          "activations": 2,
+          "overlaps": 1,
+          "no_od_score": 17610,
+          "score": 23868,
+          "notes": "3(+1): 1st R, 1: 3rd Y",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "breakfromtoronto_partynextdoor_bass_sqz06.png"
         }
       }
     }
