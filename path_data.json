@@ -8511,6 +8511,20 @@
           "squeeze": 0.2,
           "filename": "ridewitme_nellyftcityspud_bass_sqz02.png"
         }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1(+1)-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 279936,
+          "score": 347472,
+          "notes": "1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: 1st G (Y), 1: NN (Y), 1(+1): 16th G (Y), 1: 10th G (Y), 1: 7th G (Y), 1: 13th G (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ridewitme_nellyftcityspud_drums_sqz02.png"
+        }
       }
     }
   },
@@ -51766,6 +51780,20 @@
           "squeeze": 0.2,
           "filename": "ghostsnstuff_deadmau5robswire_pro_lead_sqz02.png"
         }
+      },
+      "Pro Bass": {
+        "0.2": {
+          "path": "1-1-2-1-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 62571,
+          "score": 79815,
+          "notes": "1: 12th Y (O), 1: 4th Y (O), 2: 7th Y (Y), 1: 2nd Y (O), 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ghostsnstuff_deadmau5robswire_pro_bass_sqz02.png"
+        }
       }
     }
   },
@@ -52037,6 +52065,72 @@
           "squeeze": 0.2,
           "filename": "youruniverse_epicgames_lead_sqz02.png"
         }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-2-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 113090,
+          "score": 151234,
+          "notes": "1: 1st O (B), 1: 8th Y (R), 1: NN (B), 1: 3rd R (O), 1: 10th B (G), 1: 7th Y (R), 1: NN (B), 1: 3rd R (O), 2: 2nd G (O), 1: NN (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "youruniverse_epicgames_pro_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.3": {
+          "path": "2-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 83117,
+          "score": 109859,
+          "notes": "2: 2nd B, 1: NN, 1: 6th Y (Y), 1: 7th G (R), 1: 7th R, 1: 6th B (B), 1: NN (B), 1: 2nd B, 1: 6th Y (Y), 1: 1st Y",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "youruniverse_epicgames_vocals_sqz03.png"
+        },
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 83117,
+          "score": 109829,
+          "notes": "2: 2nd B, 1: NN, 1: 6th Y (Y), 1: 7th G (R), 1: 7th R, 1: 6th B (B), 1: NN (B), 1: 2nd B, 1: 6th Y (Y), 1: 1st Y",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "youruniverse_epicgames_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 74184,
+          "score": 94584,
+          "notes": "1: 4th O (Y), 1: 1st O (R), 1: 1st R (O), 1: NN (O), 1: 1st O (Y), 1: 1st O (R), 1: 1st R (O), 1: NN (Y), 1: 2nd R (Y), 1: NN (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "youruniverse_epicgames_bass_sqz00.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 74184,
+          "score": 94584,
+          "notes": "1: 4th O (Y), 1: 1st O (R), 1: 1st R (O), 1: NN (O), 1: 1st O (Y), 1: 1st O (R), 1: 1st R (O), 1: NN (Y), 1: 2nd R (Y), 1: NN (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "youruniverse_epicgames_bass_sqz02.png"
+        }
       }
     }
   },
@@ -52057,6 +52151,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "imthevisual_epicgames_bass_sqz03.png"
+        },
+        "0.2": {
+          "path": "1(+1)-2-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 38556,
+          "score": 51519,
+          "notes": "1(+1): 8th Y (Y), 2: 1st G (G), 1: 1st Y (Y), 1: 4th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "imthevisual_epicgames_bass_sqz02.png"
         }
       },
       "Lead": {
@@ -52071,6 +52177,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "imthevisual_epicgames_lead_sqz00.png"
+        },
+        "0.2": {
+          "path": "2-3(+1)-1",
+          "phrases": 6,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 45477,
+          "score": 58533,
+          "notes": "2: 5th G (G), 3(+1): 7th R (B), 1: 1st G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "imthevisual_epicgames_lead_sqz02.png"
         }
       },
       "Drums": {
@@ -52085,6 +52203,32 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "imthevisual_epicgames_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.3": {
+          "path": "3(+1)-1-1-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 94421,
+          "score": 122567,
+          "notes": "3(+1): 8th Y, 1: NN, 1: 14th B (R), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "imthevisual_epicgames_vocals_sqz03.png"
+        },
+        "0.2": {
+          "path": "3(+1)-1-1-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 94421,
+          "score": 122567,
+          "notes": "3(+1): 8th Y, 1: NN, 1: 14th B (R), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "imthevisual_epicgames_vocals_sqz02.png"
         }
       }
     }
@@ -52118,6 +52262,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "foroxr_epicgames_bass_sqz00.png"
+        },
+        "0.2": {
+          "path": "1-2-1-2-1-1-1-1",
+          "phrases": 10,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 108624,
+          "score": 142860,
+          "notes": "1: 13th G (Y), 2: 30th G (R), 1: 1st Y (O), 2: 2nd G (Y), 1: 12th G (B), 1: 11th B (O), 1: NN (R), 1: 5th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "foroxr_epicgames_bass_sqz02.png"
         }
       },
       "Vocals": {
@@ -52132,6 +52288,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "foroxr_epicgames_vocals_sqz03.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1-1-1-2-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 91075,
+          "score": 118903,
+          "notes": "1: 10th R, 1: NN, 1: 16th G (R), 1: 1.6 beats after 5th Y (B), 1: 2nd O, 1: 4th Y (Y), 2: NN, 1: 5th Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "foroxr_epicgames_vocals_sqz02.png"
         }
       },
       "Lead": {
@@ -52146,6 +52314,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "foroxr_epicgames_lead_sqz03.png"
+        },
+        "0.2": {
+          "path": "1-1-1-4-1-1",
+          "phrases": 9,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 90265,
+          "score": 115393,
+          "notes": "1: 1st G (B), 1: NN (B), 1: 13th G (B), 4: 8th O (B), 1: NN (G), 1: 6th B (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "foroxr_epicgames_lead_sqz02.png"
         }
       },
       "Drums": {
@@ -52181,6 +52361,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "memories_epicgames_bass_sqz03.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 76212,
+          "score": 98676,
+          "notes": "1: 2nd O (O), 1: 6th B (O), 1: 8th G (B), 1: 4th B (O), 1: 4th G (B), 1: 4th B (O), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "memories_epicgames_bass_sqz02.png"
         }
       },
       "Drums": {
@@ -52209,6 +52401,121 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "memories_epicgames_lead_sqz03.png"
+        },
+        "0.2": {
+          "path": "1-2-3-1",
+          "phrases": 7,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 90384,
+          "score": 118464,
+          "notes": "1: 44th G (Y), 2: 9th G (G), 3: 5th R (Y), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "memories_epicgames_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 66568,
+          "score": 87148,
+          "notes": "1: 6th G, 1: 3rd G, 1: 6th G, 1: 1 beats after 8th Y (Y), 1: NN, 1: 2nd O, 1: 2nd R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "memories_epicgames_vocals_sqz02.png"
+        }
+      }
+    }
+  },
+  "Go Go Power Rangers - Ron Wasserman": {
+    "shortname": "gogopowerrangersronwasserman",
+    "title": "Go Go Power Rangers",
+    "artist": "Ron Wasserman",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 74656,
+          "score": 93584,
+          "notes": "1: 10th G (R), 1: 1st Y, 1: 2nd B, 1: 1st Y, 1: 7th G (R), 1: 1st Y, 1: 8th G (R), 1: 1st Y, 1: 2nd B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "gogopowerrangers_ronwasserman_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-2-1-1-1-2-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 20,
+          "activations": 18,
+          "overlaps": 0,
+          "no_od_score": 219888,
+          "score": 283536,
+          "notes": "1: 2nd R (R), 1: NN (O), 1: NN (O), 2: 7th O (O), 1: NN (O), 1: NN (O), 1: NN (O), 2: 7th O (O), 1: NN (O), 1: 1st Y (B), 1: 11th R (Y), 1: NN (O), 1: 2nd G (O), 1: 2nd G (O), 1: 2nd G (O), 1: NN (O), 1: 8th R (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "gogopowerrangers_ronwasserman_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-2-1-1-1-2-1-1(+1)-1-1-1-2",
+          "phrases": 18,
+          "activations": 15,
+          "overlaps": 2,
+          "no_od_score": 192304,
+          "score": 262412,
+          "notes": "1(+1): 63rd G (B), 1: 3rd G (B), 1: 3rd G (B), 1: 2nd G (Y), 2: 1st G (B), 1: 3rd G (B), 1: After 7.7 beats (O), 1: 2nd G (Y), 2: 3rd G (B), 1: NN (Y), 1(+1): 10th R (G), 1: NN (B), 1: 2nd G (Y), 1: NN (G), 2: 5th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "gogopowerrangers_ronwasserman_lead_sqz02.png"
+        },
+        "0.3": {
+          "path": "2-1-1-1-2-1-1-1-2-1-1(+1)-1-1-1-2",
+          "phrases": 19,
+          "activations": 15,
+          "overlaps": 1,
+          "no_od_score": 192304,
+          "score": 262456,
+          "notes": "2: 9th B, 1: 3rd G (B), 1: 3rd G (B), 1: 2nd G, 2: 1st G (B), 1: 3rd G (B), 1: After 7.7 beats (O), 1: 2nd G, 2: 3rd G (B), 1: NN (Y), 1(+1): 10th R (G), 1: NN (B), 1: 2nd G, 1: NN, 2: 5th R",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "gogopowerrangers_ronwasserman_lead_sqz03.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 19,
+          "activations": 17,
+          "overlaps": 0,
+          "no_od_score": 194616,
+          "score": 250560,
+          "notes": "2: 1st G (G), 1: NN (G), 2: NN (O), 1: NN (R), 1: 10th G (G), 1: NN (G), 1: 7th B (Y), 1: 6th O (R), 1: NN (R), 1: 5th G (O), 1: NN (R), 1: 15th R (Y), 1: NN (G), 1: 7th B (Y), 1: 6th O (R), 1: NN (R), 1: 7th R (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "gogopowerrangers_ronwasserman_bass_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-2-1-1-1-2-1-1(+1)-1-1-1-2",
+          "phrases": 18,
+          "activations": 15,
+          "overlaps": 2,
+          "no_od_score": 195708,
+          "score": 266104,
+          "notes": "1(+1): 60th G (B), 1: 3rd G (B), 1: 3rd G (B), 1: 2nd R (Y), 2: 1st G (Y), 1: 3rd G (B), 1: After 7.7 beats (O), 1: 3rd R (Y), 2: 3rd G (Y), 1: NN (O), 1(+1): 10th Y (G), 1: NN (O), 1: 2nd R (Y), 1: NN (G), 2: 5th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "gogopowerrangers_ronwasserman_pro_lead_sqz02.png"
         }
       }
     }
