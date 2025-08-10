@@ -52229,6 +52229,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "imthevisual_epicgames_vocals_sqz02.png"
+        },
+        "0.7": {
+          "path": "1-2-1-1-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 94421,
+          "score": 122633,
+          "notes": "1: NN, 2: 8th Y (R), 1: 2nd R (O), 1: NN, 1: 14th B (R), 1: 1st Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.7,
+          "filename": "imthevisual_epicgames_vocals_sqz07.png"
         }
       }
     }
