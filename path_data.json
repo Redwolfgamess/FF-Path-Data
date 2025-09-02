@@ -8434,6 +8434,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "breed_nirvana_drums_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1-2",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 136080,
+          "score": 180144,
+          "notes": "1: NN (O), 1: 9th O (O), 1: 39th O (O), 1: 21st O (O), 1: 15th R (O), 1: 55th O (O), 1: 7th G (O), 1: 3rd R (O), 1: 9th O (O), 1: 15th O (O), 2: 13th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "breed_nirvana_drums_sqz10.png"
         }
       },
       "Vocals": {
@@ -16688,6 +16700,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "runaway_witchgang_drums_sqz00.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 119088,
+          "score": 150768,
+          "notes": "1: 1st B (B), 1: 6th G (O), 1: 6th G (B), 1: 20th O (O), 1: 1st B (Y), 1: 18th G (B), 1: NN (O), 1: 4th O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "runaway_witchgang_drums_sqz04.png"
         }
       },
       "Lead": {
@@ -22311,6 +22335,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "walkthisway_rundmcftaerosmith_bass_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-2-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 59766,
+          "score": 78138,
+          "notes": "1: 4th O (O), 1: NN (R), 1: 8th Y (O), 1: NN, 2: 1st R (G), 1: 7th Y (Y), 1: 20th G (G)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "walkthisway_rundmcftaerosmith_bass_sqz10.png"
         }
       }
     }
@@ -25626,6 +25662,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "feelgoodinc_gorillaz_bass_sqz02.png"
+        },
+        "1.0": {
+          "path": "3-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 50481,
+          "score": 65271,
+          "notes": "3: NN, 1: 2nd R (Y), 1: 4th G, 1: 1st G, 1: 2nd R (G), 1: 4th G",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "feelgoodinc_gorillaz_bass_sqz10.png"
         }
       }
     }
@@ -25824,6 +25872,20 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "ohshhh_icespicefttravisscott_bass_sqz00.png"
+        }
+      },
+      "Pro Bass": {
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 51792,
+          "score": 67039,
+          "notes": "1: 15th R, 1: 2nd R, 1: 1st Y (O), 1: 2nd R, 1: 5th R (R), 1: 4th R, 1: 7th R, 1: 11th R",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "ohshhh_icespicefttravisscott_pro_bass_sqz10.png"
         }
       }
     }
@@ -26397,6 +26459,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "feelitstill_portugaltheman_bass_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 99855,
+          "score": 126243,
+          "notes": "1: 14th Y (G), 1: 3rd B (Y), 1: 6th Y (R), 1: 3rd B (Y), 1: 3rd Y (R), 1: 2nd R (O), 1: 2nd B (O), 1: 2nd B (O), 1: 2nd Y (B), 1: 6th O (G)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "feelitstill_portugaltheman_bass_sqz10.png"
         }
       }
     }
@@ -28327,6 +28401,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "heyya_outkast_drums_sqz00.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 17,
+          "activations": 17,
+          "overlaps": 0,
+          "no_od_score": 107136,
+          "score": 137376,
+          "notes": "1: 1st G (O), 1: 2nd R (O), 1: 1st G (O), 1: 6th R (O), 1: 6th R (O), 1: 4th R (O), 1: 1st R (O), 1: 6th R (O), 1: 6th R (O), 1: 6th R (O), 1: 6th R (O), 1: 1st R (O), 1: 8th R (O), 1: 4th R (O), 1: 1st R (O), 1: 6th R (O), 1: 1st G (O)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "heyya_outkast_drums_sqz10.png"
         }
       },
       "Bass": {
@@ -30596,6 +30682,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "showthemwhoweare_epicgames_drums_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 191520,
+          "score": 234000,
+          "notes": "1: 15th R (Y), 1: NN (Y), 1: 11th G (Y), 1: 1st B (Y), 1: 16th G (Y), 1: 28th Y (Y), 1: 1st B (Y), 1: 1st R (Y), 1: 12th R (Y), 1: 2nd R (Y), 1: 3rd B (Y)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "showthemwhoweare_epicgames_drums_sqz10.png"
         }
       },
       "Vocals": {
@@ -30610,6 +30708,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "showthemwhoweare_epicgames_vocals_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-2(+1)-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 134171,
+          "score": 173854,
+          "notes": "1: 5th R (R), 1: 2nd Y (B), 1: 1st B (B), 1: 14th Y (G), 1: 9th Y (G), 2(+1): 3rd G (B), 1: 2nd Y, 1: NN, 1: 6th B (Y), 1: 5th Y, 1: 20th Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "showthemwhoweare_epicgames_vocals_sqz10.png"
         }
       }
     }
@@ -35709,6 +35819,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "timeless_witchgang_bass_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1(+1)-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 53337,
+          "score": 69105,
+          "notes": "1: 2nd R (B), 1(+1): 7th G (Y), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "timeless_witchgang_bass_sqz10.png"
         }
       },
       "Lead": {
@@ -38944,6 +39066,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "airplanes_bobfthayleywilliams_drums_sqz02.png"
+        },
+        "1.0": {
+          "path": "3-2(+1)-1",
+          "phrases": 6,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 100104,
+          "score": 129624,
+          "notes": "3: 3rd G (O), 2(+1): 10th G (B), 1: 14th R (R)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "airplanes_bobfthayleywilliams_drums_sqz10.png"
         }
       },
       "Lead": {
@@ -39978,6 +40112,18 @@
           "difficulty": "Expert",
           "squeeze": 0.6,
           "filename": "iwantitthatway_backstreetboys_bass_sqz06.png"
+        },
+        "1.0": {
+          "path": "1-1-1-2-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 69498,
+          "score": 90144,
+          "notes": "1: 3rd G, 1: 3rd Y, 1: 2nd O, 2: 8th G, 1: 5th Y, 1: 7th G",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "iwantitthatway_backstreetboys_bass_sqz10.png"
         }
       },
       "Drums": {
@@ -40566,6 +40712,18 @@
           "difficulty": "Expert",
           "squeeze": 0.6,
           "filename": "melt_ryosupercellfthatsunemiku_vocals_sqz06.png"
+        },
+        "0.4": {
+          "path": "1(+1)-1-2(+1)-1-1-1-3(+1)-3",
+          "phrases": 13,
+          "activations": 8,
+          "overlaps": 3,
+          "no_od_score": 161124,
+          "score": 214584,
+          "notes": "1(+1): 4th G, 1: NN, 2(+1): 11th Y (Y), 1: NN, 1: 2nd Y (Y), 1: 5th Y, 3(+1): 9th R, 3: 4th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "melt_ryosupercellfthatsunemiku_vocals_sqz04.png"
         }
       },
       "Pro Lead": {
@@ -44659,6 +44817,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "blamebrett_thebeaches_pro_lead_sqz10.png"
+        },
+        "0.4": {
+          "path": "4-1-4(+1)-1",
+          "phrases": 10,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 155544,
+          "score": 203656,
+          "notes": "4: 1st G (Y), 1: NN, 4(+1): 4th G (B), 1: 73rd R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "blamebrett_thebeaches_pro_lead_sqz04.png"
         }
       },
       "Pro Bass": {
@@ -53553,6 +53723,30 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "montagemtomadaslowed_mxzi_vocals_sqz03.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 63583,
+          "score": 82519,
+          "notes": "1: 22nd R (R), 1: 15th R, 1: 9th G (R), 1: 3rd R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "montagemtomadaslowed_mxzi_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 63583,
+          "score": 83161,
+          "notes": "1: 22nd R (B), 1: 16th R (R), 1: 9th G (R), 1: 3rd R (B)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "montagemtomadaslowed_mxzi_vocals_sqz10.png"
         }
       },
       "Bass": {
@@ -53619,6 +53813,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "montagemtomadaslowed_mxzi_drums_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 10944,
+          "score": 14724,
+          "notes": "1: 14th O (O), 1: 4th O (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "montagemtomadaslowed_mxzi_drums_sqz10.png"
         }
       }
     }
@@ -53902,6 +54108,20 @@
           "squeeze": 1.0,
           "filename": "dare_gorillazftshaunryderrosesgabor_drums_sqz10.png"
         }
+      },
+      "Pro Bass": {
+        "1.0": {
+          "path": "3(+1)-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 43809,
+          "score": 56325,
+          "notes": "3(+1): 4th G, 1: NN, 1: NN, 1: 2nd G, 1: NN, 1: 2nd G, 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "dare_gorillazftshaunryderrosesgabor_pro_bass_sqz10.png"
+        }
       }
     }
   },
@@ -53934,6 +54154,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "onmelancholyhill_gorillaz_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1(+1)-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 55542,
+          "score": 75729,
+          "notes": "1: 4th Y, 1: 5th Y (Y), 1: NN, 1: 6th R, 1: 8th Y (R), 1(+1): 2nd R, 1: 2nd R",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "onmelancholyhill_gorillaz_vocals_sqz10.png"
         }
       },
       "Drums": {
@@ -53974,6 +54206,18 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "onmelancholyhill_gorillaz_bass_sqz04.png"
+        },
+        "1.0": {
+          "path": "2-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 86184,
+          "score": 107352,
+          "notes": "2: 3rd R (G), 1: NN (R), 1: NN (Y), 1: NN (R), 1: NN (R), 1: NN (O), 1: NN (R), 1: NN (G), 1: NN (O), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "onmelancholyhill_gorillaz_bass_sqz10.png"
         }
       },
       "Lead": {
@@ -54045,6 +54289,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "pickitupremix_epicgames_vocals_sqz03.png"
+        },
+        "0.0": {
+          "path": "2(+1)-1-1-1-2-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 101748,
+          "score": 130632,
+          "notes": "2(+1): 0.56 beats after 8th O (R), 1: 19th R (B), 1: 13th O (Y), 1: 2nd O (Y), 2: 1st Y (O), 1: 7th Y (O), 1: 9th Y",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "pickitupremix_epicgames_vocals_sqz00.png"
         }
       },
       "Lead": {
@@ -54342,6 +54598,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "chyldofdawn_epicgames_vocals_sqz03.png"
+        },
+        "0.4": {
+          "path": "1(+1)-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 59159,
+          "score": 79043,
+          "notes": "1(+1): 9th Y, 1: 19th B (B), 1: 1st R, 1: 2nd B (G), 1: 4th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "chyldofdawn_epicgames_vocals_sqz04.png"
         }
       },
       "Bass": {
@@ -54394,6 +54662,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "chyldofdawn_epicgames_lead_sqz03.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 95484,
+          "score": 123996,
+          "notes": "1: NN (G), 1: NN (O), 1: NN (Y), 1: NN (B), 1: 1st G (G), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "chyldofdawn_epicgames_lead_sqz00.png"
         }
       },
       "Drums": {
