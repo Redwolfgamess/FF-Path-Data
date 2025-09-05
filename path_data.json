@@ -1202,6 +1202,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "unsainted_slipknot_bass_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1-1-4(+1)",
+          "phrases": 12,
+          "activations": 9,
+          "overlaps": 1,
+          "no_od_score": 283605,
+          "score": 375405,
+          "notes": "1: 7th Y (Y), 1: NN (Y), 1: NN (G), 1: NN (G), 1: NN (O), 1: NN (G), 1: NN (G), 1: NN (R), 4(+1): 3rd G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "unsainted_slipknot_bass_sqz06.png"
         }
       },
       "Vocals": {
@@ -16258,6 +16270,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "heartbreaker_patbenatar_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-2-1-1-2-1-1-2",
+          "phrases": 12,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 149910,
+          "score": 196986,
+          "notes": "1: 6th B, 1: 2nd Y (R), 2: 13th G, 1: NN, 1: 5th G (G), 2: 2nd R (G), 1: 9th Y, 1: 17th Y, 2: 2nd G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "heartbreaker_patbenatar_bass_sqz04.png"
         }
       }
     }
@@ -38104,6 +38128,20 @@
           "squeeze": 0.2,
           "filename": "metoo_meghantrainor_bass_sqz02.png"
         }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "2-2-1-1(+1)",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 26340,
+          "score": 37026,
+          "notes": "2: 15th Y (O), 2: NN (O), 1: 13th G (G), 1(+1): 1st Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "metoo_meghantrainor_lead_sqz02.png"
+        }
       }
     }
   },
@@ -54122,6 +54160,32 @@
           "squeeze": 1.0,
           "filename": "dare_gorillazftshaunryderrosesgabor_pro_bass_sqz10.png"
         }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-2-1-1-2-1-1-1-1-2",
+          "phrases": 13,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 89022,
+          "score": 116598,
+          "notes": "1: 1st O (O), 2: 6th G (Y), 1: After 2.5 beats (B), 1: NN (B), 2: 2nd G (Y), 1: 5th G (Y), 1: NN (Y), 1: NN, 1: 1st Y (Y), 2: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "dare_gorillazftshaunryderrosesgabor_pro_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-2-1-1-2-1-1-1-1-2",
+          "phrases": 13,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 89022,
+          "score": 116598,
+          "notes": "1: 1st O (O), 2: 6th G (Y), 1: After 2.5 beats (B), 1: NN (B), 2: 2nd G (Y), 1: 5th G (Y), 1: NN (Y), 1: NN, 1: 1st Y (Y), 2: 2nd G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "dare_gorillazftshaunryderrosesgabor_pro_lead_sqz04.png"
+        }
       }
     }
   },
@@ -54565,6 +54629,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "comealive_epicgames_bass_sqz03.png"
+        },
+        "0.4": {
+          "path": "3-1-2-1-2-1",
+          "phrases": 10,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 101736,
+          "score": 133272,
+          "notes": "3: 1st R (O), 1: NN (B), 2: 1st G (O), 1: 4th R (Y), 2: 6th G (O), 1: 1st R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "comealive_epicgames_bass_sqz04.png"
         }
       }
     }
@@ -54796,6 +54872,270 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sunflower_spidermanintothespiderversepostmalonewswaelee_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 122688,
+          "score": 152208,
+          "notes": "1: NN (Y), 1: NN (Y), 1: NN (Y), 1: 3rd G (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sunflower_spidermanintothespiderversepostmalonewswaelee_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1(+1)-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 51771,
+          "score": 66783,
+          "notes": "1: NN (B), 1(+1): 15th R (G), 1: 15th R (G), 1: 3rd R (G), 1: 3rd Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sunflower_spidermanintothespiderversepostmalonewswaelee_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Move Your Feet - Junior Senior": {
+    "shortname": "moveyourfeetjuniorsenior",
+    "title": "Move Your Feet",
+    "artist": "Junior Senior",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-4(+1)-1",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 114948,
+          "score": 147060,
+          "notes": "1: NN (B), 1: 23rd G (G), 1: 1st B (B), 4(+1): 1st R (Y), 1: 7th Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "moveyourfeet_juniorsenior_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "2(+1)-3-2-1",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 97101,
+          "score": 132387,
+          "notes": "2(+1): 7th Y (Y), 3: NN, 2: 1st Y (B), 1: 1st B (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "moveyourfeet_juniorsenior_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-2-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 145728,
+          "score": 186336,
+          "notes": "1: 12th G (B), 1: NN (B), 2: 3rd G (B), 1: NN (B), 1: 12th G (Y), 1: 3rd G (Y), 1: NN (Y), 1: 12th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "moveyourfeet_juniorsenior_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2(+1)-1(+1)-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 2,
+          "no_od_score": 64650,
+          "score": 85314,
+          "notes": "2(+1): 9th G (Y), 1(+1): 9th G (Y), 1: 1st G (Y), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "moveyourfeet_juniorsenior_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "Locked and Loaded - d4vd": {
+    "shortname": "lockedandloadedd4vd",
+    "title": "Locked and Loaded",
+    "artist": "d4vd",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "3-1-1",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 74835,
+          "score": 97095,
+          "notes": "3: 0.72 beats after 2nd O (G), 1: 21st Y (Y), 1: 1st Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedandloaded_d4vd_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1(+1)",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 21111,
+          "score": 27438,
+          "notes": "1: NN (R), 1: 1st Y (B), 1: 7 beats after 1st R (B), 1(+1): 2nd R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedandloaded_d4vd_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-3-1(+1)",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 62949,
+          "score": 90741,
+          "notes": "1: 8th B (R), 3: 3rd Y (Y), 1(+1): 5th B (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedandloaded_d4vd_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 87552,
+          "score": 109440,
+          "notes": "1: 1st R (Y), 1: 7th R (Y), 1: 6th R (Y), 1: 1st R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "lockedandloaded_d4vd_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "Big Dawgs - Hanumankind ft. Kalmi": {
+    "shortname": "bigdawgshanumankindftkalmi",
+    "title": "Big Dawgs",
+    "artist": "Hanumankind ft. Kalmi",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "2-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 159052,
+          "score": 201976,
+          "notes": "2: 2nd B (Y), 1: NN (O), 1: 2nd G (B), 1: 5th G (Y), 1: NN (G), 1: 1st G (B), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bigdawgs_hanumankindftkalmi_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 159052,
+          "score": 201994,
+          "notes": "2: 4th Y, 1: 2nd Y, 1: 2nd G (B), 1: 5th G (Y), 1: NN (G), 1: 1st G (B), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "bigdawgs_hanumankindftkalmi_vocals_sqz04.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 51222,
+          "score": 68670,
+          "notes": "1: 5th R (R), 1: 4th R (R), 1: 2nd R (R), 1: NN (B), 1: 1st G (B), 1: NN (B), 1: 1st G (Y), 1: 1st G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bigdawgs_hanumankindftkalmi_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 179712,
+          "score": 228384,
+          "notes": "1: NN (Y), 1: 2nd R (Y), 1: 6th R (Y), 1: 5th R (Y), 1: 9th R (Y), 1: NN (Y), 1: 1st G (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bigdawgs_hanumankindftkalmi_drums_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 60284,
+          "score": 80324,
+          "notes": "1: 7th G (G), 1: 4th G (G), 1: 3rd G (G), 1: NN (B), 1: 1st G (B), 1: NN (O), 1: 1st G (Y), 1: 1st G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bigdawgs_hanumankindftkalmi_pro_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 48588,
+          "score": 63402,
+          "notes": "1: 5th R (R), 1: 3rd R (R), 1: NN (R), 1: 2nd R, 1: 1st R (R), 1: NN (R), 1: NN (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bigdawgs_hanumankindftkalmi_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "Big Dawgs - Hanumankind Feat. Kalmi": {
+    "shortname": "bigdawgshanumankindfeatkalmi",
+    "title": "Big Dawgs",
+    "artist": "Hanumankind Feat. Kalmi",
+    "instruments": {
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 179712,
+          "score": 228384,
+          "notes": "1: NN (Y), 1: 2nd R (Y), 1: 6th R (Y), 1: 5th R (Y), 1: 9th R (Y), 1: NN (Y), 1: 1st G (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bigdawgs_hanumankindfeatkalmi_drums_sqz02.png"
         }
       }
     }
