@@ -55744,5 +55744,229 @@
         }
       }
     }
+  },
+  "Wildberry Lillet - Nina Chuba": {
+    "shortname": "wildberrylilletninachuba",
+    "title": "Wildberry Lillet",
+    "artist": "Nina Chuba",
+    "instruments": {
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 21909,
+          "score": 29868,
+          "notes": "1: 4th B (Y), 1: 4th B, 1: 3rd B (Y), 1: NN (Y), 1: 3rd B (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wildberrylillet_ninachuba_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 77688,
+          "score": 99756,
+          "notes": "1: 13th G (O), 1: 3rd R (Y), 1: 9th G (O), 1: 10th G (O), 1: 1st O (O), 1: 8th G (O), 1: 1st R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wildberrylillet_ninachuba_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 110592,
+          "score": 140616,
+          "notes": "1: 17th B (G), 1: 10th G (G), 1: 3rd Y (B), 1: NN (Y), 1: NN (B), 1: 1st Y (O), 1: 1st B (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wildberrylillet_ninachuba_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-2(+1)-2-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 71280,
+          "score": 93456,
+          "notes": "1: 1st G (Y), 2(+1): 9th G (Y), 2: 1st Y (Y), 1: 1st G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wildberrylillet_ninachuba_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "Cheguei - LUDMILLA": {
+    "shortname": "chegueiludmilla",
+    "title": "Cheguei",
+    "artist": "LUDMILLA",
+    "instruments": {
+      "Bass": {
+        "0.2": {
+          "path": "3(+1)-1(+1)-1-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 2,
+          "no_od_score": 51243,
+          "score": 71313,
+          "notes": "3(+1): 4th G (R), 1(+1): 12th Y (Y), 1: 4th R (R), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "cheguei_ludmilla_bass_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 94320,
+          "score": 120672,
+          "notes": "1: 17th R (Y), 1: 23rd R (O), 1: 3rd R (O), 1: 20th R (O), 1: 24th R (O), 1: 14th O (Y), 1: NN (O), 1: 1st G (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "cheguei_ludmilla_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 133933,
+          "score": 168751,
+          "notes": "1: 2nd G, 1: 2nd Y, 1: 3rd B, 1: 2nd G, 1: NN (Y), 1: NN (G), 1: 6th G, 1: 2nd G, 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "cheguei_ludmilla_vocals_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 65688,
+          "score": 85968,
+          "notes": "1: 1st R (R), 1: 7th G (O), 1: 9th B, 1: 1st B, 1: 6th G, 1: 15th R (G), 1: 3rd G, 1: 1st B, 1: 3rd B (Y), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "cheguei_ludmilla_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Proibida Pra Mim (Grazon) - Charlie Brown Jr.": {
+    "shortname": "proibidapramimgrazoncharliebrownjr",
+    "title": "Proibida Pra Mim (Grazon)",
+    "artist": "Charlie Brown Jr.",
+    "instruments": {
+      "Bass": {
+        "0.2": {
+          "path": "1-2(+1)-1-1-2(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 8,
+          "overlaps": 2,
+          "no_od_score": 139299,
+          "score": 178233,
+          "notes": "1: 8th Y (G), 2(+1): 7th O (R), 1: NN (G), 1: NN (R), 2(+1): 7th O (R), 1: NN (G), 1: 3rd O (R), 1: 21st G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "proibidapramimgrazon_charliebrownjr_bass_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-1-1-1(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 2,
+          "no_od_score": 144890,
+          "score": 192362,
+          "notes": "1(+1): 7th B (O), 1: NN (R), 1: 8th G (O), 1: NN (Y), 1: 5th B (R), 1: 13th B (O), 1(+1): 3rd G (O), 1: NN, 1: 5th Y (O), 1: 10th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "proibidapramimgrazon_charliebrownjr_pro_lead_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1(+1)-1-1-1-1-1-1(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 2,
+          "no_od_score": 144510,
+          "score": 191982,
+          "notes": "1(+1): 9th R (O), 1: NN (R), 1: 8th G (O), 1: NN (R), 1: 5th R (Y), 1: 9th B (O), 1(+1): 15th G (O), 1: NN, 1: 4th R (O), 1: 10th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "proibidapramimgrazon_charliebrownjr_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-2-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 137808,
+          "score": 178416,
+          "notes": "1: 7th R (Y), 1: NN (Y), 1: 8th O (O), 2: 5th G (O), 1: NN (B), 1: 1st R (Y), 1: 6th O (O), 1: 1st G (O), 1: 9th O (R), 1: 4th R (O), 1: 1st G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "proibidapramimgrazon_charliebrownjr_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1(+1)-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 69443,
+          "score": 89393,
+          "notes": "1: 20th B, 1: 10th R, 1(+1): 9th G, 1: 10th R, 1: 4th R, 1: 10th R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "proibidapramimgrazon_charliebrownjr_vocals_sqz02.png"
+        }
+      }
+    }
+  },
+  "Happier Than Ever - Edit** - *Billie Eilish": {
+    "shortname": "happierthanevereditbillieeilish",
+    "title": "Happier Than Ever",
+    "artist": "Edit** - *Billie Eilish",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-2-2",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 60960,
+          "score": 81432,
+          "notes": "1: NN (B), 1: NN (O), 1: 8th O (B), 1: NN, 1: 2nd B (O), 1: 2nd R (Y), 1: 1st B (G), 1: NN (O), 2: 1st O (R), 2: 2nd O (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "happierthanever_editbillieeilish_lead_sqz02.png"
+        }
+      }
+    }
   }
 }
