@@ -55776,6 +55776,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "wildberrylillet_ninachuba_lead_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 77688,
+          "score": 99756,
+          "notes": "1: 13th G (O), 1: 3rd R (Y), 1: 9th G (O), 1: 10th G (O), 1: 1st O (O), 1: 8th G (O), 1: 1st R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "wildberrylillet_ninachuba_lead_sqz03.png"
         }
       },
       "Vocals": {
@@ -55790,6 +55802,30 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "wildberrylillet_ninachuba_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 110592,
+          "score": 140616,
+          "notes": "1: 17th B (G), 1: 10th G (G), 1: 3rd Y (B), 1: NN (Y), 1: NN (B), 1: 1st Y (O), 1: 1st B (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "wildberrylillet_ninachuba_vocals_sqz04.png"
+        },
+        "1.0": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 110592,
+          "score": 140832,
+          "notes": "1: 17th B (G), 1: 10th G (G), 1: 3rd Y (B), 1: NN (Y), 1: NN (B), 1: 1st O (R), 1: 1st B (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "wildberrylillet_ninachuba_vocals_sqz10.png"
         }
       },
       "Drums": {
@@ -55825,6 +55861,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "cheguei_ludmilla_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "3(+1)-1(+1)-1-1",
+          "phrases": 6,
+          "activations": 4,
+          "overlaps": 2,
+          "no_od_score": 51243,
+          "score": 71313,
+          "notes": "3(+1): 4th G (R), 1(+1): 12th Y (Y), 1: 4th R (R), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "cheguei_ludmilla_bass_sqz03.png"
         }
       },
       "Drums": {
@@ -55853,6 +55901,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "cheguei_ludmilla_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 133933,
+          "score": 168757,
+          "notes": "1: 2nd G, 1: 2nd Y, 1: 3rd B, 1: 2nd G, 1: NN (Y), 1: NN (G), 1: 6th G, 1: 2nd G, 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "cheguei_ludmilla_vocals_sqz03.png"
         }
       },
       "Lead": {
@@ -55965,6 +56025,55 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "happierthanever_editbillieeilish_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Undone - The Sweater Song** - *Weezer": {
+    "shortname": "undonethesweatersongweezer",
+    "title": "Undone",
+    "artist": "The Sweater Song** - *Weezer",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 14,
+          "activations": 14,
+          "overlaps": 0,
+          "no_od_score": 118103,
+          "score": 155753,
+          "notes": "1: 7th B, 1: NN (R), 1: 7th R (B), 1: 5th R, 1: NN, 1: 5th R (B), 1: 3rd O, 1: After 0.48 beats (R), 1: 3rd O, 1: After 0.48 beats (R), 1: 2nd G (Y), 1: NN, 1: 1st R, 1: 3rd R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "undone_thesweatersongweezer_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-4(+1)",
+          "phrases": 18,
+          "activations": 15,
+          "overlaps": 1,
+          "no_od_score": 174384,
+          "score": 229536,
+          "notes": "1: 3rd R (B), 1: NN (B), 1: NN (B), 1: NN (B), 1: NN (B), 1: NN (Y), 1: NN (O), 1: NN (Y), 1: NN (Y), 1: NN (O), 1: NN (Y), 1: NN (O), 1: NN (Y), 1: NN (O), 4(+1): 7th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "undone_thesweatersongweezer_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "3(+1)-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1",
+          "phrases": 19,
+          "activations": 16,
+          "overlaps": 1,
+          "no_od_score": 167340,
+          "score": 214944,
+          "notes": "3(+1): 3rd G (Y), 1: NN (Y), 1: 1st G (O), 1: NN (Y), 1: NN (B), 1: 6th G (Y), 1: 6th R (Y), 1: NN (B), 1: 9th G (Y), 1: NN (B), 2: 11th G (Y), 1: NN (Y), 1: NN (O), 1: 2nd O (Y), 1: NN (R), 1: 1st G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "undone_thesweatersongweezer_lead_sqz02.png"
         }
       }
     }
