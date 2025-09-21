@@ -10190,6 +10190,20 @@
           "squeeze": 0.2,
           "filename": "marchofthepigs_nineinchnails_pro_lead_sqz02.png"
         }
+      },
+      "Pro Bass": {
+        "0.2": {
+          "path": "2(+1)-1-3-1-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 251856,
+          "score": 322056,
+          "notes": "2(+1): 9th G (Y), 1: NN (Y), 3: 1st G (Y), 1: NN (Y), 1: NN (G), 1: 5th G (G), 1: 3rd G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "marchofthepigs_nineinchnails_pro_bass_sqz02.png"
+        }
       }
     }
   },
@@ -22377,6 +22391,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "walkthisway_rundmcftaerosmith_lead_sqz02.png"
+        },
+        "1.0": {
+          "path": "1-1-1-2-1-1-2-2-1-1-2",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 204980,
+          "score": 273936,
+          "notes": "1: 14th R (G), 1: 5th G (O), 1: 4th Y (Y), 2: 2nd B (O), 1: 2nd O (R), 1: 2nd Y (R), 2: 7th O (B), 2: 2nd R (Y), 1: 3rd O (O), 1: 10th R, 2: 16th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "walkthisway_rundmcftaerosmith_lead_sqz10.png"
         }
       },
       "Drums": {
@@ -22457,6 +22483,20 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "walkthisway_rundmcftaerosmith_bass_sqz10.png"
+        }
+      },
+      "Pro Bass": {
+        "0.2": {
+          "path": "1-1-1-1-2-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 60198,
+          "score": 78774,
+          "notes": "1: 4th O (O), 1: NN (R), 1: 8th Y (O), 1: NN (G), 2: 1st R (G), 1: 7th Y (Y), 1: 3rd Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "walkthisway_rundmcftaerosmith_pro_bass_sqz02.png"
         }
       }
     }
@@ -46906,6 +46946,18 @@
           "difficulty": "Expert",
           "squeeze": 0.6,
           "filename": "goodluckbabe_chappellroan_vocals_sqz06.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-2",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 113659,
+          "score": 147204,
+          "notes": "1: 7th Y (B), 1: 4th O (O), 1: 1st Y, 1: 7th O, 1: NN, 1: NN, 1: 10th Y, 1: 15th Y, 2: 7th Y",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "goodluckbabe_chappellroan_vocals_sqz04.png"
         }
       }
     }
@@ -52540,6 +52592,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "stroberadioedit_deadmau5_vocals_sqz03.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 23112,
+          "score": 28800,
+          "notes": "1: 3rd R (R), 1: 3rd G (R), 1: NN (R), 1: 2nd Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "stroberadioedit_deadmau5_vocals_sqz04.png"
         }
       },
       "Lead": {
@@ -55788,6 +55852,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "wildberrylillet_ninachuba_lead_sqz03.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 77688,
+          "score": 99756,
+          "notes": "1: 13th G (O), 1: 3rd R (Y), 1: 9th G (O), 1: 10th G (O), 1: 1st O (O), 1: 8th G (O), 1: 1st R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "wildberrylillet_ninachuba_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -55840,6 +55916,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "wildberrylillet_ninachuba_drums_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 77688,
+          "score": 99756,
+          "notes": "1: 10th R (O), 1: 4th Y (O), 1: 10th R (O), 1: 15th R (O), 1: 1st O (O), 1: 8th R (O), 1: 1st Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "wildberrylillet_ninachuba_pro_lead_sqz02.png"
         }
       }
     }
@@ -55948,6 +56038,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "proibidapramimgrazon_charliebrownjr_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-3-1-1-2(+1)-1-1-1",
+          "phrases": 11,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 139299,
+          "score": 178275,
+          "notes": "1: 8th G, 3: 1st R, 1: 7th Y, 1: 5th G, 2(+1): 3rd G, 1: 3rd G, 1: 2nd G, 1: 21st G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "proibidapramimgrazon_charliebrownjr_bass_sqz03.png"
         }
       },
       "Pro Lead": {
@@ -56074,6 +56176,119 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "undone_thesweatersongweezer_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "As Alive As You Need Me To Be - Nine Inch Nails": {
+    "shortname": "asaliveasyouneedmetobenineinchnails",
+    "title": "As Alive As You Need Me To Be",
+    "artist": "Nine Inch Nails",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "2-2-1-3",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 43788,
+          "score": 64848,
+          "notes": "2: 2nd G (B), 2: 1st Y (O), 1: 1st G (O), 3: 2nd G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_lead_sqz02.png"
+        },
+        "0.3": {
+          "path": "2-2-1-3",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 43788,
+          "score": 64848,
+          "notes": "2: 2nd G (B), 2: 1st Y (O), 1: 1st G (O), 3: 2nd G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_lead_sqz03.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "4-3-1-1-1",
+          "phrases": 10,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 233172,
+          "score": 303156,
+          "notes": "4: 1st O (Y), 3: 1st R (B), 1: NN (G), 1: NN (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_bass_sqz02.png"
+        },
+        "0.3": {
+          "path": "4-3-1-1-1",
+          "phrases": 10,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 233172,
+          "score": 303156,
+          "notes": "4: 1st O (Y), 3: 1st R (B), 1: NN (G), 1: NN (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_bass_sqz03.png"
+        }
+      },
+      "Vocals": {
+        "0.3": {
+          "path": "1-1-2-2-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 85635,
+          "score": 109827,
+          "notes": "1: 15th R, 1: 3rd B (R), 2: 6th R, 2: 5th Y, 1: 3rd R (G), 1: 1st G",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_vocals_sqz03.png"
+        },
+        "0.2": {
+          "path": "1-1-2-2-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 85635,
+          "score": 109803,
+          "notes": "1: 15th R (Y), 1: 3rd B (R), 2: 6th R (O), 2: 3rd R (B), 1: 3rd R (G), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "3(+1)-2(+1)-1-1-1",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 2,
+          "no_od_score": 138960,
+          "score": 185472,
+          "notes": "3(+1): 3rd R (Y), 2(+1): 13th R (Y), 1: NN (Y), 1: 3rd Y (Y), 1: 31st Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_drums_sqz02.png"
+        }
+      },
+      "Pro Bass": {
+        "0.2": {
+          "path": "4-3-1-1-1",
+          "phrases": 10,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 234018,
+          "score": 304002,
+          "notes": "4: 1st O (Y), 3: 1st R (B), 1: NN (G), 1: NN (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_pro_bass_sqz02.png"
         }
       }
     }
