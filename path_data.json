@@ -44901,7 +44901,7 @@
           "overlaps": 1,
           "no_od_score": 157968,
           "score": 201744,
-          "notes": "1(+1): 1st G (Y), 1: 3rd R (Y), 1: NN (Y), 2: 1st G (Y), 1: 1st R (Y), 1: 4th R (Y), 1: NN (Y), 2: 2nd G (Y)",
+          "notes": "1(+1): 1st G (Y), 1: 3rd R (B), 1: NN (B), 2: 1st G (Y), 1: 1st R (Y), 1: 4th R (B), 1: NN (B), 2: 2nd G (B)",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "blamebrett_thebeaches_drums_sqz02.png"
@@ -44999,8 +44999,8 @@
           "phrases": 11,
           "activations": 11,
           "overlaps": 0,
-          "no_od_score": 184050,
-          "score": 224442,
+          "no_od_score": 184068,
+          "score": 224460,
           "notes": "1: NN (B), 1: NN (O), 1: NN (R), 1: NN (Y), 1: NN (B), 1: NN (O), 1: NN (R), 1: NN (Y), 1: NN (B), 1: NN (B), 1: NN (R)",
           "difficulty": "Expert",
           "squeeze": 0.2,
@@ -56261,6 +56261,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "asaliveasyouneedmetobe_nineinchnails_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-2-2-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 85635,
+          "score": 109827,
+          "notes": "1: 15th R, 1: 3rd B (R), 2: 6th R, 2: 5th Y, 1: 3rd R (G), 1: 1st G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "asaliveasyouneedmetobe_nineinchnails_vocals_sqz04.png"
         }
       },
       "Drums": {
@@ -56289,6 +56301,332 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "asaliveasyouneedmetobe_nineinchnails_pro_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "I Feel It Coming - The Weeknd ft. Daft Punk": {
+    "shortname": "ifeelitcomingtheweekndftdaftpunk",
+    "title": "I Feel It Coming",
+    "artist": "The Weeknd ft. Daft Punk",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-2-1-2-1-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 124060,
+          "score": 162699,
+          "notes": "1: 3rd Y (B), 2: 4th O (B), 1: 4th G (O), 2: 2nd G (G), 1: 4th G (B), 1: 5th O (Y), 1: 7th B (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ifeelitcoming_theweekndftdaftpunk_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-2-1-2-1-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 124060,
+          "score": 162705,
+          "notes": "1: 3rd Y (B), 2: 4th O (B), 1: 4th G (O), 2: 2nd G (G), 1: 4th G (B), 1: 5th O (Y), 1: 7th B",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "ifeelitcoming_theweekndftdaftpunk_vocals_sqz03.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 206208,
+          "score": 253728,
+          "notes": "1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ifeelitcoming_theweekndftdaftpunk_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "3-2-1-1-1-1",
+          "phrases": 9,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 125730,
+          "score": 164610,
+          "notes": "3: 3rd Y (R), 2: 4th B (B), 1: 5th Y (O), 1: 5th Y (O), 1: 6th B (B), 1: 1st Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ifeelitcoming_theweekndftdaftpunk_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "3-2-1-1-1-1",
+          "phrases": 9,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 125730,
+          "score": 164610,
+          "notes": "3: 3rd Y (R), 2: 4th B (B), 1: 5th Y (O), 1: 5th Y (O), 1: 6th B (B), 1: 1st Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ifeelitcoming_theweekndftdaftpunk_lead_sqz04.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 59130,
+          "score": 79650,
+          "notes": "1: 1st Y (B), 1: 2nd R (Y), 1: 1st G (B), 1: NN (B), 1: 1st G (B), 1: NN (Y), 1: 2nd R (Y), 1: 1st G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ifeelitcoming_theweekndftdaftpunk_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "Get Lucky - Daft Punk ft. Pharrell Williams and Nile Rodgers": {
+    "shortname": "getluckydaftpunkftpharrellwilliamsandnilerodgers",
+    "title": "Get Lucky",
+    "artist": "Daft Punk ft. Pharrell Williams and Nile Rodgers",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-3-4(+1)-1-1-1",
+          "phrases": 12,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 186921,
+          "score": 237375,
+          "notes": "1: 4th Y (B), 1: 1st R (R), 3: 2nd Y (B), 4(+1): 2nd R (B), 1: 1st Y (B), 1: 1st R (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-3-4(+1)-1-1-1",
+          "phrases": 12,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 186921,
+          "score": 237393,
+          "notes": "1: 4th O, 1: 1st R (R), 3: 3rd O, 4(+1): 2nd R (B), 1: 3rd O, 1: 1st R (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_vocals_sqz03.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-4-1-1-1-1-1-1-1-1",
+          "phrases": 18,
+          "activations": 15,
+          "overlaps": 0,
+          "no_od_score": 379584,
+          "score": 473184,
+          "notes": "1: 8th R (Y), 1: 6th R (Y), 1: 14th R (Y), 1: 10th R (Y), 1: 6th R (Y), 1: NN (Y), 4: 2nd R (Y), 1: NN (Y), 1: 11th G (Y), 1: 11th G (Y), 1: 11th G (Y), 1: 9th G (Y), 1: NN (Y), 1: NN (Y), 1: 14th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-3-1-1-1-1-1",
+          "phrases": 18,
+          "activations": 16,
+          "overlaps": 0,
+          "no_od_score": 462192,
+          "score": 575148,
+          "notes": "1: 2nd G (O), 1: 54th R (Y), 1: 22nd R (Y), 1: 3rd R (B), 1: 38th R (Y), 1: 22nd R (Y), 1: 59th R (B), 1: 3rd G (O), 1: 3rd R (Y), 1: 3rd G (Y), 3: 12th R (B), 1: 3rd R (Y), 1: 8th G (O), 1: 3rd R (B), 1: 3rd G (O), 1: 1st Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 14,
+          "overlaps": 0,
+          "no_od_score": 213831,
+          "score": 269397,
+          "notes": "2: 5th G (R), 1: 9th R (R), 1: 3rd Y (O), 1: 1st G (G), 1: 2nd G (O), 1: NN (B), 1: 6th Y (G), 1: 4th Y (R), 1: 5th Y (R), 1: NN (R), 1: 5th Y (R), 1: 1st Y (G), 1: 1st Y (G), 1: 1st Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_bass_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-3-1-1-1-1-1",
+          "phrases": 18,
+          "activations": 16,
+          "overlaps": 0,
+          "no_od_score": 477096,
+          "score": 593796,
+          "notes": "1: 31st R (B), 1: 47th R (Y), 1: 31st R (Y), 1: 79th R (B), 1: 22nd R (Y), 1: 21st Y (B), 1: 43rd R (B), 1: 4th G (B), 1: 15th G (B), 1: 3rd G (Y), 3: 12th R (B), 1: 3rd R (Y), 1: 5th G (B), 1: 15th R (B), 1: 3rd G (B), 1: 1st R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_pro_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Instant Crush - Daft Punk ft. Julian Casablancas": {
+    "shortname": "instantcrushdaftpunkftjuliancasablancas",
+    "title": "Instant Crush",
+    "artist": "Daft Punk ft. Julian Casablancas",
+    "instruments": {
+      "Drums": {
+        "0.2": {
+          "path": "1-4(+1)-1-1-1-4(+1)-1-1-1-1-1",
+          "phrases": 17,
+          "activations": 11,
+          "overlaps": 2,
+          "no_od_score": 361584,
+          "score": 466560,
+          "notes": "1: NN (Y), 4(+1): 5th G (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 4(+1): 5th G (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.4": {
+          "path": "3-1-1-4(+1)-2-1",
+          "phrases": 12,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 189706,
+          "score": 254062,
+          "notes": "3: 2nd O, 1: 6th Y, 1: 11th R, 4(+1): 10th Y, 2: 1st G, 1: 6th Y",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "3-1-1-4(+1)-2-1",
+          "phrases": 12,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 189706,
+          "score": 254032,
+          "notes": "3: 2nd O, 1: 5th Y (Y), 1: 2nd Y (O), 4(+1): 5th Y (B), 2: 1st Y (G), 1: 5th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1",
+          "phrases": 19,
+          "activations": 18,
+          "overlaps": 0,
+          "no_od_score": 222489,
+          "score": 283185,
+          "notes": "1: 3rd G (O), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd Y (B), 1: 3rd Y (B), 1: NN (O), 1: NN (G), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd R (B), 1: 7th B (R), 1: 1st B (Y), 2: NN (Y), 1: 7th B (R), 1: 1st B (Y), 1: 7th B (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.0": {
+          "path": "1-1-1-4(+1)-1-1-1-1-1-4(+1)-1-1",
+          "phrases": 18,
+          "activations": 12,
+          "overlaps": 2,
+          "no_od_score": 213142,
+          "score": 276698,
+          "notes": "1: NN (Y), 1: NN (G), 1: NN (G), 4(+1): 5th G (Y), 1: NN (G), 1: NN (G), 1: 4th R (G), 1: 8th G (O), 1: 4th G (O), 4(+1): 5th G (R), 1: 5th G (O), 1: 4th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_lead_sqz00.png"
+        },
+        "0.2": {
+          "path": "1-1-1-4(+1)-1-1-1-1-1-4(+1)-1-1",
+          "phrases": 18,
+          "activations": 12,
+          "overlaps": 2,
+          "no_od_score": 213142,
+          "score": 276706,
+          "notes": "1: NN (Y), 1: NN (G), 1: NN (G), 4(+1): 5th G (Y), 1: NN (G), 1: NN (G), 1: 4th R (G), 1: 8th G (O), 1: 4th G (O), 4(+1): 2.3 beats after 2nd B (R), 1: 5th G (O), 1: 4th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Starboy - The Weeknd ft. Daft Punk": {
+    "shortname": "starboytheweekndftdaftpunk",
+    "title": "Starboy",
+    "artist": "The Weeknd ft. Daft Punk",
+    "instruments": {
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1(+1)-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 97776,
+          "score": 125424,
+          "notes": "1: 1st R (O), 1: 1st R (O), 1(+1): 11th R (O), 1: 1st R (O), 1: 1st R (O), 1: 1st R (O), 1: 1st R (O), 1: 1st R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "starboy_theweekndftdaftpunk_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-2-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 136068,
+          "score": 172932,
+          "notes": "1: NN (Y), 1: NN (Y), 1: 2nd B (Y), 1: NN (Y), 1: NN (Y), 2: NN (Y), 1: 3rd Y (Y), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "starboy_theweekndftdaftpunk_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "3-1-2-2(+1)",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 48345,
+          "score": 64821,
+          "notes": "3: NN (B), 1: NN (B), 2: 1st G (B), 2(+1): 1st O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "starboy_theweekndftdaftpunk_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 179880,
+          "score": 228204,
+          "notes": "2: 6th B (B), 1: 8th G (Y), 1: 4th G (Y), 1: 6th B (B), 1: NN (G), 1: 12th Y (Y), 1: 6th B (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "starboy_theweekndftdaftpunk_vocals_sqz02.png"
         }
       }
     }
