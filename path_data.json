@@ -56463,6 +56463,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 14,
+          "overlaps": 0,
+          "no_od_score": 213831,
+          "score": 269397,
+          "notes": "2: 5th G (R), 1: 9th R (R), 1: 3rd Y (O), 1: 1st G (G), 1: 2nd G (O), 1: NN (B), 1: 6th Y (G), 1: 4th Y (R), 1: 5th Y (R), 1: NN (R), 1: 5th Y (R), 1: 1st Y (G), 1: 1st Y (G), 1: 1st Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "getlucky_daftpunkftpharrellwilliamsandnilerodgers_bass_sqz04.png"
         }
       },
       "Pro Lead": {
@@ -56538,6 +56550,54 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "instantcrush_daftpunkftjuliancasablancas_bass_sqz02.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1",
+          "phrases": 19,
+          "activations": 18,
+          "overlaps": 0,
+          "no_od_score": 222489,
+          "score": 283371,
+          "notes": "1: 4th G, 1: 3rd Y, 1: 3rd Y, 1: 8th Y (O), 1: 4th R, 1: 4th R, 1: 3rd G, 1: 3rd Y, 1: 3rd Y, 1: 3rd Y, 1: 8th Y (O), 1: 3rd G, 1: 9th G (O), 1: 1st B, 2: 1st B, 1: 9th G (O), 1: 1st B, 1: 9th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_bass_sqz06.png"
+        },
+        "0.5": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1",
+          "phrases": 19,
+          "activations": 18,
+          "overlaps": 0,
+          "no_od_score": 222489,
+          "score": 283185,
+          "notes": "1: 3rd G (O), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd Y (B), 1: 3rd Y (B), 1: NN (O), 1: NN (G), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd R (B), 1: 7th B (R), 1: 1st B (Y), 2: NN (Y), 1: 7th B (R), 1: 1st B (Y), 1: 7th B (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_bass_sqz05.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1",
+          "phrases": 19,
+          "activations": 18,
+          "overlaps": 0,
+          "no_od_score": 222489,
+          "score": 283185,
+          "notes": "1: 3rd G (O), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd Y (B), 1: 3rd Y (B), 1: NN (O), 1: NN (G), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd R (B), 1: 7th B (R), 1: 1st B (Y), 2: NN (Y), 1: 7th B (R), 1: 1st B (Y), 1: 7th B (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_bass_sqz04.png"
+        },
+        "0.3": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1",
+          "phrases": 19,
+          "activations": 18,
+          "overlaps": 0,
+          "no_od_score": 222489,
+          "score": 283185,
+          "notes": "1: 3rd G (O), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd Y (B), 1: 3rd Y (B), 1: NN (O), 1: NN (G), 1: NN (G), 1: NN (G), 1: 8th Y (O), 1: 3rd R (B), 1: 7th B (R), 1: 1st B (Y), 2: NN (Y), 1: 7th B (R), 1: 1st B (Y), 1: 7th B (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "instantcrush_daftpunkftjuliancasablancas_bass_sqz03.png"
         }
       },
       "Lead": {
@@ -56599,6 +56659,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "starboy_theweekndftdaftpunk_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-2-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 136068,
+          "score": 172932,
+          "notes": "1: NN (Y), 1: NN (Y), 1: 2nd B (Y), 1: NN (Y), 1: NN (Y), 2: NN (Y), 1: 3rd Y (Y), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "starboy_theweekndftdaftpunk_bass_sqz04.png"
         }
       },
       "Lead": {
@@ -56613,6 +56685,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "starboy_theweekndftdaftpunk_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "3-1-2-2(+1)",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 48345,
+          "score": 64821,
+          "notes": "3: NN (B), 1: NN (B), 2: 1st G (B), 2(+1): 1st O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "starboy_theweekndftdaftpunk_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -56627,6 +56711,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "starboy_theweekndftdaftpunk_vocals_sqz02.png"
+        },
+        "0.3": {
+          "path": "2-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 179880,
+          "score": 228210,
+          "notes": "2: 6th B (B), 1: 8th G (Y), 1: 4th G (Y), 1: 6th B (B), 1: NN (G), 1: 2nd G, 1: 6th B (B), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "starboy_theweekndftdaftpunk_vocals_sqz03.png"
         }
       }
     }
