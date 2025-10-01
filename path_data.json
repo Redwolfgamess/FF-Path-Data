@@ -5196,6 +5196,20 @@
           "squeeze": 0.0,
           "filename": "kids_mgmt_vocals_sqz00.png"
         }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-2-1-1-1-1-1-1-1",
+          "phrases": 14,
+          "activations": 13,
+          "overlaps": 0,
+          "no_od_score": 202878,
+          "score": 255366,
+          "notes": "1: 2nd R (R), 1: 9th R (R), 1: 12th R (R), 1: 20th G (G), 1: NN (R), 2: 3rd R (R), 1: NN (G), 1: NN (R), 1: 1st R (R), 1: NN (R), 1: 19th G (G), 1: NN (R), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "kids_mgmt_bass_sqz02.png"
+        }
       }
     }
   },
@@ -9131,6 +9145,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "ridethelightning_metallica_lead_sqz02.png"
+        },
+        "0.3": {
+          "path": "1-1-2-4-1-2-4(+1)-1-1-1-1-1-1-1(+1)-1-1-1",
+          "phrases": 25,
+          "activations": 17,
+          "overlaps": 2,
+          "no_od_score": 392014,
+          "score": 505366,
+          "notes": "1: NN (R), 1: 31st G, 2: 22nd R (R), 4: 35th G (Y), 1: NN (O), 2: NN, 4(+1): 7th O (O), 1: NN (B), 1: 21st G (O), 1: 5th R (B), 1: 1st G, 1: NN (R), 1: NN (Y), 1(+1): 38th R (R), 1: 12th R, 1: 3.4 beats after 5th Y (O), 1: 6th R",
+          "difficulty": "Expert",
+          "squeeze": 0.3,
+          "filename": "ridethelightning_metallica_lead_sqz03.png"
         }
       },
       "Vocals": {
@@ -14368,6 +14394,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "dogdaysareover_florencethemachine_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-4-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 144000,
+          "score": 186624,
+          "notes": "1: 9th R (Y), 4: NN (O), 1: 1st Y (B), 1: 2nd G (O), 1: 5th R (B), 1: 1st G (O), 1: 5th R (B), 1: 11th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "dogdaysareover_florencethemachine_drums_sqz04.png"
         }
       },
       "Bass": {
@@ -17428,6 +17466,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "paradisecity_gunsnroses_lead_sqz00.png"
+        },
+        "0.4": {
+          "path": "1-2(+1)-1-1(+1)-3-1-1-4(+2)-3-1-2",
+          "phrases": 20,
+          "activations": 11,
+          "overlaps": 4,
+          "no_od_score": 303620,
+          "score": 405496,
+          "notes": "1: 11th R (G), 2(+1): 17th R (Y), 1: NN (Y), 1(+1): 23rd R (Y), 3: 3rd G (G), 1: NN (O), 1: 10th B (B), 4(+2): 8th O (G), 3: 2nd B (R), 1: 1st G (G), 2: 12th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "paradisecity_gunsnroses_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -26222,6 +26272,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sevennationarmy_thewhitestripes_pro_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-2(+1)-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 107208,
+          "score": 135636,
+          "notes": "1: 1 beats after 6th G (O), 1: 1st G (G), 1: NN (B), 2(+1): 5th G (G), 1: 11th B (R), 1: NN (R), 1: NN (B), 1: 3rd R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sevennationarmy_thewhitestripes_bass_sqz02.png"
         }
       }
     }
@@ -56723,6 +56787,132 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "starboy_theweekndftdaftpunk_vocals_sqz03.png"
+        }
+      }
+    }
+  },
+  "from me to u - BABYMETAL ft. Poppy": {
+    "shortname": "frommetoubabymetalftpoppy",
+    "title": "from me to u",
+    "artist": "BABYMETAL ft. Poppy",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "4-1-1(+1)-1-2-1-2-1-1-1",
+          "phrases": 15,
+          "activations": 10,
+          "overlaps": 1,
+          "no_od_score": 209328,
+          "score": 274752,
+          "notes": "4: 5th G (Y), 1: 34th G (B), 1(+1): 5th B (B), 1: 2nd R, 2: 5th R (B), 1: 1st B (O), 2: 1st O (B), 1: 1st Y (Y), 1: 16th G (B), 1: 5th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "frommetou_babymetalftpoppy_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-3(+1)-1(+1)-1-1-1-1(+1)-1-1",
+          "phrases": 14,
+          "activations": 12,
+          "overlaps": 3,
+          "no_od_score": 189792,
+          "score": 250272,
+          "notes": "1: 1st Y (R), 1: 11th R (R), 1: 5th G (O), 1: NN (B), 3(+1): 4th B (Y), 1(+1): 5th B (B), 1: 6th O (O), 1: 2nd G (Y), 1: 8th O (Y), 1(+1): 28th O (Y), 1: 26th O (O), 1: 16th O (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "frommetou_babymetalftpoppy_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-1-3(+1)-1-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 12,
+          "overlaps": 1,
+          "no_od_score": 217932,
+          "score": 289212,
+          "notes": "2: 2nd R (O), 1: 2nd O (B), 1: NN (O), 3(+1): 16th Y (O), 1: 11th Y (B), 1: 8th O (B), 1: NN (R), 1: NN (Y), 1: 9th G (G), 1: NN (Y), 1: 13th G (R), 1: 5th R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "frommetou_babymetalftpoppy_bass_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 15,
+          "overlaps": 0,
+          "no_od_score": 123890,
+          "score": 161624,
+          "notes": "1: 5th B (B), 1: 1st R (O), 1: 3rd R, 1: 2 beats after 5th Y (R), 1: 1st Y (B), 1: NN (R), 1: 5th B (B), 1: 5th Y, 1: 2 beats after 6th Y (R), 1: 1st Y (B), 1: 1st Y, 1: NN (R), 1: 2nd O, 1: 4th B (O), 1: 4th Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "frommetou_babymetalftpoppy_vocals_sqz02.png"
+        }
+      }
+    }
+  },
+  "Let Me Hold You - Netsky & Hybrid Minds": {
+    "shortname": "letmeholdyounetskyhybridminds",
+    "title": "Let Me Hold You",
+    "artist": "Netsky & Hybrid Minds",
+    "instruments": {
+      "Drums": {
+        "0.2": {
+          "path": "3(+1)-1-3-1-1-1(+1)",
+          "phrases": 10,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 110856,
+          "score": 153768,
+          "notes": "3(+1): 1st G (O), 1: 4th R (Y), 3: 1st G (Y), 1: 4th R (Y), 1: 4th R (Y), 1(+1): 9th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "letmeholdyou_netskyhybridminds_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2(+1)-2(+1)-1(+1)",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 3,
+          "no_od_score": 34686,
+          "score": 46482,
+          "notes": "2(+1): 1st Y (G), 2(+1): 1st Y (G), 1(+1): 1st Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "letmeholdyou_netskyhybridminds_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-4(+1)-4(+1)-1-1",
+          "phrases": 12,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 81864,
+          "score": 111408,
+          "notes": "1: NN (B), 1: NN (Y), 4(+1): 2nd G (B), 4(+1): 2nd G (O), 1: NN (Y), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "letmeholdyou_netskyhybridminds_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 14,
+          "activations": 13,
+          "overlaps": 0,
+          "no_od_score": 107640,
+          "score": 141258,
+          "notes": "2: 5th R (R), 1: NN, 1: 4th G (B), 1: 3rd G (B), 1: 3rd Y (Y), 1: 4th R, 1: 4th Y, 1: 6th G (B), 1: 3rd G (B), 1: 2nd G (G), 1: NN (B), 1: NN (B), 1: 3rd G",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "letmeholdyou_netskyhybridminds_vocals_sqz02.png"
         }
       }
     }
