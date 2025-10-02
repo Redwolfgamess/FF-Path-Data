@@ -48686,6 +48686,18 @@
           "difficulty": "Expert",
           "squeeze": 0.6,
           "filename": "magnetic_illit_lead_sqz06.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-3(+1)-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 100560,
+          "score": 134928,
+          "notes": "1: 21st G, 1: 3rd G, 1: 8th G, 1: 2nd G, 3(+1): NN (R), 1: 3rd G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "magnetic_illit_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -56850,6 +56862,32 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "frommetou_babymetalftpoppy_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 15,
+          "overlaps": 0,
+          "no_od_score": 123890,
+          "score": 161684,
+          "notes": "1: 5th B (B), 1: 1st R (O), 1: 3rd R, 1: 1.9 beats after 5th Y (R), 1: 1st Y (B), 1: NN (R), 1: 5th B (B), 1: 5th Y, 1: 1.9 beats after 6th Y (R), 1: 1st Y (B), 1: 1st Y, 1: NN (R), 1: 2nd O, 1: 4th B (O), 1: 4th Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "frommetou_babymetalftpoppy_vocals_sqz04.png"
+        }
+      },
+      "Pro Bass": {
+        "0.4": {
+          "path": "2-1-1-3(+1)-1-1-1-1-1-1-1-1",
+          "phrases": 15,
+          "activations": 12,
+          "overlaps": 1,
+          "no_od_score": 218340,
+          "score": 289626,
+          "notes": "2: 6th R (O), 1: 2nd O (O), 1: NN (O), 3(+1): 16th Y (O), 1: 12th Y (B), 1: 8th O (B), 1: NN (R), 1: NN (Y), 1: 9th G (G), 1: 3rd Y, 1: 13th G (R), 1: 5th R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "frommetou_babymetalftpoppy_pro_bass_sqz04.png"
         }
       }
     }
@@ -56885,6 +56923,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "letmeholdyou_netskyhybridminds_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "2(+1)-2(+1)-1(+1)",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 3,
+          "no_od_score": 34686,
+          "score": 46499,
+          "notes": "2(+1): 1st Y, 2(+1): 1st Y, 1(+1): 1st Y",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "letmeholdyou_netskyhybridminds_bass_sqz04.png"
         }
       },
       "Lead": {
@@ -56899,6 +56949,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "letmeholdyou_netskyhybridminds_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-4(+1)-4(+1)-1-1",
+          "phrases": 12,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 81864,
+          "score": 111452,
+          "notes": "1: NN, 1: NN, 4(+1): 2nd G, 4(+1): 2nd G, 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "letmeholdyou_netskyhybridminds_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -56913,6 +56975,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "letmeholdyou_netskyhybridminds_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 14,
+          "activations": 13,
+          "overlaps": 0,
+          "no_od_score": 107640,
+          "score": 141276,
+          "notes": "2: 5th R (R), 1: NN, 1: 4th G (B), 1: 3rd G (B), 1: 3rd Y (Y), 1: 4th R, 1: 4th Y, 1: 6th G (B), 1: 3rd G (B), 1: 2nd G (G), 1: NN (B), 1: NN (B), 1: 5th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "letmeholdyou_netskyhybridminds_vocals_sqz04.png"
         }
       }
     }
