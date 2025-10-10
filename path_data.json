@@ -41278,14 +41278,14 @@
       },
       "Lead": {
         "0.2": {
-          "path": "1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-3-1-1-1-1-2-1-1-2-1-1-3(+1)-1-1",
-          "phrases": 37,
-          "activations": 30,
-          "overlaps": 1,
-          "no_od_score": 535976,
-          "score": 709216,
-          "notes": "1: 15th R (G), 1: NN (O), 1: 7th R (O), 1: 5th R (G), 1: 10th G (Y), 1: 2nd O (O), 1: 2nd Y (O), 1: NN (G), 1: NN (R), 1: 4th Y (O), 1: 1st G (R), 2: NN (R), 1: 10th O (O), 1: 2nd Y (O), 1: 8th R (Y), 1: 4 beats after 1st O (B), 3: 2nd G (R), 1: 1st O (G), 1: NN (B), 1: 3rd G (G), 1: 2nd G (Y), 2: 6th O (B), 1: 1st B (O), 1: 1st G (B), 2: NN (Y), 1: 2nd Y (Y), 1: 2nd Y (Y), 3(+1): 10th Y (Y), 1: 19th B (Y), 1: 5th O (O)",
-          "difficulty": "Expert",
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 38,
+          "activations": 38,
+          "overlaps": 0,
+          "no_od_score": 97892,
+          "score": 125612,
+          "notes": "1: 3rd G (R), 1: NN (B), 1: NN (Y), 1: 3rd Y (G), 1: NN (G), 1: NN (Y), 1: NN (R), 1: NN (G), 1: NN (Y), 1: 5th R (B), 1: 3rd B (R), 1: NN (G), 1: NN (R), 1: 2nd Y (B), 1: NN (R), 1: 2nd Y (G), 1: 4th Y (B), 1: 3rd Y (B), 1: NN (B), 1: 1st R (R), 1: NN (B), 1: NN (B), 1: NN (B), 1: NN (R), 1: NN (Y), 1: 1st Y (Y), 1: NN (R), 1: 3rd Y, 1: 1st B (Y), 1: NN (G), 1: NN (G), 1: 1st G, 1: NN (Y), 1: 2nd Y (G), 1: 2nd B (Y), 1: NN (B), 1: NN (Y), 1: 2nd Y (R)",
+          "difficulty": "Easy",
           "squeeze": 0.2,
           "filename": "throughthefireandflames_dragonforce_lead_sqz02.png"
         },
@@ -57869,6 +57869,20 @@
           "squeeze": 0.2,
           "filename": "gorgeous_dojacat_lead_sqz02.png"
         }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-2-1-1-2",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 83286,
+          "score": 106822,
+          "notes": "1: 3rd B (G), 1: 7th R (O), 1: After 2 beats (G), 2: 1st G (B), 1: NN (B), 1: NN, 2: 6th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "gorgeous_dojacat_pro_lead_sqz02.png"
+        }
       }
     }
   },
@@ -57952,6 +57966,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "inmyroom_juliawolf_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-2-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 65661,
+          "score": 83943,
+          "notes": "2: 3rd O, 1: 2nd Y, 1: NN, 2: 5th R, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "inmyroom_juliawolf_bass_sqz04.png"
         }
       },
       "Vocals": {
@@ -57966,6 +57992,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "inmyroom_juliawolf_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 87058,
+          "score": 111496,
+          "notes": "1: 8th Y, 1: 1st B, 1: 3rd B (O), 1: 3rd G, 1: 3rd B, 1: 1st Y, 1: 4th Y (Y), 1: 2nd O, 1: 6th Y, 1: 5th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "inmyroom_juliawolf_vocals_sqz04.png"
         }
       },
       "Lead": {
@@ -57980,6 +58018,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "inmyroom_juliawolf_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-2",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 131028,
+          "score": 166940,
+          "notes": "1: 5th G (Y), 1: 15th R (Y), 1: 2nd R, 1: 3rd R, 1: 14th R, 1: 3rd R, 1: 4th R, 1: 5th R, 2: 5th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "inmyroom_juliawolf_lead_sqz04.png"
         }
       },
       "Drums": {
@@ -57994,6 +58044,131 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "inmyroom_juliawolf_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "PPAP (Pen Pineapple Apple Pen) [Long Version] - Pikotaro": {
+    "shortname": "ppappenpineappleapplepenlongversionpikotaro",
+    "title": "PPAP (Pen Pineapple Apple Pen) [Long Version]",
+    "artist": "Pikotaro",
+    "instruments": {
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1(+1)",
+          "phrases": 2,
+          "activations": 2,
+          "overlaps": 1,
+          "no_od_score": 30586,
+          "score": 39370,
+          "notes": "1: 2nd O (O), 1(+1): 3rd Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_pro_lead_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1(+1)",
+          "phrases": 2,
+          "activations": 2,
+          "overlaps": 1,
+          "no_od_score": 28002,
+          "score": 36786,
+          "notes": "1: 2nd O (O), 1(+1): 1st Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1(+1)",
+          "phrases": 2,
+          "activations": 2,
+          "overlaps": 1,
+          "no_od_score": 28002,
+          "score": 36786,
+          "notes": "1: 2nd O (O), 1(+1): 1st Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_lead_sqz04.png"
+        }
+      },
+      "Vocals": {
+        "0.4": {
+          "path": "3-1-1",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 40815,
+          "score": 54225,
+          "notes": "3: 4th Y (B), 1: NN, 1: 0.92 beats after 3rd Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "3-1-1",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 40815,
+          "score": 54219,
+          "notes": "3: 4th Y (B), 1: NN, 1: 0.96 beats after 3rd Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_vocals_sqz02.png"
+        },
+        "1.0": {
+          "path": "2-1-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 40815,
+          "score": 54393,
+          "notes": "2: 4th R (Y), 1: 17th Y (O), 1: NN, 1: 0.8 beats after 3rd Y (G)",
+          "difficulty": "Expert",
+          "squeeze": 1.0,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_vocals_sqz10.png"
+        }
+      },
+      "Bass": {
+        "0.4": {
+          "path": "1-1-3(+1)",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 71676,
+          "score": 91782,
+          "notes": "1: 2nd O, 1: NN, 3(+1): NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_bass_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-3(+1)",
+          "phrases": 5,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 71676,
+          "score": 91764,
+          "notes": "1: NN (R), 1: NN (R), 3(+1): NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_bass_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-2-1",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 78768,
+          "score": 102096,
+          "notes": "1: 7th G (Y), 1: NN (Y), 1: 1st G (Y), 2: 1st G (Y), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ppappenpineappleapplepenlongversion_pikotaro_drums_sqz02.png"
         }
       }
     }
