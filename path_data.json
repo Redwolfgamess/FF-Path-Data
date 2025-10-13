@@ -58358,6 +58358,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "whatsnewscoobydoo_simpleplan_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 38151,
+          "score": 49809,
+          "notes": "1: 7th R, 1: 10th R (Y), 1: NN, 1: 8th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "whatsnewscoobydoo_simpleplan_vocals_sqz04.png"
         }
       },
       "Lead": {
@@ -58400,6 +58412,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "whatsnewscoobydoo_simpleplan_drums_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-2",
+          "phrases": 4,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 48102,
+          "score": 63366,
+          "notes": "1: 3rd Y (R), 1: 2nd R (R), 2: 4th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "whatsnewscoobydoo_simpleplan_pro_lead_sqz02.png"
         }
       }
     }
