@@ -16255,6 +16255,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "holdmecloser_eltonjohnbritneyspears_lead_sqz10.png"
+        },
+        "0.4": {
+          "path": "2-2-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 97995,
+          "score": 122715,
+          "notes": "2: 6th R, 2: 2nd R, 1: 4th G (R), 1: 3rd G, 1: 4th R (Y), 1: 5th R (Y), 1: 7th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "holdmecloser_eltonjohnbritneyspears_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -39557,6 +39569,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "wholetthedogsout_bahamen_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 64572,
+          "score": 82428,
+          "notes": "1: 3rd G (B), 1: 6th R (B), 1: 10th G (B), 1: NN (Y), 1: 9th R (Y), 1: 7th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "wholetthedogsout_bahamen_lead_sqz04.png"
         }
       },
       "Bass": {
@@ -39571,6 +39595,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "wholetthedogsout_bahamen_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 83127,
+          "score": 108114,
+          "notes": "1: 5th Y (Y), 1: NN (B), 1: 1st G (B), 1: NN (R), 1: 1st B (B), 1: 3rd R (R), 1: 5th B (B), 1: 1st B (B), 1: 1st B, 1: 4th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "wholetthedogsout_bahamen_bass_sqz04.png"
         }
       },
       "Vocals": {
@@ -39597,6 +39633,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "wholetthedogsout_bahamen_vocals_sqz00.png"
+        },
+        "0.4": {
+          "path": "1-1-1-3(+2)-3",
+          "phrases": 9,
+          "activations": 5,
+          "overlaps": 2,
+          "no_od_score": 156696,
+          "score": 209820,
+          "notes": "1: 8th G (Y), 1: 16th G (R), 1: 8th G (Y), 3(+2): 22nd G, 3: 3rd Y (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "wholetthedogsout_bahamen_vocals_sqz04.png"
         }
       }
     }
@@ -57494,6 +57542,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "anotherlife_motionlessinwhite_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-2-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 106677,
+          "score": 136599,
+          "notes": "2: 2nd R, 1: 1st R, 2: 5th G (O), 1: NN, 1: 1st R, 1: 2nd B, 1: NN, 1: 2nd Y, 1: 1st R, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "anotherlife_motionlessinwhite_vocals_sqz04.png"
         }
       },
       "Bass": {
@@ -57508,6 +57568,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "anotherlife_motionlessinwhite_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-4(+1)-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 100059,
+          "score": 131049,
+          "notes": "1: 7th R, 4(+1): 9th B (Y), 1: 6th R (Y), 1: 6th R, 1: 3rd R, 1: 5th B, 1: 5th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "anotherlife_motionlessinwhite_bass_sqz04.png"
         }
       },
       "Lead": {
@@ -57522,6 +57594,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "anotherlife_motionlessinwhite_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-3-1-1-1-2(+1)-1-1",
+          "phrases": 13,
+          "activations": 10,
+          "overlaps": 1,
+          "no_od_score": 162312,
+          "score": 214948,
+          "notes": "1: NN (B), 1: NN (B), 1: 5th R, 3: NN, 1: 7th G (G), 1: 3rd R, 1: 9th R, 2(+1): 5th Y, 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "anotherlife_motionlessinwhite_lead_sqz04.png"
         }
       }
     }
@@ -57697,6 +57781,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "friendlyfire_epicgames_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "3-3(+1)-3(+1)",
+          "phrases": 9,
+          "activations": 3,
+          "overlaps": 2,
+          "no_od_score": 96858,
+          "score": 132862,
+          "notes": "3: 3rd R (O), 3(+1): 11th R (R), 3(+1): 2nd G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "friendlyfire_epicgames_lead_sqz04.png"
         }
       },
       "Drums": {
@@ -57725,6 +57821,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "friendlyfire_epicgames_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 45416,
+          "score": 62101,
+          "notes": "2: 1st R (R), 1: 3rd Y, 1: 4th Y, 1: 5th Y, 1: NN, 1: 7th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "friendlyfire_epicgames_vocals_sqz04.png"
         }
       },
       "Bass": {
@@ -57739,6 +57847,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "friendlyfire_epicgames_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 170856,
+          "score": 211248,
+          "notes": "1: NN (R), 1: NN (B), 1: NN (B), 1: NN (R), 1: NN (R), 1: NN (B), 1: NN (R), 1: NN (B), 1: NN (B), 1: NN (B), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "friendlyfire_epicgames_bass_sqz04.png"
         }
       }
     }
@@ -58152,6 +58272,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "inmyroom_juliawolf_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 98352,
+          "score": 123264,
+          "notes": "1: 11th R (Y), 1: 3rd O (R), 1: 5th G (Y), 1: 8th R (Y), 1: 1st G (Y), 1: 1st G (Y), 1: 9th G (O), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "inmyroom_juliawolf_drums_sqz04.png"
         }
       }
     }
@@ -58370,6 +58502,30 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "whatsnewscoobydoo_simpleplan_vocals_sqz04.png"
+        },
+        "0.6": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 38151,
+          "score": 49821,
+          "notes": "1: 7th R, 1: 10th R (Y), 1: NN, 1: 8th R",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "whatsnewscoobydoo_simpleplan_vocals_sqz06.png"
+        },
+        "0.0": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 38151,
+          "score": 49785,
+          "notes": "1: 4th Y (B), 1: 2nd O (B), 1: NN, 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "whatsnewscoobydoo_simpleplan_vocals_sqz00.png"
         }
       },
       "Lead": {
@@ -58384,6 +58540,30 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "whatsnewscoobydoo_simpleplan_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-2",
+          "phrases": 4,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 48102,
+          "score": 63374,
+          "notes": "1: 1st R (Y), 1: 2nd G, 2: 10th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "whatsnewscoobydoo_simpleplan_lead_sqz04.png"
+        },
+        "0.0": {
+          "path": "1-1-2",
+          "phrases": 4,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 48102,
+          "score": 63366,
+          "notes": "1: 1st R (Y), 1: 2nd G (Y), 2: 10th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "whatsnewscoobydoo_simpleplan_lead_sqz00.png"
         }
       },
       "Bass": {
@@ -58398,6 +58578,30 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "whatsnewscoobydoo_simpleplan_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-3",
+          "phrases": 4,
+          "activations": 2,
+          "overlaps": 0,
+          "no_od_score": 51345,
+          "score": 65823,
+          "notes": "1: 8th R, 3: 1st R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "whatsnewscoobydoo_simpleplan_bass_sqz04.png"
+        },
+        "0.0": {
+          "path": "1-3",
+          "phrases": 4,
+          "activations": 2,
+          "overlaps": 0,
+          "no_od_score": 51345,
+          "score": 65817,
+          "notes": "1: 8th R (B), 3: 1st R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "whatsnewscoobydoo_simpleplan_bass_sqz00.png"
         }
       },
       "Drums": {
@@ -58412,6 +58616,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "whatsnewscoobydoo_simpleplan_drums_sqz02.png"
+        },
+        "0.0": {
+          "path": "1-3",
+          "phrases": 4,
+          "activations": 2,
+          "overlaps": 0,
+          "no_od_score": 57600,
+          "score": 73152,
+          "notes": "1: 12th O (B), 3: 3rd Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "whatsnewscoobydoo_simpleplan_drums_sqz00.png"
         }
       },
       "Pro Lead": {
