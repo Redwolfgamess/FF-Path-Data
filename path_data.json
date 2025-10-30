@@ -2326,6 +2326,20 @@
           "squeeze": 0.2,
           "filename": "bloodymary_ladygaga_pro_lead_sqz02.png"
         }
+      },
+      "Pro Bass": {
+        "0.2": {
+          "path": "1-1-2(+1)-2(+1)-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 2,
+          "no_od_score": 128430,
+          "score": 169218,
+          "notes": "1: 10th Y (B), 1: NN (G), 2(+1): 17th G (G), 2(+1): 7th G (G), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "bloodymary_ladygaga_pro_bass_sqz02.png"
+        }
       }
     }
   },
@@ -5909,6 +5923,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oceanbreezebeats_epicgames_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-2(+1)-1",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 105496,
+          "score": 130792,
+          "notes": "1: 9th G (G), 1: NN (Y), 1: 7th G, 2(+1): 1st Y (Y), 1: 27th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "oceanbreezebeats_epicgames_vocals_sqz04.png"
         }
       },
       "Drums": {
@@ -8287,6 +8313,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "infernoislandmoltenmix_epicgames_vocals_sqz00.png"
+        },
+        "0.4": {
+          "path": "2(+1)-1-1",
+          "phrases": 4,
+          "activations": 3,
+          "overlaps": 1,
+          "no_od_score": 41041,
+          "score": 58506,
+          "notes": "2(+1): 1st R (O), 1: 1st G, 1: After 1.9 beats (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "infernoislandmoltenmix_epicgames_vocals_sqz04.png"
         }
       },
       "Pro Bass": {
@@ -8336,6 +8374,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "infernoisland_epicgames_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.4": {
+          "path": "3(+1)-3(+1)",
+          "phrases": 6,
+          "activations": 2,
+          "overlaps": 2,
+          "no_od_score": 92457,
+          "score": 130731,
+          "notes": "3(+1): 0.44 beats after 19th O (Y), 3(+1): 1st O (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "infernoisland_epicgames_vocals_sqz04.png"
         }
       }
     }
@@ -13000,6 +13052,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "tropicalheat_epicgames_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "4(+1)-1-1-1-2-1-1-1",
+          "phrases": 12,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 105436,
+          "score": 142612,
+          "notes": "4(+1): 3rd O (O), 1: 3rd R, 1: NN, 1: NN (O), 2: 1st O (O), 1: NN (Y), 1: NN (Y), 1: 7th O (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "tropicalheat_epicgames_vocals_sqz04.png"
         }
       },
       "Lead": {
@@ -28281,6 +28345,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "streetsignite_epicgames_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 118971,
+          "score": 152175,
+          "notes": "1: 8th G, 1: NN (B), 1: 4th G (B), 1: 1st R (R), 1: NN (B), 1: 6th Y (R), 1: 3rd R (R), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "streetsignite_epicgames_vocals_sqz02.png"
         }
       }
     }
@@ -45539,6 +45617,18 @@
           "difficulty": "Expert",
           "squeeze": 0.5,
           "filename": "2055_sleepyhallow_bass_sqz05.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1",
+          "phrases": 4,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 5724,
+          "score": 7786,
+          "notes": "1: 2nd R, 1: 1st R, 1: NN, 1: 2nd R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "2055_sleepyhallow_bass_sqz04.png"
         }
       },
       "Vocals": {
@@ -58883,6 +58973,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "shelter_porterrobinsonmadeon_drums_sqz02.png"
+        },
+        "0.0": {
+          "path": "2-1-1-1(+1)-1",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 162864,
+          "score": 207936,
+          "notes": "2: 7th R (Y), 1: 47th Y (Y), 1: 2nd G (Y), 1(+1): 19th Y (Y), 1: 14th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "shelter_porterrobinsonmadeon_drums_sqz00.png"
         }
       },
       "Lead": {
@@ -58923,6 +59025,20 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "shelter_porterrobinsonmadeon_bass_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-2-2(+1)-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 1,
+          "no_od_score": 203504,
+          "score": 277584,
+          "notes": "1: 14th R (B), 1: 8th Y, 2: NN (O), 2(+1): 21st B (Y), 1: 21st Y, 1: 1.2 beats after 10th Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "shelter_porterrobinsonmadeon_pro_lead_sqz02.png"
         }
       }
     }
