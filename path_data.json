@@ -205,6 +205,18 @@
           "difficulty": "Expert",
           "squeeze": 0.0,
           "filename": "notoriousthugs_thenotoriousbig_vocals_sqz00.png"
+        },
+        "0.4": {
+          "path": "1-1-1-2-1-1-1-1-1-1-1-1-1-1-1-2(+1)-1-1-1-1-1",
+          "phrases": 23,
+          "activations": 21,
+          "overlaps": 1,
+          "no_od_score": 338311,
+          "score": 434449,
+          "notes": "1: 17th Y (G), 1: 4th G, 1: 1st G, 2: 11th Y (Y), 1: 11th Y (Y), 1: 8th Y (B), 1: 7th R (G), 1: 6th B (Y), 1: 3rd Y (R), 1: 3rd O (R), 1: 6th R, 1: 4th O (Y), 1: 1st R (R), 1: NN (R), 1: 4th Y (R), 2(+1): 4th B (B), 1: 9th Y (R), 1: 6th Y (B), 1: 4th G, 1: NN (Y), 1: 4th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "notoriousthugs_thenotoriousbig_vocals_sqz04.png"
         }
       },
       "Drums": {
@@ -10707,6 +10719,20 @@
           "squeeze": 0.2,
           "filename": "whatsmyageagain_blink182_drums_sqz02.png"
         }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 125568,
+          "score": 157038,
+          "notes": "1: NN (R), 1: 1 beats after 4th Y (Y), 1: 2nd R (R), 1: NN (R), 1: NN (R), 1: 9th B (B), 1: 9th R (B), 1: 29th B (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "whatsmyageagain_blink182_bass_sqz02.png"
+        }
       }
     }
   },
@@ -19244,8 +19270,8 @@
           "phrases": 6,
           "activations": 6,
           "overlaps": 0,
-          "no_od_score": 95760,
-          "score": 119952,
+          "no_od_score": 97200,
+          "score": 122688,
           "notes": "1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y)",
           "difficulty": "Expert",
           "squeeze": 0.2,
@@ -19254,13 +19280,13 @@
       },
       "Lead": {
         "0.2": {
-          "path": "1(+1)-1-1-1-1",
+          "path": "1(+1)-1-1(+1)-1-1",
           "phrases": 5,
           "activations": 5,
-          "overlaps": 1,
-          "no_od_score": 73473,
-          "score": 96669,
-          "notes": "1(+1): 17th R (B), 1: 8th B (R), 1: 9th B (Y), 1: NN (G), 1: 5th G (B)",
+          "overlaps": 2,
+          "no_od_score": 76077,
+          "score": 104325,
+          "notes": "1(+1): 17th R (B), 1: 11th R (B), 1(+1): 10th R (G), 1: NN (R), 1: 5th G (B)",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "butterbarnhoedown_epicgames_lead_sqz02.png"
@@ -19286,7 +19312,7 @@
           "overlaps": 0,
           "no_od_score": 79416,
           "score": 104250,
-          "notes": "1: 2nd G (G), 1: 12th B (O), 1: 3rd R (B), 2: NN (Y), 1: 3rd G (Y)",
+          "notes": "1: 2nd G (G), 1: 12th B (O), 1: 3rd R (B), 2: NN (Y), 1: 3rd G (R)",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "butterbarnhoedown_epicgames_vocals_sqz02.png"
@@ -19354,6 +19380,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "butterbarnhoedown_epicgames_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1",
+          "phrases": 6,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 75348,
+          "score": 96840,
+          "notes": "1: 15th Y (Y), 1: 2nd G (R), 1: 15th Y (Y), 1: 2nd G (R), 1: 2nd Y (Y), 1: NN (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "butterbarnhoedown_epicgames_bass_sqz04.png"
         }
       }
     }
@@ -25201,6 +25239,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "whenicomearound_greenday_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-2-1-1-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 120546,
+          "score": 156486,
+          "notes": "2: 14th R (Y), 1: 4th R (Y), 2: 14th R (Y), 1: 12th Y (B), 1: 1st G (B), 1: 1st R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "whenicomearound_greenday_lead_sqz04.png"
         }
       },
       "Vocals": {
@@ -27246,6 +27296,18 @@
           "difficulty": "Expert",
           "squeeze": 0.5,
           "filename": "tusa_karolgftnickiminaj_vocals_sqz05.png"
+        },
+        "0.4": {
+          "path": "1-2-1-1-2-1",
+          "phrases": 8,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 120636,
+          "score": 157800,
+          "notes": "1: 5th G (G), 2: 5th B (G), 1: 15th Y (B), 1: 7th Y, 2: 12th R (Y), 1: 2nd B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "tusa_karolgftnickiminaj_vocals_sqz04.png"
         }
       },
       "Lead": {
@@ -28156,6 +28218,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sillybros_epicgames_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 76608,
+          "score": 94896,
+          "notes": "1: 22nd R (O), 1: 10th G (O), 1: 1st R (B), 1: 24th R (O), 1: 13th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sillybros_epicgames_drums_sqz04.png"
         }
       },
       "Lead": {
@@ -39526,6 +39600,20 @@
           "squeeze": 1.0,
           "filename": "shivers_edsheeran_lead_sqz10.png"
         }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-2-1-2(+1)",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 180576,
+          "score": 219312,
+          "notes": "1: 1st R (Y), 1: 3rd G (O), 1: 13th R (Y), 1: NN (Y), 2: 20th R (Y), 1: 19th R (Y), 2(+1): 7th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "shivers_edsheeran_drums_sqz02.png"
+        }
       }
     }
   },
@@ -40455,6 +40543,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "thepretender_foofighters_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "4-1-1-1-1-1-2(+1)-1(+1)-1-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 2,
+          "no_od_score": 191088,
+          "score": 247248,
+          "notes": "4: 1st R (O), 1: 6th G (B), 1: 8th R (Y), 1: NN (O), 1: 2nd Y (B), 1: 36th G (O), 2(+1): 8th G (B), 1(+1): 1st G (O), 1: 17th G (O), 1: NN (O), 1: 24th G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "thepretender_foofighters_drums_sqz04.png"
         }
       },
       "Lead": {
@@ -46465,6 +46565,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "abarsong_shaboozey_drums_sqz02.png"
+        },
+        "0.9": {
+          "path": "3(+1)-3-1-1",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 102816,
+          "score": 132768,
+          "notes": "3(+1): 2nd B (R), 3: 4th R (Y), 1: 24th Y (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.9,
+          "filename": "abarsong_shaboozey_drums_sqz09.png"
         }
       },
       "Pro Lead": {
@@ -52456,6 +52568,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "happy_day6_pro_lead_sqz03.png"
+        },
+        "0.2": {
+          "path": "3(+1)-1-3-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 204381,
+          "score": 278553,
+          "notes": "3(+1): 26th R (Y), 1: 16th G (O), 3: 1.5 beats after 3rd O (B), 1: 25th G (O), 1: 1st G (O), 1: 18th G (O), 1: 24th G (O), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "happy_day6_pro_lead_sqz02.png"
         }
       }
     }
@@ -55363,6 +55487,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "comealive_epicgames_lead_sqz03.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-3(+1)-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 69346,
+          "score": 97346,
+          "notes": "1: 3rd Y (G), 1: 2nd Y (R), 1: 2nd G (B), 1: NN (R), 3(+1): 7th R (G), 1: 2nd G (Y), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "comealive_epicgames_lead_sqz04.png"
         }
       },
       "Drums": {
@@ -58429,6 +58565,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "ride_epicgames_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1",
+          "phrases": 7,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 142356,
+          "score": 181236,
+          "notes": "1: 7th G (O), 1: 7th G (O), 1: 23rd Y (Y), 1: 33rd Y (O), 1: 7th G (O), 1: 14th Y (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ride_epicgames_drums_sqz04.png"
         }
       },
       "Bass": {
@@ -58991,8 +59139,8 @@
           "phrases": 6,
           "activations": 5,
           "overlaps": 1,
-          "no_od_score": 160848,
-          "score": 205920,
+          "no_od_score": 162864,
+          "score": 207936,
           "notes": "2: 7th R (Y), 1: 47th Y (Y), 1: 2nd G (Y), 1(+1): 19th Y (Y), 1: 14th R (Y)",
           "difficulty": "Expert",
           "squeeze": 0.2,
@@ -59138,6 +59286,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "oiiaoiiaspinningcat_ww_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-2(+1)-1",
+          "phrases": 6,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 118452,
+          "score": 162088,
+          "notes": "1: 33rd Y (O), 1: 9th G (Y), 1: NN (Y), 2(+1): 18th Y (O), 1: 17th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "oiiaoiiaspinningcat_ww_drums_sqz04.png"
         }
       },
       "Pro Lead": {
@@ -59243,6 +59403,629 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "thesimpsonsmaintitlethemenonunionrerecord_dannyelfman_bass_sqz02.png"
+        }
+      }
+    }
+  },
+  "Sticky - Tyler, The Creator": {
+    "shortname": "stickytylerthecreator",
+    "title": "Sticky",
+    "artist": "Tyler, The Creator",
+    "instruments": {
+      "Drums": {
+        "0.2": {
+          "path": "3-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 102672,
+          "score": 137376,
+          "notes": "3: NN (O), 1: NN (O), 1: NN (O), 1: NN (O), 1: NN (O), 1: 6th G (O), 1: 9th R (B), 1: 7th R (B), 1: 1st O (G), 1: 22nd R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sticky_tylerthecreator_drums_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1-1(+1)-1-1",
+          "phrases": 16,
+          "activations": 16,
+          "overlaps": 1,
+          "no_od_score": 185260,
+          "score": 238750,
+          "notes": "1: 4th Y (Y), 1: 4th Y (R), 1: 2nd G (R), 1: 5th B (B), 1: 2nd B, 1: 3rd Y (B), 1: NN, 1: 9th R (R), 1: NN, 1: 9th R, 1: 5th G (Y), 1: NN, 1: 9th R, 1(+1): 20th Y (G), 1: NN (Y), 1: 11th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sticky_tylerthecreator_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1",
+          "phrases": 17,
+          "activations": 16,
+          "overlaps": 0,
+          "no_od_score": 185260,
+          "score": 238510,
+          "notes": "1: 4th Y (Y), 1: 4th Y (R), 1: 2nd G (R), 1: 5th B (B), 1: 2nd B, 1: 3rd Y (B), 1: NN, 1: 9th R (R), 1: NN, 1: 9th R, 1: 5th G (Y), 2: 7th Y, 1: 19th Y (R), 1: 7th R (R), 1: NN (Y), 1: 11th R",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sticky_tylerthecreator_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.4": {
+          "path": "1-1-1-1(+1)-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 20718,
+          "score": 28044,
+          "notes": "1: 5th G (B), 1: 2nd R, 1: 1st R, 1(+1): 4th R, 1: 3rd R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sticky_tylerthecreator_bass_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1(+1)-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 20718,
+          "score": 28023,
+          "notes": "1: 5th G (B), 1: 2nd R (R), 1: 1st R (R), 1(+1): 4th R (R), 1: 3rd R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sticky_tylerthecreator_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.4": {
+          "path": "1-1-1-1-3-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 71442,
+          "score": 93870,
+          "notes": "1: 6th Y, 1: 2nd Y, 1: 5th Y, 1: 2nd Y, 3: NN, 1: NN (G), 1: 2nd R (B), 1: 2nd R, 1: 2nd R (R), 1: 2nd B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sticky_tylerthecreator_lead_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1-3-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 10,
+          "overlaps": 0,
+          "no_od_score": 71442,
+          "score": 93834,
+          "notes": "1: 3rd G (G), 1: NN (G), 1: 2nd G (G), 1: 3rd G (G), 3: NN (O), 1: NN (G), 1: 2nd R (B), 1: NN (Y), 1: 2nd R (R), 1: 2nd B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "sticky_tylerthecreator_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "EARFQUAKE - Tyler, The Creator": {
+    "shortname": "earfquaketylerthecreator",
+    "title": "EARFQUAKE",
+    "artist": "Tyler, The Creator",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "3(+1)-3-1-4",
+          "phrases": 11,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 111309,
+          "score": 159021,
+          "notes": "3(+1): 4th B (O), 3: 1st G (R), 1: 10th R (B), 4: 13th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "earfquake_tylerthecreator_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-1-1-1-1(+1)-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 49563,
+          "score": 65907,
+          "notes": "2: 6th R (R), 1: 2nd Y (R), 1: 2nd Y (R), 1: 1st Y (R), 1: 1st Y (R), 1(+1): 3rd Y (G), 1: NN (G), 1: 2nd Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "earfquake_tylerthecreator_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-1-1-1(+1)-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 1,
+          "no_od_score": 49563,
+          "score": 65907,
+          "notes": "2: 6th R (R), 1: 2nd Y (R), 1: 2nd Y (R), 1: 1st Y (R), 1: 1st Y (R), 1(+1): 3rd Y (G), 1: NN (G), 1: 2nd Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "earfquake_tylerthecreator_bass_sqz04.png"
+        }
+      },
+      "Vocals": {
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 128984,
+          "score": 168758,
+          "notes": "1: 2nd O, 1: 1st O, 1: 1st O, 1: 2nd B, 1: 3rd O, 1: 11th Y, 1: 2nd Y (Y), 1: 1st Y (Y), 1: 2nd G, 1: NN, 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "earfquake_tylerthecreator_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 128984,
+          "score": 168693,
+          "notes": "1: 2nd O, 1: 1st O, 1: 1st O, 1: 2nd B, 1: 3rd O, 1: 11th Y, 1: 2nd Y (Y), 1: 1st Y (Y), 1: 2nd G, 1: NN, 1: NN, 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "earfquake_tylerthecreator_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 77328,
+          "score": 98208,
+          "notes": "1: 3rd R (Y), 1: 2nd R (Y), 1: 2nd R (Y), 1: 1st R (Y), 1: 1st R (Y), 1: 5th R (Y), 1: 4th R (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "earfquake_tylerthecreator_drums_sqz02.png"
+        }
+      },
+      "Pro Lead": {
+        "0.4": {
+          "path": "3(+1)-3-1-4",
+          "phrases": 11,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 113067,
+          "score": 161003,
+          "notes": "3(+1): 4th B, 3: 1st R (G), 1: 12th B, 4: 11th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "earfquake_tylerthecreator_pro_lead_sqz04.png"
+        },
+        "0.2": {
+          "path": "3(+1)-3-1-4",
+          "phrases": 11,
+          "activations": 4,
+          "overlaps": 1,
+          "no_od_score": 113067,
+          "score": 160983,
+          "notes": "3(+1): 4th B (O), 3: 1st R (G), 1: 12th B (B), 4: 11th R (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "earfquake_tylerthecreator_pro_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "The Monorail Song - The Simpsons": {
+    "shortname": "themonorailsongthesimpsons",
+    "title": "The Monorail Song",
+    "artist": "The Simpsons",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 29052,
+          "score": 40604,
+          "notes": "1: 5th G (B), 1: 3.5 beats after 4th B (Y), 1: 6th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "themonorailsong_thesimpsons_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.4": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 29944,
+          "score": 41398,
+          "notes": "1: 4th O (B), 1: NN (O), 1: 5th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "themonorailsong_thesimpsons_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1",
+          "phrases": 3,
+          "activations": 3,
+          "overlaps": 0,
+          "no_od_score": 29944,
+          "score": 41392,
+          "notes": "1: 4th O (B), 1: NN (O), 1: 5th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "themonorailsong_thesimpsons_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3",
+          "phrases": 3,
+          "activations": 1,
+          "overlaps": 0,
+          "no_od_score": 13422,
+          "score": 19752,
+          "notes": "3: 3rd Y (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "themonorailsong_thesimpsons_bass_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "2",
+          "phrases": 2,
+          "activations": 1,
+          "overlaps": 0,
+          "no_od_score": 24624,
+          "score": 36144,
+          "notes": "2: 2nd G (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "themonorailsong_thesimpsons_drums_sqz02.png"
+        }
+      }
+    }
+  },
+  "Ring Ring Ring - Tyler, The Creator": {
+    "shortname": "ringringringtylerthecreator",
+    "title": "Ring Ring Ring",
+    "artist": "Tyler, The Creator",
+    "instruments": {
+      "Vocals": {
+        "0.4": {
+          "path": "2-2(+2)-2(+1)-1-1",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 3,
+          "no_od_score": 130001,
+          "score": 170711,
+          "notes": "2: 15th Y, 2(+2): 3rd G (R), 2(+1): 38th R (Y), 1: 1st G (G), 1: 8th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ringringring_tylerthecreator_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "2-2(+2)-2(+1)-1-1",
+          "phrases": 8,
+          "activations": 5,
+          "overlaps": 3,
+          "no_od_score": 130001,
+          "score": 170705,
+          "notes": "2: 14th Y (B), 2(+2): 3rd G (R), 2(+1): 38th R (Y), 1: 1st G (G), 1: 8th B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ringringring_tylerthecreator_vocals_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-2-1-1-2-2",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 139104,
+          "score": 179712,
+          "notes": "1: 14th G (Y), 1: 7th R (Y), 2: 14th G (B), 1: 14th G (Y), 1: 7th R (Y), 2: 14th G (B), 2: 5th G (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ringringring_tylerthecreator_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.4": {
+          "path": "1-1-1(+1)-1-1-1(+1)-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 2,
+          "no_od_score": 93930,
+          "score": 121194,
+          "notes": "1: 8th B (B), 1: 1.7 beats after 2nd Y (Y), 1(+1): 8th G (G), 1: 1.8 beats after 1st Y (Y), 1: 1st R (R), 1(+1): 4th R (G), 1: 1st O (R), 1: 7th G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ringringring_tylerthecreator_bass_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1(+1)-1-1-1(+1)-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 2,
+          "no_od_score": 93930,
+          "score": 121194,
+          "notes": "1: 8th B (B), 1: 1.7 beats after 2nd Y (Y), 1(+1): 8th G (G), 1: 1.8 beats after 1st Y (Y), 1: 1st R (R), 1(+1): 4th R (G), 1: 1st O (R), 1: 7th G (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ringringring_tylerthecreator_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.4": {
+          "path": "1(+1)-1-2(+1)-1-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 56088,
+          "score": 75516,
+          "notes": "1(+1): 4th R (Y), 1: 6th O (O), 2(+1): 5th R, 1: 6th O (O), 1: 1st G (Y), 1: 5th O",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "ringringring_tylerthecreator_lead_sqz04.png"
+        },
+        "0.2": {
+          "path": "1(+1)-1-2(+1)-1-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 56088,
+          "score": 75516,
+          "notes": "1(+1): 4th R (Y), 1: 6th O (O), 2(+1): 5th R, 1: 6th O (O), 1: 1st G (Y), 1: 5th O",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "ringringring_tylerthecreator_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "Celebrate Happy - Jonas Brothers": {
+    "shortname": "celebratehappyjonasbrothers",
+    "title": "Celebrate Happy",
+    "artist": "Jonas Brothers",
+    "instruments": {
+      "Vocals": {
+        "0.4": {
+          "path": "2-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 82769,
+          "score": 107261,
+          "notes": "2: 1st B, 1: 9th Y, 1: 2nd Y, 1: 1st O, 1: 5th G, 1: 1st G (R), 1: 2nd Y",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "celebratehappy_jonasbrothers_vocals_sqz04.png"
+        },
+        "0.2": {
+          "path": "2-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 82769,
+          "score": 107225,
+          "notes": "2: 1st B, 1: 9th Y, 1: 2nd Y, 1: 1st O, 1: 5th G, 1: 1st G (R), 1: 2nd Y",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "celebratehappy_jonasbrothers_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.4": {
+          "path": "2(+1)-1-1-1-2",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 63732,
+          "score": 83088,
+          "notes": "2(+1): 5th O, 1: 7th Y (O), 1: 6th Y (G), 1: 2.9 beats after 3rd G (R), 2: 2nd O",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "celebratehappy_jonasbrothers_bass_sqz04.png"
+        },
+        "0.2": {
+          "path": "2(+1)-1-1-1-2",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 1,
+          "no_od_score": 63732,
+          "score": 83070,
+          "notes": "2(+1): 5th O (Y), 1: 7th Y (O), 1: 6th Y (G), 1: 3 beats after 3rd G (R), 2: 5th Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "celebratehappy_jonasbrothers_bass_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1",
+          "phrases": 8,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 59328,
+          "score": 77904,
+          "notes": "1: 1st B (O), 1: 2nd R (O), 1: 17th O (O), 1: 12th R (Y), 1: NN (O), 1: 1st B (O), 1: 17th O (O), 1: 18th O (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "celebratehappy_jonasbrothers_drums_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.4": {
+          "path": "1-1-1-2-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 40050,
+          "score": 51186,
+          "notes": "1: 4th R, 1: 8th R, 1: 3rd O (O), 2: 3.9 beats after 4th B (O), 1: 1st O (O), 1: 7th R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "celebratehappy_jonasbrothers_lead_sqz04.png"
+        },
+        "0.2": {
+          "path": "1-1-1-2-1-1",
+          "phrases": 7,
+          "activations": 6,
+          "overlaps": 0,
+          "no_od_score": 40050,
+          "score": 51158,
+          "notes": "1: 3rd G (Y), 1: 8th R (Y), 1: 3rd O (O), 2: 4 beats after 4th B (O), 1: 1st O (O), 1: 7th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "celebratehappy_jonasbrothers_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "The Abominable Frinkman - Epic Games": {
+    "shortname": "theabominablefrinkmanepicgames",
+    "title": "The Abominable Frinkman",
+    "artist": "Epic Games",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "2-4(+2)-1-1",
+          "phrases": 8,
+          "activations": 4,
+          "overlaps": 2,
+          "no_od_score": 95706,
+          "score": 133914,
+          "notes": "2: 4th G (B), 4(+2): 12th B, 1: 1st B (Y), 1: 22nd B (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "theabominablefrinkman_epicgames_lead_sqz02.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 102672,
+          "score": 129168,
+          "notes": "1: 12th O (O), 1: 5th O (B), 1: 5th O (O), 1: 1st G (O), 1: 15th O (O), 1: 7th G (O), 1: 1st G (O), 1: NN (O), 1: 1st Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "theabominablefrinkman_epicgames_drums_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "1-2-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 97920,
+          "score": 124272,
+          "notes": "1: 14th B (B), 2: 1st Y (B), 1: NN (B), 1: 1st Y (Y), 1: NN (B), 1: NN (Y), 1: 1st B (B), 1: NN (B), 1: NN (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "theabominablefrinkman_epicgames_bass_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "2-1-1-1-1-1-1-1-1",
+          "phrases": 10,
+          "activations": 9,
+          "overlaps": 0,
+          "no_od_score": 136840,
+          "score": 180268,
+          "notes": "2: 4th B, 1: NN (G), 1: 9th Y, 1: 10th Y, 1: 21st Y (R), 1: 7th Y, 1: 5th B (Y), 1: NN, 1: 6th G",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "theabominablefrinkman_epicgames_vocals_sqz02.png"
+        }
+      }
+    }
+  },
+  "The Simpsons Main Title Theme - Danny Elfman": {
+    "shortname": "thesimpsonsmaintitlethemedannyelfman",
+    "title": "The Simpsons Main Title Theme",
+    "artist": "Danny Elfman",
+    "instruments": {
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 85276,
+          "score": 107884,
+          "notes": "1: 3rd R (G), 1: 6th R (R), 1: 9th R (O), 1: 5th O (R), 1: NN (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thesimpsonsmaintitletheme_dannyelfman_pro_lead_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-2-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 68845,
+          "score": 97081,
+          "notes": "1: 3rd Y, 1: 4th O (O), 2: 14th R (B), 1: 3rd Y (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thesimpsonsmaintitletheme_dannyelfman_vocals_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "2-1-1-1",
+          "phrases": 5,
+          "activations": 4,
+          "overlaps": 0,
+          "no_od_score": 30240,
+          "score": 40320,
+          "notes": "2: 2nd Y (Y), 1: 3rd Y (B), 1: NN (R), 1: 7th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thesimpsonsmaintitletheme_dannyelfman_bass_sqz02.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 67408,
+          "score": 89440,
+          "notes": "1: 1st Y (G), 1: 3rd O (R), 1: 7th Y (O), 1: 4th O (R), 1: 10th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thesimpsonsmaintitletheme_dannyelfman_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 67408,
+          "score": 89444,
+          "notes": "1: 1st Y, 1: 3rd O (R), 1: 7th Y (O), 1: 4th O (R), 1: 10th G (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "thesimpsonsmaintitletheme_dannyelfman_lead_sqz04.png"
         }
       }
     }
