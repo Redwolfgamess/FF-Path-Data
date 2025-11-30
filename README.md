@@ -2,7 +2,7 @@
 
 This repository contains **Festival Path Data** collected from *Festival Tracker* for public use.
 
-Total Jam Tracks: **2570**
+Total Jam Tracks: **2624**
 
 ## 📦 About
 
