@@ -54422,14 +54422,14 @@
       },
       "Lead": {
         "0.2": {
-          "path": "1-3-1-3(+1)-1-1-1-1-3(+1)-1-1-1-1",
-          "phrases": 19,
-          "activations": 13,
-          "overlaps": 2,
-          "no_od_score": 131328,
-          "score": 170928,
-          "notes": "1: 1st G (B), 3: 2nd R (B), 1: NN (B), 3(+1): 6th R (B), 1: 11th G (B), 1: NN (B), 1: 1st G (B), 1: 1st B (B), 3(+1): 7th R (B), 1: 7th R (B), 1: NN (B), 1: 5th R (B), 1: NN (B)",
-          "difficulty": "Medium",
+          "path": "4(+1)-3(+1)-1-1-2-1-2(+1)-1-2-1",
+          "phrases": 18,
+          "activations": 10,
+          "overlaps": 3,
+          "no_od_score": 268196,
+          "score": 349268,
+          "notes": "4(+1): 3rd G (B), 3(+1): 1st G (B), 1: 17th G (B), 1: NN (B), 2: NN (G), 1: 10th B (B), 2(+1): 3rd G (B), 1: NN (B), 2: 8th R (B), 1: NN (B)",
+          "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "gimmechocolate_babymetal_lead_sqz02.png"
         },
@@ -57664,14 +57664,14 @@
       },
       "Drums": {
         "0.2": {
-          "path": "1-1-1(+1)-1-1-1-1-1-1-1-1-1-1-1-1-1",
-          "phrases": 16,
-          "activations": 16,
-          "overlaps": 1,
-          "no_od_score": 111024,
-          "score": 144576,
-          "notes": "1: NN (B), 1: 4th R (B), 1(+1): 16th B (B), 1: NN (B), 1: NN (B), 1: 11th R (R), 1: 13th R (Y), 1: 10th G (Y), 1: 3rd R (B), 1: 3rd R (B), 1: 26th Y (Y), 1: 2nd G (B), 1: 3rd R (B), 1: NN (B), 1: 13th R (B), 1: 3rd G (B)",
-          "difficulty": "Medium",
+          "path": "1-1-1-1-3(+1)-1(+1)-1-1-1-1(+1)-1-1",
+          "phrases": 14,
+          "activations": 12,
+          "overlaps": 3,
+          "no_od_score": 189792,
+          "score": 250272,
+          "notes": "1: 1st Y (R), 1: 11th R (R), 1: 5th G (O), 1: NN (B), 3(+1): 4th B (Y), 1(+1): 5th B (B), 1: 6th O (O), 1: 2nd G (Y), 1: 8th O (Y), 1(+1): 28th O (Y), 1: 26th O (O), 1: 16th O (R)",
+          "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "frommetou_babymetalftpoppy_drums_sqz02.png"
         }
@@ -60818,6 +60818,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "dashstarvip_knock2_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1",
+          "phrases": 5,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 72720,
+          "score": 96912,
+          "notes": "1: 25th Y (O), 1: NN (Y), 1: 14th G (O), 1: 3rd G (O), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "dashstarvip_knock2_drums_sqz04.png"
         }
       },
       "Vocals": {
@@ -61526,6 +61538,30 @@
           "difficulty": "Expert",
           "squeeze": 0.4,
           "filename": "enemy_imaginedragonsjidarcane_vocals_sqz04.png"
+        },
+        "0.6": {
+          "path": "1-1-1-4(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 135331,
+          "score": 181122,
+          "notes": "1: 3rd R, 1: 2nd G, 1: 2nd G (R), 4(+1): 3rd O (Y), 1: 5th G (Y), 1: 3rd G, 1: 13th R",
+          "difficulty": "Expert",
+          "squeeze": 0.6,
+          "filename": "enemy_imaginedragonsjidarcane_vocals_sqz06.png"
+        },
+        "0.0": {
+          "path": "1-1-1-4(+1)-1-1-1",
+          "phrases": 10,
+          "activations": 7,
+          "overlaps": 1,
+          "no_od_score": 135331,
+          "score": 180612,
+          "notes": "1: 3rd R (G), 1: 2nd B (R), 1: 2nd G (R), 4(+1): 2nd O (O), 1: 2nd O (Y), 1: 3rd B (R), 1: 13th R",
+          "difficulty": "Expert",
+          "squeeze": 0.0,
+          "filename": "enemy_imaginedragonsjidarcane_vocals_sqz00.png"
         }
       },
       "Bass": {
