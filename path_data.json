@@ -9988,8 +9988,8 @@
           "activations": 6,
           "overlaps": 1,
           "no_od_score": 77296,
-          "score": 100570,
-          "notes": "1: 7th B (Y), 2(+1): 4th G (Y), 1: 6th Y, 1: NN (Y), 2: 1st O, 1: NN (R)",
+          "score": 100588,
+          "notes": "1: 7th B (Y), 2(+1): 4th G (Y), 1: 6th Y, 1: NN, 2: 3rd B, 1: NN",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "thefinalcountdown_europe_vocals_sqz02.png"
@@ -22251,6 +22251,30 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sweetvictory_epicgames_lead_sqz02.png"
+        },
+        "0.5": {
+          "path": "1-3-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 104184,
+          "score": 127864,
+          "notes": "1: 5th Y, 3: 3rd R (B), 1: NN (B), 1: 8th G (R), 1: 18th B",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "sweetvictory_epicgames_lead_sqz05.png"
+        },
+        "0.4": {
+          "path": "1-3-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 104184,
+          "score": 127864,
+          "notes": "1: 5th Y, 3: 3rd R (B), 1: NN (B), 1: 8th G (R), 1: 18th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sweetvictory_epicgames_lead_sqz04.png"
         }
       },
       "Bass": {
@@ -31679,6 +31703,18 @@
           "difficulty": "Expert",
           "squeeze": 1.0,
           "filename": "heathens_twentyonepilots_vocals_sqz10.png"
+        },
+        "0.4": {
+          "path": "2-2-1-1-1",
+          "phrases": 7,
+          "activations": 5,
+          "overlaps": 0,
+          "no_od_score": 89794,
+          "score": 118186,
+          "notes": "2: 8th Y (Y), 2: 0.44 beats after 3rd G (G), 1: 3rd B, 1: 14th O (O), 1: After 0.04 beats",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "heathens_twentyonepilots_vocals_sqz04.png"
         }
       },
       "Bass": {
@@ -37395,6 +37431,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "godzilla_blue\u00f6ystercult_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-2-1-1-1-1-1",
+          "phrases": 9,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 109372,
+          "score": 147772,
+          "notes": "1: NN (Y), 1: 11th R (R), 2: 2nd O (G), 1: 11th O, 1: 1.3 beats after 5th O (R), 1: 3rd O (O), 1: NN (B), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "godzilla_blue\u00f6ystercult_lead_sqz04.png"
         }
       },
       "Bass": {
@@ -57299,8 +57347,8 @@
           "activations": 6,
           "overlaps": 0,
           "no_od_score": 85635,
-          "score": 109803,
-          "notes": "1: 15th R (Y), 1: 3rd B (R), 2: 6th R (O), 2: 3rd R (B), 1: 3rd R (G), 1: NN",
+          "score": 109821,
+          "notes": "1: 15th R, 1: 3rd B (R), 2: 6th R, 2: 5th Y, 1: 3rd R (G), 1: NN",
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "asaliveasyouneedmetobe_nineinchnails_vocals_sqz02.png"
@@ -62910,6 +62958,30 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "sweetvictory_davidgleneisleybobkulick_lead_sqz02.png"
+        },
+        "0.5": {
+          "path": "1-1-1-1-2-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 121128,
+          "score": 163024,
+          "notes": "1: 7th G, 1: 8th G, 1: 3rd G, 1: 10th G, 2: 1st G (Y), 1: 9th R (R), 1: 2nd G (R), 1: 2nd Y, 1: 6th Y (Y), 1: 2nd O, 1: 12th G",
+          "difficulty": "Expert",
+          "squeeze": 0.5,
+          "filename": "sweetvictory_davidgleneisleybobkulick_lead_sqz05.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-2-1-1-1-1-1-1",
+          "phrases": 12,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 121128,
+          "score": 163024,
+          "notes": "1: 7th G, 1: 8th G, 1: 3rd G, 1: 10th G, 2: 1st G (Y), 1: 9th R (R), 1: 2nd G (R), 1: 2nd Y, 1: 6th Y (Y), 1: 2nd O, 1: 12th G",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "sweetvictory_davidgleneisleybobkulick_lead_sqz04.png"
         }
       },
       "Bass": {
@@ -62997,6 +63069,18 @@
           "difficulty": "Expert",
           "squeeze": 0.3,
           "filename": "snowmix_marasyfthatsunemiku_lead_sqz03.png"
+        },
+        "0.4": {
+          "path": "3(+1)-1-1-4(+1)-1-2-2-2-1",
+          "phrases": 17,
+          "activations": 9,
+          "overlaps": 2,
+          "no_od_score": 236360,
+          "score": 314568,
+          "notes": "3(+1): 22nd O (Y), 1: 11th G (G), 1: NN (G), 4(+1): 12th Y (Y), 1: 6th R (G), 2: 2nd O, 2: 6th G, 2: 3rd Y (O), 1: 5th Y (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "snowmix_marasyfthatsunemiku_lead_sqz04.png"
         }
       },
       "Bass": {
@@ -63350,6 +63434,18 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "manchild_sabrinacarpenter_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 11,
+          "activations": 11,
+          "overlaps": 0,
+          "no_od_score": 106111,
+          "score": 141828,
+          "notes": "1: 9th Y, 1: 1st G (G), 1: 6th B, 1: 0.44 beats after 4th B (R), 1: 7th B (B), 1: 2nd B, 1: 4th B, 1: 1st Y, 1: 4th B (B), 1: 2nd B, 1: 4th G (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "manchild_sabrinacarpenter_vocals_sqz04.png"
         }
       },
       "Drums": {
@@ -63378,6 +63474,218 @@
           "difficulty": "Expert",
           "squeeze": 0.2,
           "filename": "manchild_sabrinacarpenter_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-1-1-1-2-1-1",
+          "phrases": 10,
+          "activations": 8,
+          "overlaps": 0,
+          "no_od_score": 166644,
+          "score": 218484,
+          "notes": "2: NN (R), 1: 39th R (G), 1: NN (B), 1: 14th R (G), 1: 27th R (G), 2: 1st R (R), 1: NN (R), 1: 17th R (G)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "manchild_sabrinacarpenter_bass_sqz04.png"
+        }
+      }
+    }
+  },
+  "Head Shot / Gas In The Truck - iShowSpeed": {
+    "shortname": "headshotgasinthetruckishowspeed",
+    "title": "Head Shot / Gas In The Truck",
+    "artist": "iShowSpeed",
+    "instruments": {
+      "Vocals": {
+        "0.2": {
+          "path": "1-1-1-1-2-1-1-4(+1)-1-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 162336,
+          "score": 211470,
+          "notes": "1: 5th Y (B), 1: NN (Y), 1: 17th Y (B), 1: 5th B (B), 2: 2nd B (Y), 1: 1st O, 1: 4th O (R), 4(+1): 3rd Y, 1: 3rd B, 1: 13th B, 1: 9th B",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "headshotgasinthetruck_ishowspeed_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-1-1-2-1-1-4(+1)-1-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 162336,
+          "score": 211524,
+          "notes": "1: 5th Y (B), 1: NN (Y), 1: 17th Y (B), 1: 5th B (B), 2: 2nd B (Y), 1: 1st O, 1: 4th O (R), 4(+1): 3rd Y, 1: 3rd B, 1: 13th B, 1: 9th B",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "headshotgasinthetruck_ishowspeed_vocals_sqz04.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3-1-1-2-1-1-1-2-1-1-1-1",
+          "phrases": 16,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 90888,
+          "score": 119547,
+          "notes": "3: 1st Y (G), 1: NN (B), 1: 2nd R (B), 2: 1st G (R), 1: 1st G (R), 1: 1st R (R), 1: 1st R (R), 2: 1st G (R), 1: NN (Y), 1: 3rd R (R), 1: 1st R (R), 1: 1st R (R)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "headshotgasinthetruck_ishowspeed_bass_sqz02.png"
+        },
+        "0.4": {
+          "path": "3-1-1-2-1-1-1-2-1-1-1-1",
+          "phrases": 16,
+          "activations": 12,
+          "overlaps": 0,
+          "no_od_score": 90888,
+          "score": 119619,
+          "notes": "3: 1st Y, 1: NN, 1: 2nd R, 2: 1st G, 1: 1st G, 1: 1st R, 1: 1st R, 2: 1st G, 1: NN, 1: 3rd R, 1: 1st R, 1: 1st R",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "headshotgasinthetruck_ishowspeed_bass_sqz04.png"
+        }
+      },
+      "Lead": {
+        "0.2": {
+          "path": "1-1-3(+1)-3-1-4(+1)-1",
+          "phrases": 14,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 98916,
+          "score": 128516,
+          "notes": "1: 7th Y (R), 1: 3rd G (B), 3(+1): 1st G (O), 3: 1st B (B), 1: NN (Y), 4(+1): 7 beats after 1st Y (R), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "headshotgasinthetruck_ishowspeed_lead_sqz02.png"
+        },
+        "0.4": {
+          "path": "1-1-3(+1)-3-1-4(+1)-1",
+          "phrases": 14,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 98916,
+          "score": 128544,
+          "notes": "1: 7th Y, 1: 3rd G, 3(+1): 1st G (O), 3: 4th Y, 1: NN, 4(+1): 6.9 beats after 1st Y (R), 1: NN",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "headshotgasinthetruck_ishowspeed_lead_sqz04.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "2-1-3(+1)-1-1-1-2-1-1-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 232272,
+          "score": 303696,
+          "notes": "2: 13th R (Y), 1: NN (Y), 3(+1): 27th R (Y), 1: 1st G (Y), 1: 3rd G (Y), 1: 3rd G (Y), 2: 9th R (Y), 1: 1st G (Y), 1: 14th G (Y), 1: 11th G (Y), 1: 9th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "headshotgasinthetruck_ishowspeed_drums_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-3(+1)-1-1-1-2-1-1-1-1",
+          "phrases": 15,
+          "activations": 11,
+          "overlaps": 1,
+          "no_od_score": 232272,
+          "score": 304704,
+          "notes": "2: 13th R (Y), 1: 36th Y (Y), 3(+1): 27th R (Y), 1: 2nd Y (Y), 1: 15th Y (Y), 1: 15th Y (Y), 2: 9th R (Y), 1: 2nd Y (Y), 1: 72nd Y (Y), 1: 65th Y (Y), 1: 9th R (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "headshotgasinthetruck_ishowspeed_drums_sqz04.png"
+        }
+      },
+      "Pro Lead": {
+        "0.2": {
+          "path": "1-1-3(+1)-3-1-4(+1)-1",
+          "phrases": 14,
+          "activations": 7,
+          "overlaps": 2,
+          "no_od_score": 104100,
+          "score": 138596,
+          "notes": "1: 7th Y (R), 1: 2nd G (B), 3(+1): 1st R (O), 3: 1st B (B), 1: NN (Y), 4(+1): 7 beats after 3rd Y (R), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "headshotgasinthetruck_ishowspeed_pro_lead_sqz02.png"
+        }
+      }
+    }
+  },
+  "The Power Of Love - Huey Lewis & The News": {
+    "shortname": "thepoweroflovehueylewisthenews",
+    "title": "The Power Of Love",
+    "artist": "Huey Lewis & The News",
+    "instruments": {
+      "Lead": {
+        "0.2": {
+          "path": "3(+1)-1-1-3(+1)-1-1",
+          "phrases": 10,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 197284,
+          "score": 254596,
+          "notes": "3(+1): 8th R (O), 1: 20th R (O), 1: 5th R (O), 3(+1): 26th R (B), 1: NN (O), 1: 7th R (B)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thepoweroflove_hueylewisthenews_lead_sqz02.png"
+        }
+      },
+      "Bass": {
+        "0.2": {
+          "path": "3(+1)-1-1-1-3(+1)-1",
+          "phrases": 10,
+          "activations": 6,
+          "overlaps": 2,
+          "no_od_score": 169992,
+          "score": 213192,
+          "notes": "3(+1): 5th O (O), 1: 9th Y (Y), 1: NN (R), 1: NN (G), 3(+1): 7th Y (Y), 1: NN (O)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thepoweroflove_hueylewisthenews_bass_sqz02.png"
+        }
+      },
+      "Vocals": {
+        "0.2": {
+          "path": "2-1-2-1-1-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 83645,
+          "score": 110333,
+          "notes": "2: 3rd R (R), 1: 2nd O, 2: 7th R (G), 1: 2nd O, 1: 3rd Y, 1: 5th Y (B), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thepoweroflove_hueylewisthenews_vocals_sqz02.png"
+        },
+        "0.4": {
+          "path": "2-1-2-1-1-1-1",
+          "phrases": 9,
+          "activations": 7,
+          "overlaps": 0,
+          "no_od_score": 83645,
+          "score": 110351,
+          "notes": "2: 3rd R (R), 1: 2nd O, 2: 7th R (G), 1: 2nd O, 1: 3rd Y, 1: 5th Y (B), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.4,
+          "filename": "thepoweroflove_hueylewisthenews_vocals_sqz04.png"
+        }
+      },
+      "Drums": {
+        "0.2": {
+          "path": "1-1-1-1-1-1-1-1-1-1-1-1-1",
+          "phrases": 13,
+          "activations": 13,
+          "overlaps": 0,
+          "no_od_score": 193104,
+          "score": 244080,
+          "notes": "1: 7th R (Y), 1: 4th R (Y), 1: NN (Y), 1: 3rd G (Y), 1: 6th R (Y), 1: NN (Y), 1: 15th R (Y), 1: NN (Y), 1: NN (Y), 1: 15th R (Y), 1: NN (Y), 1: NN (Y), 1: NN (Y)",
+          "difficulty": "Expert",
+          "squeeze": 0.2,
+          "filename": "thepoweroflove_hueylewisthenews_drums_sqz02.png"
         }
       }
     }
