@@ -56282,55 +56282,6 @@
       }
     }
   },
-  "Sunflower - Spider-Man: Into the Spider-Verse** - *Post Malone w/ Swae Lee": {
-    "shortname": "sunflowerspidermanintothespiderversepostmalonewswaelee",
-    "title": "Sunflower",
-    "artist": "Spider-Man: Into the Spider-Verse** - *Post Malone w/ Swae Lee",
-    "instruments": {
-      "Vocals": {
-        "0.2": {
-          "path": "1-1-2(+1)-1",
-          "phrases": 5,
-          "activations": 4,
-          "overlaps": 1,
-          "no_od_score": 79910,
-          "score": 107240,
-          "notes": "1: 7th Y (Y), 1: 4th O (O), 2(+1): 11th G (Y), 1: 9th B (B)",
-          "difficulty": "Expert",
-          "squeeze": 0.2,
-          "filename": "sunflower_spidermanintothespiderversepostmalonewswaelee_vocals_sqz02.png"
-        }
-      },
-      "Drums": {
-        "0.2": {
-          "path": "1-1-1-1-1",
-          "phrases": 5,
-          "activations": 5,
-          "overlaps": 0,
-          "no_od_score": 122688,
-          "score": 152208,
-          "notes": "1: NN (Y), 1: NN (Y), 1: NN (Y), 1: 3rd G (Y), 1: NN (Y)",
-          "difficulty": "Expert",
-          "squeeze": 0.2,
-          "filename": "sunflower_spidermanintothespiderversepostmalonewswaelee_drums_sqz02.png"
-        }
-      },
-      "Lead": {
-        "0.2": {
-          "path": "1-1(+1)-1-1-1",
-          "phrases": 5,
-          "activations": 5,
-          "overlaps": 1,
-          "no_od_score": 51771,
-          "score": 66783,
-          "notes": "1: NN (B), 1(+1): 15th R (G), 1: 15th R (G), 1: 3rd R (G), 1: 3rd Y (O)",
-          "difficulty": "Expert",
-          "squeeze": 0.2,
-          "filename": "sunflower_spidermanintothespiderversepostmalonewswaelee_lead_sqz02.png"
-        }
-      }
-    }
-  },
   "Move Your Feet - Junior Senior": {
     "shortname": "moveyourfeetjuniorsenior",
     "title": "Move Your Feet",
