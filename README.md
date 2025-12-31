@@ -2,7 +2,7 @@
 
 This repository contains **Festival Path Data** collected from *Festival Tracker* for public use.
 
-Total Paths: **2681**
+Total Paths: **2689**
 
 ## 📦 About
 
